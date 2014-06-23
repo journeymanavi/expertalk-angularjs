@@ -1,0 +1,899 @@
+[
+   {
+      "matchDate" : "20140612",
+      "matches" : [
+         {
+            "awayTeamId" : "43938",
+            "homeTeamName" : "Brazil",
+            "status" : "Full-time",
+            "time" : "17:00",
+            "date" : "12 Jun 2014",
+            "score" : {
+               "away" : "1",
+               "home" : "3"
+            },
+            "awayTeamName" : "Croatia",
+            "homeTeamId" : "43924",
+            "group" : "Group A",
+            "homeTeamCode" : "BRA",
+            "venue" : "Sao Paulo ",
+            "awayTeamCode" : "CRO",
+            "stadium" : "Arena de Sao Paulo"
+         }
+      ]
+   },
+   {
+      "matchDate" : "20140613",
+      "matches" : [
+         {
+            "awayTeamId" : "43849",
+            "homeTeamName" : "Mexico",
+            "status" : "Full-time",
+            "time" : "13:00",
+            "date" : "13 Jun 2014",
+            "score" : {
+               "away" : "0",
+               "home" : "1"
+            },
+            "awayTeamName" : "Cameroon",
+            "homeTeamId" : "43911",
+            "group" : "Group A",
+            "homeTeamCode" : "MEX",
+            "venue" : "Natal ",
+            "awayTeamCode" : "CMR",
+            "stadium" : "Estadio das Dunas"
+         },
+         {
+            "awayTeamId" : "43960",
+            "homeTeamName" : "Spain",
+            "status" : "Full-time",
+            "time" : "16:00",
+            "date" : "13 Jun 2014",
+            "score" : {
+               "away" : "5",
+               "home" : "1"
+            },
+            "awayTeamName" : "Netherlands",
+            "homeTeamId" : "43969",
+            "group" : "Group B",
+            "homeTeamCode" : "ESP",
+            "venue" : "Salvador",
+            "awayTeamCode" : "NED",
+            "stadium" : "Arena Fonte Nova"
+         },
+         {
+            "awayTeamId" : "43976",
+            "homeTeamName" : "Chile",
+            "status" : "Full-time",
+            "time" : "18:00",
+            "date" : "13 Jun 2014",
+            "score" : {
+               "away" : "1",
+               "home" : "3"
+            },
+            "awayTeamName" : "Australia",
+            "homeTeamId" : "43925",
+            "group" : "Group B",
+            "homeTeamCode" : "CHI",
+            "venue" : "Cuiaba ",
+            "awayTeamCode" : "AUS",
+            "stadium" : "Arena Pantanal"
+         }
+      ]
+   },
+   {
+      "matchDate" : "20140614",
+      "matches" : [
+         {
+            "awayTeamId" : "43949",
+            "homeTeamName" : "Colombia",
+            "status" : "Full-time",
+            "time" : "13:00",
+            "date" : "14 Jun 2014",
+            "score" : {
+               "away" : "0",
+               "home" : "3"
+            },
+            "awayTeamName" : "Greece",
+            "homeTeamId" : "43926",
+            "group" : "Group C",
+            "homeTeamCode" : "COL",
+            "venue" : "Belo Horizonte ",
+            "awayTeamCode" : "GRE",
+            "stadium" : "Estadio Mineirao"
+         },
+         {
+            "awayTeamId" : "43901",
+            "homeTeamName" : "Uruguay",
+            "status" : "Full-time",
+            "time" : "16:00",
+            "date" : "14 Jun 2014",
+            "score" : {
+               "away" : "3",
+               "home" : "1"
+            },
+            "awayTeamName" : "Costa Rica",
+            "homeTeamId" : "43930",
+            "group" : "Group D",
+            "homeTeamCode" : "URU",
+            "venue" : "Fortaleza ",
+            "awayTeamCode" : "CRC",
+            "stadium" : "Estadio Castelao"
+         },
+         {
+            "awayTeamId" : "43954",
+            "homeTeamName" : "England",
+            "status" : "Full-time",
+            "time" : "18:00",
+            "date" : "14 Jun 2014",
+            "score" : {
+               "away" : "2",
+               "home" : "1"
+            },
+            "awayTeamName" : "Italy",
+            "homeTeamId" : "43942",
+            "group" : "Group D",
+            "homeTeamCode" : "ENG",
+            "venue" : "Manaus ",
+            "awayTeamCode" : "ITA",
+            "stadium" : "Arena Amazonia"
+         },
+         {
+            "awayTeamId" : "43819",
+            "homeTeamName" : "Cote d'Ivoire",
+            "status" : "Full-time",
+            "time" : "22:00",
+            "date" : "14 Jun 2014",
+            "score" : {
+               "away" : "1",
+               "home" : "2"
+            },
+            "awayTeamName" : "Japan",
+            "homeTeamId" : "43854",
+            "group" : "Group C",
+            "homeTeamCode" : "CIV",
+            "venue" : "Recife ",
+            "awayTeamCode" : "JPN",
+            "stadium" : "Arena Pernambuco"
+         }
+      ]
+   },
+   {
+      "matchDate" : "20140615",
+      "matches" : [
+         {
+            "awayTeamId" : "43927",
+            "homeTeamName" : "Switzerland",
+            "status" : "Full-time",
+            "time" : "13:00",
+            "date" : "15 Jun 2014",
+            "score" : {
+               "away" : "1",
+               "home" : "2"
+            },
+            "awayTeamName" : "Ecuador",
+            "homeTeamId" : "43971",
+            "group" : "Group E",
+            "homeTeamCode" : "SUI",
+            "venue" : "Brasilia ",
+            "awayTeamCode" : "ECU",
+            "stadium" : "Estadio Nacional"
+         },
+         {
+            "awayTeamId" : "43909",
+            "homeTeamName" : "France",
+            "status" : "Full-time",
+            "time" : "16:00",
+            "date" : "15 Jun 2014",
+            "score" : {
+               "away" : "0",
+               "home" : "3"
+            },
+            "awayTeamName" : "Honduras",
+            "homeTeamId" : "43946",
+            "group" : "Group E",
+            "homeTeamCode" : "FRA",
+            "venue" : "Porto Alegre ",
+            "awayTeamCode" : "HON",
+            "stadium" : "Estadio Beira-Rio"
+         },
+         {
+            "awayTeamId" : "44037",
+            "homeTeamName" : "Argentina",
+            "status" : "Full-time",
+            "time" : "19:00",
+            "date" : "15 Jun 2014",
+            "score" : {
+               "away" : "1",
+               "home" : "2"
+            },
+            "awayTeamName" : "Bosnia and Herzegovina",
+            "homeTeamId" : "43922",
+            "group" : "Group F",
+            "homeTeamCode" : "ARG",
+            "venue" : "Rio De Janeiro ",
+            "awayTeamCode" : "BIH",
+            "stadium" : "Estadio do Maracana"
+         }
+      ]
+   },
+   {
+      "matchDate" : "20140616",
+      "matches" : [
+         {
+            "awayTeamId" : "43963",
+            "homeTeamName" : "Germany",
+            "status" : "Full-time",
+            "time" : "13:00",
+            "date" : "16 Jun 2014",
+            "score" : {
+               "away" : "0",
+               "home" : "4"
+            },
+            "awayTeamName" : "Portugal",
+            "homeTeamId" : "43948",
+            "group" : "Group G",
+            "homeTeamCode" : "GER",
+            "venue" : "Salvador",
+            "awayTeamCode" : "POR",
+            "stadium" : "Arena Fonte Nova"
+         },
+         {
+            "awayTeamId" : "43876",
+            "homeTeamName" : "Iran",
+            "status" : "Full-time",
+            "time" : "16:00",
+            "date" : "16 Jun 2014",
+            "score" : {
+               "away" : "0",
+               "home" : "0"
+            },
+            "awayTeamName" : "Nigeria",
+            "homeTeamId" : "43817",
+            "group" : "Group F",
+            "homeTeamCode" : "IRN",
+            "venue" : "Curitiba ",
+            "awayTeamCode" : "NGA",
+            "stadium" : "Arena da Baixada"
+         },
+         {
+            "awayTeamId" : "43921",
+            "homeTeamName" : "Ghana",
+            "status" : "Full-time",
+            "time" : "19:00",
+            "date" : "16 Jun 2014",
+            "score" : {
+               "away" : "2",
+               "home" : "1"
+            },
+            "awayTeamName" : "USA",
+            "homeTeamId" : "43860",
+            "group" : "Group G",
+            "homeTeamCode" : "GHA",
+            "venue" : "Natal ",
+            "awayTeamCode" : "USA",
+            "stadium" : "Estadio das Dunas"
+         }
+      ]
+   },
+   {
+      "matchDate" : "20140617",
+      "matches" : [
+         {
+            "awayTeamId" : "43843",
+            "homeTeamName" : "Belgium",
+            "status" : "Full-time",
+            "time" : "13:00",
+            "date" : "17 Jun 2014",
+            "score" : {
+               "away" : "1",
+               "home" : "2"
+            },
+            "awayTeamName" : "Algeria",
+            "homeTeamId" : "43935",
+            "group" : "Group H",
+            "homeTeamCode" : "BEL",
+            "venue" : "Belo Horizonte ",
+            "awayTeamCode" : "ALG",
+            "stadium" : "Estadio Mineirao"
+         },
+         {
+            "awayTeamId" : "43911",
+            "homeTeamName" : "Brazil",
+            "status" : "Full-time",
+            "time" : "16:00",
+            "date" : "17 Jun 2014",
+            "score" : {
+               "away" : "0",
+               "home" : "0"
+            },
+            "awayTeamName" : "Mexico",
+            "homeTeamId" : "43924",
+            "group" : "Group A",
+            "homeTeamCode" : "BRA",
+            "venue" : "Fortaleza ",
+            "awayTeamCode" : "MEX",
+            "stadium" : "Estadio Castelao"
+         },
+         {
+            "awayTeamId" : "43822",
+            "homeTeamName" : "Russia",
+            "status" : "Full-time",
+            "time" : "18:00",
+            "date" : "17 Jun 2014",
+            "score" : {
+               "away" : "1",
+               "home" : "1"
+            },
+            "awayTeamName" : "Korea Republic",
+            "homeTeamId" : "43965",
+            "group" : "Group H",
+            "homeTeamCode" : "RUS",
+            "venue" : "Cuiaba ",
+            "awayTeamCode" : "KOR",
+            "stadium" : "Arena Pantanal"
+         }
+      ]
+   },
+   {
+      "matchDate" : "20140618",
+      "matches" : [
+         {
+            "awayTeamId" : "43960",
+            "homeTeamName" : "Australia",
+            "status" : "Full-time",
+            "time" : "13:00",
+            "date" : "18 Jun 2014",
+            "score" : {
+               "away" : "3",
+               "home" : "2"
+            },
+            "awayTeamName" : "Netherlands",
+            "homeTeamId" : "43976",
+            "group" : "Group B",
+            "homeTeamCode" : "AUS",
+            "venue" : "Porto Alegre ",
+            "awayTeamCode" : "NED",
+            "stadium" : "Estadio Beira-Rio"
+         },
+         {
+            "awayTeamId" : "43925",
+            "homeTeamName" : "Spain",
+            "status" : "Full-time",
+            "time" : "16:00",
+            "date" : "18 Jun 2014",
+            "score" : {
+               "away" : "2",
+               "home" : "0"
+            },
+            "awayTeamName" : "Chile",
+            "homeTeamId" : "43969",
+            "group" : "Group B",
+            "homeTeamCode" : "ESP",
+            "venue" : "Rio De Janeiro ",
+            "awayTeamCode" : "CHI",
+            "stadium" : "Estadio do Maracana"
+         },
+         {
+            "awayTeamId" : "43938",
+            "homeTeamName" : "Cameroon",
+            "status" : "Full-time",
+            "time" : "18:00",
+            "date" : "18 Jun 2014",
+            "score" : {
+               "away" : "4",
+               "home" : "0"
+            },
+            "awayTeamName" : "Croatia",
+            "homeTeamId" : "43849",
+            "group" : "Group A",
+            "homeTeamCode" : "CMR",
+            "venue" : "Manaus ",
+            "awayTeamCode" : "CRO",
+            "stadium" : "Arena Amazonia"
+         }
+      ]
+   },
+   {
+      "matchDate" : "20140619",
+      "matches" : [
+         {
+            "awayTeamId" : "43854",
+            "homeTeamName" : "Colombia",
+            "status" : "Full-time",
+            "time" : "13:00",
+            "date" : "19 Jun 2014",
+            "score" : {
+               "away" : "1",
+               "home" : "2"
+            },
+            "awayTeamName" : "Cote d'Ivoire",
+            "homeTeamId" : "43926",
+            "group" : "Group C",
+            "homeTeamCode" : "COL",
+            "venue" : "Brasilia ",
+            "awayTeamCode" : "CIV",
+            "stadium" : "Estadio Nacional"
+         },
+         {
+            "awayTeamId" : "43942",
+            "homeTeamName" : "Uruguay",
+            "status" : "Full-time",
+            "time" : "16:00",
+            "date" : "19 Jun 2014",
+            "score" : {
+               "away" : "1",
+               "home" : "2"
+            },
+            "awayTeamName" : "England",
+            "homeTeamId" : "43930",
+            "group" : "Group D",
+            "homeTeamCode" : "URU",
+            "venue" : "Sao Paulo ",
+            "awayTeamCode" : "ENG",
+            "stadium" : "Arena de Sao Paulo"
+         },
+         {
+            "awayTeamId" : "43949",
+            "homeTeamName" : "Japan",
+            "status" : "Full-time",
+            "time" : "19:00",
+            "date" : "19 Jun 2014",
+            "score" : {
+               "away" : "0",
+               "home" : "0"
+            },
+            "awayTeamName" : "Greece",
+            "homeTeamId" : "43819",
+            "group" : "Group C",
+            "homeTeamCode" : "JPN",
+            "venue" : "Natal ",
+            "awayTeamCode" : "GRE",
+            "stadium" : "Estadio das Dunas"
+         }
+      ]
+   },
+   {
+      "matchDate" : "20140620",
+      "matches" : [
+         {
+            "awayTeamId" : "43901",
+            "homeTeamName" : "Italy",
+            "status" : "Full-time",
+            "time" : "13:00",
+            "date" : "20 Jun 2014",
+            "score" : {
+               "away" : "1",
+               "home" : "0"
+            },
+            "awayTeamName" : "Costa Rica",
+            "homeTeamId" : "43954",
+            "group" : "Group D",
+            "homeTeamCode" : "ITA",
+            "venue" : "Recife ",
+            "awayTeamCode" : "CRC",
+            "stadium" : "Arena Pernambuco"
+         },
+         {
+            "awayTeamId" : "43946",
+            "homeTeamName" : "Switzerland",
+            "status" : "Full-time",
+            "time" : "16:00",
+            "date" : "20 Jun 2014",
+            "score" : {
+               "away" : "5",
+               "home" : "2"
+            },
+            "awayTeamName" : "France",
+            "homeTeamId" : "43971",
+            "group" : "Group E",
+            "homeTeamCode" : "SUI",
+            "venue" : "Salvador",
+            "awayTeamCode" : "FRA",
+            "stadium" : "Arena Fonte Nova"
+         },
+         {
+            "awayTeamId" : "43927",
+            "homeTeamName" : "Honduras",
+            "status" : "Full-time",
+            "time" : "19:00",
+            "date" : "20 Jun 2014",
+            "score" : {
+               "away" : "2",
+               "home" : "1"
+            },
+            "awayTeamName" : "Ecuador",
+            "homeTeamId" : "43909",
+            "group" : "Group E",
+            "homeTeamCode" : "HON",
+            "venue" : "Curitiba ",
+            "awayTeamCode" : "ECU",
+            "stadium" : "Arena da Baixada"
+         }
+      ]
+   },
+   {
+      "matchDate" : "20140621",
+      "matches" : [
+         {
+            "awayTeamId" : "43817",
+            "homeTeamName" : "Argentina",
+            "status" : "Full-time",
+            "time" : "13:00",
+            "date" : "21 Jun 2014",
+            "score" : {
+               "away" : "0",
+               "home" : "1"
+            },
+            "awayTeamName" : "Iran",
+            "homeTeamId" : "43922",
+            "group" : "Group F",
+            "homeTeamCode" : "ARG",
+            "venue" : "Belo Horizonte ",
+            "awayTeamCode" : "IRN",
+            "stadium" : "Estadio Mineirao"
+         },
+         {
+            "awayTeamId" : "43860",
+            "homeTeamName" : "Germany",
+            "status" : "Full-time",
+            "time" : "16:00",
+            "date" : "21 Jun 2014",
+            "score" : {
+               "away" : "2",
+               "home" : "2"
+            },
+            "awayTeamName" : "Ghana",
+            "homeTeamId" : "43948",
+            "group" : "Group G",
+            "homeTeamCode" : "GER",
+            "venue" : "Fortaleza ",
+            "awayTeamCode" : "GHA",
+            "stadium" : "Estadio Castelao"
+         },
+         {
+            "awayTeamId" : "44037",
+            "homeTeamName" : "Nigeria",
+            "status" : "Full-time",
+            "time" : "18:00",
+            "date" : "21 Jun 2014",
+            "score" : {
+               "away" : "0",
+               "home" : "1"
+            },
+            "awayTeamName" : "Bosnia and Herzegovina",
+            "homeTeamId" : "43876",
+            "group" : "Group F",
+            "homeTeamCode" : "NGA",
+            "venue" : "Cuiaba ",
+            "awayTeamCode" : "BIH",
+            "stadium" : "Arena Pantanal"
+         }
+      ]
+   },
+   {
+      "matchDate" : "20140622",
+      "matches" : [
+         {
+            "awayTeamId" : "43965",
+            "homeTeamName" : "Belgium",
+            "status" : "Full-time",
+            "time" : "13:00",
+            "date" : "22 Jun 2014",
+            "score" : {
+               "away" : "0",
+               "home" : "1"
+            },
+            "awayTeamName" : "Russia",
+            "homeTeamId" : "43935",
+            "group" : "Group H",
+            "homeTeamCode" : "BEL",
+            "venue" : "Rio De Janeiro ",
+            "awayTeamCode" : "RUS",
+            "stadium" : "Estadio do Maracana"
+         },
+         {
+            "awayTeamId" : "43843",
+            "homeTeamName" : "Korea Republic",
+            "status" : "Full-time",
+            "time" : "16:00",
+            "date" : "22 Jun 2014",
+            "score" : {
+               "away" : "4",
+               "home" : "2"
+            },
+            "awayTeamName" : "Algeria",
+            "homeTeamId" : "43822",
+            "group" : "Group H",
+            "homeTeamCode" : "KOR",
+            "venue" : "Porto Alegre ",
+            "awayTeamCode" : "ALG",
+            "stadium" : "Estadio Beira-Rio"
+         },
+         {
+            "awayTeamId" : "43963",
+            "homeTeamName" : "USA",
+            "status" : "Full-time",
+            "time" : "18:00",
+            "date" : "22 Jun 2014",
+            "score" : {
+               "away" : "2",
+               "home" : "2"
+            },
+            "awayTeamName" : "Portugal",
+            "homeTeamId" : "43921",
+            "group" : "Group G",
+            "homeTeamCode" : "USA",
+            "venue" : "Manaus ",
+            "awayTeamCode" : "POR",
+            "stadium" : "Arena Amazonia"
+         }
+      ]
+   },
+   {
+      "matchDate" : "20140623",
+      "matches" : [
+         {
+            "awayTeamId" : "43925",
+            "homeTeamName" : "Netherlands",
+            "status" : "Full-time",
+            "time" : "13:00",
+            "date" : "23 Jun 2014",
+            "score" : {
+               "away" : "0",
+               "home" : "2"
+            },
+            "awayTeamName" : "Chile",
+            "homeTeamId" : "43960",
+            "group" : "Group B",
+            "homeTeamCode" : "NED",
+            "venue" : "Sao Paulo ",
+            "awayTeamCode" : "CHI",
+            "stadium" : "Arena de Sao Paulo"
+         },
+         {
+            "awayTeamId" : "43969",
+            "homeTeamName" : "Australia",
+            "status" : "Full-time",
+            "time" : "13:00",
+            "date" : "23 Jun 2014",
+            "score" : {
+               "away" : "3",
+               "home" : "0"
+            },
+            "awayTeamName" : "Spain",
+            "homeTeamId" : "43976",
+            "group" : "Group B",
+            "homeTeamCode" : "AUS",
+            "venue" : "Curitiba ",
+            "awayTeamCode" : "ESP",
+            "stadium" : "Arena da Baixada"
+         },
+         {
+            "awayTeamId" : "43924",
+            "homeTeamName" : "Cameroon",
+            "status" : "Scheduled",
+            "time" : "17:00",
+            "date" : "23 Jun 2014",
+            "score" : null,
+            "awayTeamName" : "Brazil",
+            "homeTeamId" : "43849",
+            "group" : "Group A",
+            "homeTeamCode" : "CMR",
+            "venue" : "Brasilia ",
+            "awayTeamCode" : "BRA",
+            "stadium" : "Estadio Nacional"
+         },
+         {
+            "awayTeamId" : "43911",
+            "homeTeamName" : "Croatia",
+            "status" : "Scheduled",
+            "time" : "17:00",
+            "date" : "23 Jun 2014",
+            "score" : null,
+            "awayTeamName" : "Mexico",
+            "homeTeamId" : "43938",
+            "group" : "Group A",
+            "homeTeamCode" : "CRO",
+            "venue" : "Recife ",
+            "awayTeamCode" : "MEX",
+            "stadium" : "Arena Pernambuco"
+         }
+      ]
+   },
+   {
+      "matchDate" : "20140624",
+      "matches" : [
+         {
+            "awayTeamId" : "43930",
+            "homeTeamName" : "Italy",
+            "status" : "Scheduled",
+            "time" : "13:00",
+            "date" : "24 Jun 2014",
+            "score" : null,
+            "awayTeamName" : "Uruguay",
+            "homeTeamId" : "43954",
+            "group" : "Group D",
+            "homeTeamCode" : "ITA",
+            "venue" : "Natal ",
+            "awayTeamCode" : "URU",
+            "stadium" : "Estadio das Dunas"
+         },
+         {
+            "awayTeamId" : "43942",
+            "homeTeamName" : "Costa Rica",
+            "status" : "Scheduled",
+            "time" : "13:00",
+            "date" : "24 Jun 2014",
+            "score" : null,
+            "awayTeamName" : "England",
+            "homeTeamId" : "43901",
+            "group" : "Group D",
+            "homeTeamCode" : "CRC",
+            "venue" : "Belo Horizonte ",
+            "awayTeamCode" : "ENG",
+            "stadium" : "Estadio Mineirao"
+         },
+         {
+            "awayTeamId" : "43926",
+            "homeTeamName" : "Japan",
+            "status" : "Scheduled",
+            "time" : "16:00",
+            "date" : "24 Jun 2014",
+            "score" : null,
+            "awayTeamName" : "Colombia",
+            "homeTeamId" : "43819",
+            "group" : "Group C",
+            "homeTeamCode" : "JPN",
+            "venue" : "Cuiaba ",
+            "awayTeamCode" : "COL",
+            "stadium" : "Arena Pantanal"
+         },
+         {
+            "awayTeamId" : "43854",
+            "homeTeamName" : "Greece",
+            "status" : "Scheduled",
+            "time" : "17:00",
+            "date" : "24 Jun 2014",
+            "score" : null,
+            "awayTeamName" : "Cote d'Ivoire",
+            "homeTeamId" : "43949",
+            "group" : "Group C",
+            "homeTeamCode" : "GRE",
+            "venue" : "Fortaleza ",
+            "awayTeamCode" : "CIV",
+            "stadium" : "Estadio Castelao"
+         }
+      ]
+   },
+   {
+      "matchDate" : "20140625",
+      "matches" : [
+         {
+            "awayTeamId" : "43922",
+            "homeTeamName" : "Nigeria",
+            "status" : "Scheduled",
+            "time" : "13:00",
+            "date" : "25 Jun 2014",
+            "score" : null,
+            "awayTeamName" : "Argentina",
+            "homeTeamId" : "43876",
+            "group" : "Group F",
+            "homeTeamCode" : "NGA",
+            "venue" : "Porto Alegre ",
+            "awayTeamCode" : "ARG",
+            "stadium" : "Estadio Beira-Rio"
+         },
+         {
+            "awayTeamId" : "43817",
+            "homeTeamName" : "Bosnia and Herzegovina",
+            "status" : "Scheduled",
+            "time" : "13:00",
+            "date" : "25 Jun 2014",
+            "score" : null,
+            "awayTeamName" : "Iran",
+            "homeTeamId" : "44037",
+            "group" : "Group F",
+            "homeTeamCode" : "BIH",
+            "venue" : "Salvador",
+            "awayTeamCode" : "IRN",
+            "stadium" : "Arena Fonte Nova"
+         },
+         {
+            "awayTeamId" : "43971",
+            "homeTeamName" : "Honduras",
+            "status" : "Scheduled",
+            "time" : "16:00",
+            "date" : "25 Jun 2014",
+            "score" : null,
+            "awayTeamName" : "Switzerland",
+            "homeTeamId" : "43909",
+            "group" : "Group E",
+            "homeTeamCode" : "HON",
+            "venue" : "Manaus ",
+            "awayTeamCode" : "SUI",
+            "stadium" : "Arena Amazonia"
+         },
+         {
+            "awayTeamId" : "43946",
+            "homeTeamName" : "Ecuador",
+            "status" : "Scheduled",
+            "time" : "17:00",
+            "date" : "25 Jun 2014",
+            "score" : null,
+            "awayTeamName" : "France",
+            "homeTeamId" : "43927",
+            "group" : "Group E",
+            "homeTeamCode" : "ECU",
+            "venue" : "Rio De Janeiro ",
+            "awayTeamCode" : "FRA",
+            "stadium" : "Estadio do Maracana"
+         }
+      ]
+   },
+   {
+      "matchDate" : "20140626",
+      "matches" : [
+         {
+            "awayTeamId" : "43860",
+            "homeTeamName" : "Portugal",
+            "status" : "Scheduled",
+            "time" : "13:00",
+            "date" : "26 Jun 2014",
+            "score" : null,
+            "awayTeamName" : "Ghana",
+            "homeTeamId" : "43963",
+            "group" : "Group G",
+            "homeTeamCode" : "POR",
+            "venue" : "Brasilia ",
+            "awayTeamCode" : "GHA",
+            "stadium" : "Estadio Nacional"
+         },
+         {
+            "awayTeamId" : "43948",
+            "homeTeamName" : "USA",
+            "status" : "Scheduled",
+            "time" : "13:00",
+            "date" : "26 Jun 2014",
+            "score" : null,
+            "awayTeamName" : "Germany",
+            "homeTeamId" : "43921",
+            "group" : "Group G",
+            "homeTeamCode" : "USA",
+            "venue" : "Recife ",
+            "awayTeamCode" : "GER",
+            "stadium" : "Arena Pernambuco"
+         },
+         {
+            "awayTeamId" : "43935",
+            "homeTeamName" : "Korea Republic",
+            "status" : "Scheduled",
+            "time" : "17:00",
+            "date" : "26 Jun 2014",
+            "score" : null,
+            "awayTeamName" : "Belgium",
+            "homeTeamId" : "43822",
+            "group" : "Group H",
+            "homeTeamCode" : "KOR",
+            "venue" : "Sao Paulo ",
+            "awayTeamCode" : "BEL",
+            "stadium" : "Arena de Sao Paulo"
+         },
+         {
+            "awayTeamId" : "43965",
+            "homeTeamName" : "Algeria",
+            "status" : "Scheduled",
+            "time" : "17:00",
+            "date" : "26 Jun 2014",
+            "score" : null,
+            "awayTeamName" : "Russia",
+            "homeTeamId" : "43843",
+            "group" : "Group H",
+            "homeTeamCode" : "ALG",
+            "venue" : "Curitiba ",
+            "awayTeamCode" : "RUS",
+            "stadium" : "Arena da Baixada"
+         }
+      ]
+   }
+]

@@ -11,26 +11,34 @@ use JSON;
 my $DOWNLOAD_PLAYER_IMAGES = 0;
 my $DOWNLOAD_FLAG_IMAGES = 0;
 my $DOWNLOAD_LOGO_IMAGES = 0;
+my $IMG_DIR = "../fifaworldcup/src/main/webapp/WEB-INF/img";
+my $DATA_DIR = "../fifaworldcup/src/main/resources";
 my $DEBUG = 0;
 
 my $start = time();
 
 out("Getting Players data");
-my ($playersById, $playersByTeamId) = getPLayers();
-print to_json($playersById, {pretty => 1});
-print to_json($playersByTeamId, {pretty => 1});
+my ($players, $playersByTeamId) = getPLayers();
+open PLAYER_FILE, ">", "${DATA_DIR}/players.json" or die "Failed to open player data file for writing: $!";
+print PLAYER_FILE to_json($players, {pretty => 1});
+close PLAYER_FILE;
+#print to_json($playersByTeamId, {pretty => 1});
 
 out("Getting Groups data");
 my $groups = getGroups();
-print to_json($groups, {pretty => 1}) if $DEBUG;
+#print to_json($groups, {pretty => 1}) if $DEBUG;
 
 out("Getting Teams data");
 my $teams = getTeams(1);
-print to_json($teams, {pretty => 1});
+open TEAM_FILE, ">", "${DATA_DIR}/teams.json" or die "Failed to open teams data file for writing: $!";
+print TEAM_FILE to_json($teams, {pretty => 1});
+close TEAM_FILE;
 
 out("Getting Matches data");
-my $matehs = getMatches();
-print to_json($matehs, {pretty => 1});
+my $matches = getMatches();
+open MATCHES_FILE, ">", "${DATA_DIR}/matches.json" or die "Failed to open matches data file for writing: $!";
+print MATCHES_FILE to_json($matches, {pretty => 1});
+close MATCHES_FILE;
 
 out("Done");
 
@@ -80,11 +88,15 @@ sub getMatches {
 	# open IN, "<", "./matches-page.html" or die $!;
 	# { local $/ = undef; $matchesURI = <IN>; }
 
-	my $matches = {};
-	for my $date (@{$matchesScraper->scrape($matchesURI)->{dates}}) {
-		$matches->{$date->{matchDate}} = $date->{matches};
-	}
-	return $matches;
+	# Map of matches by date
+	# my $matches = {};
+	# for my $date (@{$matchesScraper->scrape($matchesURI)->{dates}}) {
+	# 	$matches->{$date->{matchDate}} = $date->{matches};
+	# }
+	# return $matches;
+
+	#List of matches
+	return $matchesScraper->scrape($matchesURI)->{dates};
 }
 
 sub out {
@@ -109,7 +121,7 @@ sub getPLayers {
 		4 => 'Forward'
 	};
 
-	my $playersById  = {};
+	my $players  = [];
 
 	my $playersByTeamId = {};
 
@@ -135,19 +147,19 @@ sub getPLayers {
 			dob => $rawPlayer->{birthdate},
 			jerseyNumber => $rawPlayer->{bibnum}
 		};
-		$playersById->{$playerId} = $player;
+		push @{$players}, $player;
 		push @{$playersByTeamId->{$teamId}}, $player;
 
 		if ($DOWNLOAD_PLAYER_IMAGES) {
 			my $playerImageURL = "'http://img.fifa.com/images/fwc/2014/players/prt-3/${playerId}.png'";
 			out "Downloading Player image for playerId [$playerId] using url [$playerImageURL]";
-			if (system("wget -q $playerImageURL -O ./img/player/$playerId.png")) {
+			if (system("wget -q $playerImageURL -O ${IMG_DIR}/player/$playerId.png")) {
 				out "[WARNING] - failed to download Player image for playerId [$playerId] : $!";
 			}
 		}
 	}
 
-	return ($playersById, $playersByTeamId);
+	return ($players, $playersByTeamId);
 }
 
 sub populateTeamDetails {
@@ -160,25 +172,25 @@ sub populateTeamDetails {
 		};
 	};
 
-	for my $team (keys(%$teams)) {
-		my $teamId = $teams->{$team}->{id};
+	for my $team (@$teams) {
+		my $teamId = $team->{id};
 		my $url = "http://www.fifa.com/worldcup/teams/team=${teamId}/profile.html";
-		out "populating profile for team [$team] with id [$teamId] usinf URL [$url]";
+		out "populating profile for team [$team->{name}] with id [$teamId] usinf URL [$url]";
 		my $teamProfileURI = new URI($url);
 		my $profileItems = $teamProfileScraper->scrape($teamProfileURI)->{items};
 		for my $profileItem (@$profileItems) {
 			$profileItem->{item} =~ s/Last Updated.*$//;
 		}
-		$teams->{$team}->{profile} = $profileItems;
-		$teams->{$team}->{players} = $playersByTeamId->{$teamId};
+		$team->{profile} = $profileItems;
+		$team->{players} = $playersByTeamId->{$teamId};
 
-		my $countryCode = lc($teams->{$team}->{code});
+		my $countryCode = lc($team->{code});
 
 		if ($DOWNLOAD_LOGO_IMAGES) {
 			my $logoFileName = "${countryCode}.gif";
 			my $teamLogoImageURL = "'http://img.fifa.com/images/logos/m/$logoFileName'";
 			out "Downloading Team Logo image for teamId [$teamId] using url [$teamLogoImageURL]";
-			if (system("wget -q $teamLogoImageURL -O ./img/team-logo/$logoFileName")) {
+			if (system("wget -q $teamLogoImageURL -O ${IMG_DIR}/team-logo/$logoFileName")) {
 				out "[WARNING] - failed to download Team Logo image for teamId [$teamId] : $!";
 			}
 		}
@@ -188,7 +200,7 @@ sub populateTeamDetails {
 			my $size = $countryCode eq 'nga' ? '4' : '5';
 			my $flagImageURL = "'http://img.fifa.com/images/flags/$size/$flagFileName'";
 			out "Downloading Flag image for teamId [$teamId] using url [$flagImageURL]";
-			if (system("wget -q $flagImageURL -O ./img/flag/$flagFileName")) {
+			if (system("wget -q $flagImageURL -O ${IMG_DIR}/flag/$flagFileName")) {
 				out "[WARNING] - failed to download Flag image for teamId [$teamId] : $!";
 			}
 		}
@@ -196,233 +208,6 @@ sub populateTeamDetails {
 }
 
 sub getTeams {
-	my $teamsProfile = {
-					'Uruguay' => {
-											 'group' => 'Group D',
-											 'name' => 'Uruguay',
-											 'id' => '43930',
-											 'code' => 'URU',
-											 'profileUrl' => '/worldcup/teams/team=43930/index.html'
-										 },
-					'Australia' => {
-												 'group' => 'Group B',
-												 'name' => 'Australia',
-												 'id' => '43976',
-												 'code' => 'AUS',
-												 'profileUrl' => '/worldcup/teams/team=43976/index.html'
-											 },
-					'Switzerland' => {
-													 'group' => 'Group E',
-													 'name' => 'Switzerland',
-													 'id' => '43971',
-													 'code' => 'SUI',
-													 'profileUrl' => '/worldcup/teams/team=43971/index.html'
-												 },
-					'Korea Republic' => {
-															'group' => 'Group H',
-															'name' => 'Korea Republic',
-															'id' => '43822',
-															'code' => 'KOR',
-															'profileUrl' => '/worldcup/teams/team=43822/index.html'
-														},
-					'England' => {
-											 'group' => 'Group D',
-											 'name' => 'England',
-											 'id' => '43942',
-											 'code' => 'ENG',
-											 'profileUrl' => '/worldcup/teams/team=43942/index.html'
-										 },
-					'Iran' => {
-										'group' => 'Group F',
-										'name' => 'Iran',
-										'id' => '43817',
-										'code' => 'IRN',
-										'profileUrl' => '/worldcup/teams/team=43817/index.html'
-									},
-					'Argentina' => {
-												 'group' => 'Group F',
-												 'name' => 'Argentina',
-												 'id' => '43922',
-												 'code' => 'ARG',
-												 'profileUrl' => '/worldcup/teams/team=43922/index.html'
-											 },
-					'Russia' => {
-											'group' => 'Group H',
-											'name' => 'Russia',
-											'id' => '43965',
-											'code' => 'RUS',
-											'profileUrl' => '/worldcup/teams/team=43965/index.html'
-										},
-					'Honduras' => {
-												'group' => 'Group E',
-												'name' => 'Honduras',
-												'id' => '43909',
-												'code' => 'HON',
-												'profileUrl' => '/worldcup/teams/team=43909/index.html'
-											},
-					'Portugal' => {
-												'group' => 'Group G',
-												'name' => 'Portugal',
-												'id' => '43963',
-												'code' => 'POR',
-												'profileUrl' => '/worldcup/teams/team=43963/index.html'
-											},
-					'Nigeria' => {
-											 'group' => 'Group F',
-											 'name' => 'Nigeria',
-											 'id' => '43876',
-											 'code' => 'NGA',
-											 'profileUrl' => '/worldcup/teams/team=43876/index.html'
-										 },
-					'Cameroon' => {
-												'group' => 'Group A',
-												'name' => 'Cameroon',
-												'id' => '43849',
-												'code' => 'CMR',
-												'profileUrl' => '/worldcup/teams/team=43849/index.html'
-											},
-					'Greece' => {
-											'group' => 'Group C',
-											'name' => 'Greece',
-											'id' => '43949',
-											'code' => 'GRE',
-											'profileUrl' => '/worldcup/teams/team=43949/index.html'
-										},
-					'Italy' => {
-										 'group' => 'Group D',
-										 'name' => 'Italy',
-										 'id' => '43954',
-										 'code' => 'ITA',
-										 'profileUrl' => '/worldcup/teams/team=43954/index.html'
-									 },
-					'Germany' => {
-											 'group' => 'Group G',
-											 'name' => 'Germany',
-											 'id' => '43948',
-											 'code' => 'GER',
-											 'profileUrl' => '/worldcup/teams/team=43948/index.html'
-										 },
-					'Ghana' => {
-										 'group' => 'Group G',
-										 'name' => 'Ghana',
-										 'id' => '43860',
-										 'code' => 'GHA',
-										 'profileUrl' => '/worldcup/teams/team=43860/index.html'
-									 },
-					'Belgium' => {
-											 'group' => 'Group H',
-											 'name' => 'Belgium',
-											 'id' => '43935',
-											 'code' => 'BEL',
-											 'profileUrl' => '/worldcup/teams/team=43935/index.html'
-										 },
-					'Mexico' => {
-											'group' => 'Group A',
-											'name' => 'Mexico',
-											'id' => '43911',
-											'code' => 'MEX',
-											'profileUrl' => '/worldcup/teams/team=43911/index.html'
-										},
-					'Chile' => {
-										 'group' => 'Group B',
-										 'name' => 'Chile',
-										 'id' => '43925',
-										 'code' => 'CHI',
-										 'profileUrl' => '/worldcup/teams/team=43925/index.html'
-									 },
-					'Colombia' => {
-												'group' => 'Group C',
-												'name' => 'Colombia',
-												'id' => '43926',
-												'code' => 'COL',
-												'profileUrl' => '/worldcup/teams/team=43926/index.html'
-											},
-					'USA' => {
-									 'group' => 'Group G',
-									 'name' => 'USA',
-									 'id' => '43921',
-									 'code' => 'USA',
-									 'profileUrl' => '/worldcup/teams/team=43921/index.html'
-								 },
-					'Netherlands' => {
-													 'group' => 'Group B',
-													 'name' => 'Netherlands',
-													 'id' => '43960',
-													 'code' => 'NED',
-													 'profileUrl' => '/worldcup/teams/team=43960/index.html'
-												 },
-					'Brazil' => {
-											'group' => 'Group A',
-											'name' => 'Brazil',
-											'id' => '43924',
-											'code' => 'BRA',
-											'profileUrl' => '/worldcup/teams/team=43924/index.html'
-										},
-					'Japan' => {
-										 'group' => 'Group C',
-										 'name' => 'Japan',
-										 'id' => '43819',
-										 'code' => 'JPN',
-										 'profileUrl' => '/worldcup/teams/team=43819/index.html'
-									 },
-					'Costa Rica' => {
-													'group' => 'Group D',
-													'name' => 'Costa Rica',
-													'id' => '43901',
-													'code' => 'CRC',
-													'profileUrl' => '/worldcup/teams/team=43901/index.html'
-												},
-					'France' => {
-											'group' => 'Group E',
-											'name' => 'France',
-											'id' => '43946',
-											'code' => 'FRA',
-											'profileUrl' => '/worldcup/teams/team=43946/index.html'
-										},
-					'Ecuador' => {
-											 'group' => 'Group E',
-											 'name' => 'Ecuador',
-											 'id' => '43927',
-											 'code' => 'ECU',
-											 'profileUrl' => '/worldcup/teams/team=43927/index.html'
-										 },
-					'Bosnia and Herzegovina' => {
-																			'group' => 'Group F',
-																			'name' => 'Bosnia and Herzegovina',
-																			'id' => '44037',
-																			'code' => 'BIH',
-																			'profileUrl' => '/worldcup/teams/team=44037/index.html'
-																		},
-					'Croatia' => {
-											 'group' => 'Group A',
-											 'name' => 'Croatia',
-											 'id' => '43938',
-											 'code' => 'CRO',
-											 'profileUrl' => '/worldcup/teams/team=43938/index.html'
-										 },
-					'Algeria' => {
-											 'group' => 'Group H',
-											 'name' => 'Algeria',
-											 'id' => '43843',
-											 'code' => 'ALG',
-											 'profileUrl' => '/worldcup/teams/team=43843/index.html'
-										 },
-					'Spain' => {
-										 'group' => 'Group B',
-										 'name' => 'Spain',
-										 'id' => '43969',
-										 'code' => 'ESP',
-										 'profileUrl' => '/worldcup/teams/team=43969/index.html'
-									 },
-					'Cote d\'Ivoire' => {
-														 'group' => 'Group C',
-														 'name' => 'Cote d\'Ivoire',
-														 'id' => '43854',
-														 'code' => 'CIV',
-														 'profileUrl' => '/worldcup/teams/team=43854/index.html'
-													 }
-				};
-
 	my $teamLogoUrl = "http://img.fifa.com/images/logos/m/alg.gif";
 
 	if (shift) {
@@ -441,7 +226,11 @@ sub getTeams {
 
 		my $teamsURI = new URI('http://www.fifa.com/worldcup/teams/index.html');
 
-		$teams = {map {$_->{name} => $_} @{$teamsScraper->scrape($teamsURI)->{teams}}};
+		# Teams as Map
+		#$teams = {map {$_->{name} => $_} @{$teamsScraper->scrape($teamsURI)->{teams}}};
+
+		# Teams as list
+		$teams = $teamsScraper->scrape($teamsURI)->{teams};
 	}
 
 	populateTeamDetails($teams);
