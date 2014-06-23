@@ -9,7 +9,7 @@ use Data::Dumper;
 use JSON;
 
 my $DOWNLOAD_PLAYER_IMAGES = 0;
-my $DOWNLOAD_FLAG_IMAGES = 1;
+my $DOWNLOAD_FLAG_IMAGES = 0;
 my $DOWNLOAD_LOGO_IMAGES = 0;
 my $DEBUG = 0;
 
@@ -17,27 +17,88 @@ my $start = time();
 
 out("Getting Players data");
 my ($playersById, $playersByTeamId) = getPLayers();
-print Dumper($playersById) if $DEBUG;
-print Dumper($playersByTeamId) if $DEBUG;
+print to_json($playersById, {pretty => 1});
+print to_json($playersByTeamId, {pretty => 1});
 
 out("Getting Groups data");
 my $groups = getGroups();
-print Dumper($groups) if $DEBUG;
+print to_json($groups, {pretty => 1}) if $DEBUG;
 
 out("Getting Teams data");
 my $teams = getTeams(1);
-print Dumper($teams) if $DEBUG;
+print to_json($teams, {pretty => 1});
+
+out("Getting Matches data");
+my $matehs = getMatches();
+print to_json($matehs, {pretty => 1});
 
 out("Done");
 
 exit 0;
 
+sub getMatches {
+	my $datesSelector = join(",", (map {"div[id^=\"201406$_\"]"} (1,20..26)));
+	my $matchesScraper = scraper {
+		process $datesSelector, 'dates[]' => scraper {
+			process 'div', matchDate => '@id';
+			process 'div.result,div.fixture,div.live', 'matches[]' => scraper {
+				process '.mu-i-date', date => 'TEXT';
+				process '.mu-i-datetime', time => sub {
+					my $time = ($_->content_list())[0];
+					$time =~ /(\d{2}:\d{2})/ ? return $1 : return undef;
+				};
+				
+				process '.mu-i-group', group => 'TEXT';
+				process '.mu-i-stadium', stadium => 'TEXT';
+				process '.mu-i-venue', venue => 'TEXT';
+				
+				process '.mu-m .home', homeTeamId => '@data-team-id';
+				process '.mu-m .home .t-nText', homeTeamName => sub {scrubTeamName($_->as_trimmed_text())};
+				process '.mu-m .home .t-nTri', homeTeamCode => 'TEXT';
+				
+				process '.mu-m .away', awayTeamId => '@data-team-id';
+				process '.mu-m .away .t-nText', awayTeamName => sub {scrubTeamName($_->as_trimmed_text())};
+				process '.mu-m .away .t-nTri', awayTeamCode => 'TEXT';
+				
+				process 'div', status => sub {
+					my $class = $_->attr('class');
+					$class =~ /fixture/ ? 'Scheduled' : ($class =~ /live/ ? 'Live' : ($class =~ /result/ ? 'Full-time' : ''));
+				};
+
+				process '.s-scoreText', score => sub {
+					my $scoreText = $_->as_text();
+					$scoreText =~ /(\d+)-(\d+)/ ? return {home => $1, away => $2} : undef;
+				};
+			};
+		};
+	};
+
+	my $matchesURI = new URI('http://www.fifa.com/worldcup/matches/index.html');
+
+	# read from file
+	# my $matchesURI;
+	# open IN, "<", "./matches-page.html" or die $!;
+	# { local $/ = undef; $matchesURI = <IN>; }
+
+	my $matches = {};
+	for my $date (@{$matchesScraper->scrape($matchesURI)->{dates}}) {
+		$matches->{$date->{matchDate}} = $date->{matches};
+	}
+	return $matches;
+}
+
 sub out {
-	print seconds()." ".shift."\n";
+	print STDERR seconds()." ".shift."\n";
 }
 
 sub seconds {
 	return time() - $start;
+}
+
+sub scrubTeamName {
+	my $teamName = shift;
+	$teamName =~ s/\x{f4}/o/ if defined($teamName);
+	return $teamName;
 }
 
 sub getPLayers {
@@ -66,7 +127,7 @@ sub getPLayers {
 		my $player = {
 			id => $playerId,
 			name => $rawPlayer->{webname},
-			teamName => $rawPlayer->{teamname},
+			teamName => scrubTeamName($rawPlayer->{teamname}),
 			teamId => $teamId,
 			teamCode => $rawPlayer->{countrycode},
 			club => $rawPlayer->{clubname},
@@ -79,9 +140,9 @@ sub getPLayers {
 
 		if ($DOWNLOAD_PLAYER_IMAGES) {
 			my $playerImageURL = "'http://img.fifa.com/images/fwc/2014/players/prt-3/${playerId}.png'";
-			print "Downloading Player image for playerId [$playerId] using url [$playerImageURL]\n";
+			out "Downloading Player image for playerId [$playerId] using url [$playerImageURL]";
 			if (system("wget -q $playerImageURL -O ./img/player/$playerId.png")) {
-				print "[WARNING] - failed to download Player image for playerId [$playerId] : $!\n";
+				out "[WARNING] - failed to download Player image for playerId [$playerId] : $!";
 			}
 		}
 	}
@@ -102,7 +163,7 @@ sub populateTeamDetails {
 	for my $team (keys(%$teams)) {
 		my $teamId = $teams->{$team}->{id};
 		my $url = "http://www.fifa.com/worldcup/teams/team=${teamId}/profile.html";
-		print "populating profile for team [$team] with id [$teamId] usinf URL [$url]\n";
+		out "populating profile for team [$team] with id [$teamId] usinf URL [$url]";
 		my $teamProfileURI = new URI($url);
 		my $profileItems = $teamProfileScraper->scrape($teamProfileURI)->{items};
 		for my $profileItem (@$profileItems) {
@@ -116,9 +177,9 @@ sub populateTeamDetails {
 		if ($DOWNLOAD_LOGO_IMAGES) {
 			my $logoFileName = "${countryCode}.gif";
 			my $teamLogoImageURL = "'http://img.fifa.com/images/logos/m/$logoFileName'";
-			print "Downloading Team Logo image for teamId [$teamId] using url [$teamLogoImageURL]\n";
+			out "Downloading Team Logo image for teamId [$teamId] using url [$teamLogoImageURL]";
 			if (system("wget -q $teamLogoImageURL -O ./img/team-logo/$logoFileName")) {
-				print "[WARNING] - failed to download Team Logo image for teamId [$teamId] : $!\n";
+				out "[WARNING] - failed to download Team Logo image for teamId [$teamId] : $!";
 			}
 		}
 
@@ -126,9 +187,9 @@ sub populateTeamDetails {
 			my $flagFileName = "${countryCode}.png";
 			my $size = $countryCode eq 'nga' ? '4' : '5';
 			my $flagImageURL = "'http://img.fifa.com/images/flags/$size/$flagFileName'";
-			print "Downloading Flag image for teamId [$teamId] using url [$flagImageURL]\n";
+			out "Downloading Flag image for teamId [$teamId] using url [$flagImageURL]";
 			if (system("wget -q $flagImageURL -O ./img/flag/$flagFileName")) {
-				print "[WARNING] - failed to download Flag image for teamId [$teamId] : $!\n";
+				out "[WARNING] - failed to download Flag image for teamId [$teamId] : $!";
 			}
 		}
 	}
@@ -371,11 +432,7 @@ sub getTeams {
 					$1 if $_->attr('href') =~ /team=(\d+)/;
 				},
 				code => '@id',
-				name => sub {
-					my $teamName = $_->attr('title');
-					$teamName =~ s/\x{f4}/o/ if defined($teamName);
-					return $teamName;
-				},
+				name => sub {scrubTeamName($_->attr('title'))},
 				'group' => sub {
 					$groups->{$_->attr('data-idgroup')}
 				}
