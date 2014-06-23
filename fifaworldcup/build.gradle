@@ -1,0 +1,2 @@
+apply plugin: "jetty"
+apply plugin: "idea"
