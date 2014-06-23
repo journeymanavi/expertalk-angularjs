@@ -21,11 +21,16 @@
 		</script>
 	</head>
 	<body ng-app>
+		<input type="text" placeholder="filter" ng-model="teamFilter.name">
 		<ul ng-controller="ctrl">
-			<input type="text" placeholder="filter" ng-model="teamFilter.name">
 			<li ng-repeat="team in teams | filter:teamFilter">
-				<img class="small-flag" ng-src="img/flag/{{team.code | lowercase}}.png" alt="{{tea.code}}">
+				<img class="small-flag" ng-src="img/flag/{{team.code | lowercase}}.png" alt="{{team.code}}">
 				{{team.name}}
+				<div ng-repeat="player in team.players | orderBy:'jerseyNumber'">
+					{{player.jerseyNumber}}
+					{{player.name}}
+					{{player.fieldPosition}}
+				</div>
 			</li>
 		</ul>
 	</body>
