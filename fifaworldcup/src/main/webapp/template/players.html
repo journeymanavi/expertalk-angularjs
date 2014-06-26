@@ -1,0 +1,23 @@
+<input class="player-filter" type="text" name="" ng-model="playerFilter" placeholder="search by anything">
+<div class="players-page-item" ng-repeat="player in players | orderBy:'name' | filter:playerFilter">
+	<div class="div-table">
+		<div class="div-table-row">
+			<div class="players-page-div-table-logo-cell">
+				<img class="players-page-div-table-logo" ng-src="img/player/{{player.id}}.png">
+			</div>
+			<div class="div-table-details-cell">
+				<div class="players-page-div-table-details-heading">
+					<!-- <img class="small-flag div-table-details-heading-flag" ng-src="img/flag/{{player.teamCode | lowercase}}.png"> -->
+					<span class="div-table-details-heading-team-name">{{player.name}}</span>
+				</div>
+				<!-- <ul class="div-table-details-body-list">
+					<li># <span> {{player.jerseyNumber}}</span></li>
+					<li>DOB <span> {{player.dob}}</span></li>
+					<li>Team <span> {{player.teamName}}</span></li>
+					<li>Positon <span>{{player.fieldPosition}}</span></li>
+					<li>Club <span>{{player.club}}</span></li>
+				</ul> -->
+			</div>
+		</div>
+	</div>
+</div>

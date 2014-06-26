@@ -5,9 +5,11 @@ angular.module("fifaworldcup", ["ngRoute"])
 		templateUrl: "template/home.html"
 	})
 	.when("/teams", {
+		controller: "teamsController",
 		templateUrl: "template/teams.html"
 	})
 	.when("/players", {
+		controller: "playersController",
 		templateUrl: "template/players.html"
 	});
 }])

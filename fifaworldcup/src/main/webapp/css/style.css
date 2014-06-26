@@ -208,3 +208,40 @@ a {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
 }
+
+
+/* Teams Page */
+.teams-page-item {
+	margin-bottom: 15px;
+}
+
+.teams-page-div-table-details-cell {
+	display: table-cell;
+	vertical-align: top;
+}
+
+
+/* Players Page */
+.players-page-item {
+	padding-bottom: 31px;
+	border-bottom: 1px solid #efefef;
+}
+
+.players-page-div-table-logo-cell {
+	display: table-cell;
+	vertical-align: top;
+	position: relative;
+}
+
+.players-page-div-table-logo {
+	width: 65px;
+	position: absolute;
+}
+
+.players-page-div-table-details-heading {
+	padding-bottom: 5px;
+}
+
+.player-filter {
+	width: 100%;
+}
