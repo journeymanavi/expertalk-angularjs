@@ -3,6 +3,12 @@ angular.module("fifaworldcup", ["ngRoute"])
 	$routeProvider
 	.when("/", {
 		templateUrl: "template/home.html"
+	})
+	.when("/teams", {
+		templateUrl: "template/teams.html"
+	})
+	.when("/players", {
+		templateUrl: "template/players.html"
 	});
 }])
 .controller("matchesController", function($scope, $http) {
