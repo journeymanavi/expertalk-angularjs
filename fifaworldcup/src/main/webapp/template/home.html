@@ -40,10 +40,30 @@
 		Featured Team
 	</div>
 	<div class="card-body" ng-controller="teamsController">
-		<div ng-repeat="team in teams | filter:'team.featured'">
-			
+		<div ng-repeat="team in teams | filter:{featured:'true'}">
+			<div class="div-table">
+				<div class="div-table-row">
+					<div class="div-table-logo-cell">
+						<img class="div-table-logo" ng-src="img/team-logo/{{team.code | lowercase}}.gif">
+					</div>
+					<div class="div-table-details-cell">
+						<div class="div-table-details-heading">
+							<img class="small-flag div-table-details-heading-flag" ng-src="img/flag/{{team.code | lowercase}}.png">
+							<span class="div-table-details-heading-team-name">{{team.name}}</span>
+						</div>
+						<ul class="div-table-details-body-list">
+							<li ng-repeat="profileItem in team.profile">
+								<span>{{profileItem.value}}</span> 
+								<span>{{profileItem.item}}</span>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
 		</div>
 	</div>
+	<hr class="card-section-separator">
+	<div class="card-footer card-footer-text"><a href="#/teams">> More Teams</a></div>
 </div>
 
 <div class="card">
@@ -51,6 +71,29 @@
 		Featured Player
 	</div>
 	<div class="card-body" ng-controller="playersController">
-		
+		<div ng-repeat="player in players | filter:{featured:'true'}">
+			<div class="div-table">
+				<div class="div-table-row">
+					<div class="div-table-logo-cell">
+						<img class="div-table-logo" ng-src="img/player/{{player.id}}.png">
+					</div>
+					<div class="div-table-details-cell">
+						<div class="div-table-details-heading">
+							<img class="small-flag div-table-details-heading-flag" ng-src="img/flag/{{player.teamCode | lowercase}}.png">
+							<span class="div-table-details-heading-team-name">{{player.name}}</span>
+						</div>
+						<ul class="div-table-details-body-list">
+							<li># <span> {{player.jerseyNumber}}</span></li>
+							<li>DOB <span> {{player.dob}}</span></li>
+							<li>Team <span> {{player.teamName}}</span></li>
+							<li>Positon <span>{{player.fieldPosition}}</span></li>
+							<li>Club <span>{{player.club}}</span></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
 	</div>
+	<hr class="card-section-separator">
+	<div class="card-footer card-footer-text"><a href="#/players">> More Players</a></div>
 </div>

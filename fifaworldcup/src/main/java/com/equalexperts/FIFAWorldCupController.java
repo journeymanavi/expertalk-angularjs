@@ -109,7 +109,7 @@ public class FIFAWorldCupController {
 
     private void pauseForRandomTime() {
         try {
-            Thread.sleep(2000);
+            Thread.sleep(20);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }

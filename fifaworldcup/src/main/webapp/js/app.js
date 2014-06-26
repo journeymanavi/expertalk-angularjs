@@ -44,6 +44,6 @@ angular.module("fifaworldcup", ["ngRoute"])
 .controller("playersController", function($scope, $http) {
 	$http.get('api/players')
 	.success(function(response) {
-		$scope.teams = response;
+		$scope.players = response;
 	});
 });

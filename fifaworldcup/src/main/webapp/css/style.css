@@ -5,6 +5,10 @@
 	color: #0087e6;
 }
 
+a {
+	text-decoration: none;
+}
+
 .screen-width {
 	width: 100%;
 }
@@ -49,7 +53,7 @@
 	padding: 0px 10px 5px;
 	border: 1px solid #cccccc;
 	box-shadow: 0px 3px 5px -3px rgba(50, 50, 50, 0.75);
-	margin-bottom: 10px;
+	margin-bottom: 15px;
 }
 
 .card-heading {
@@ -57,6 +61,13 @@
 	font-family: 'Open Sans', sans-serif;
 	font-size: 30px;
 	margin-bottom: 5px;
+}
+
+.card-section-separator {
+	border: 0;
+	border-bottom: 1px solid #efefef;
+	margin-bottom: 5px;
+	padding-bottom: 5px;
 }
 
 .card-section-heading {
@@ -125,4 +136,75 @@
 	z-index: -1;
 	width: 100%;
 	opacity: 0.4;
+}
+
+
+/* Matches Widget */
+.div-table {
+	display: table;
+	width: 100%;
+}
+
+.div-table-row {
+	display: table-row;
+	overflow: hidden;
+	height: auto;
+}
+
+.div-table-logo-cell {
+	display: table-cell;
+	vertical-align: top;
+	position: relative;
+}
+
+.div-table-logo {
+	width: 65px;
+	position: absolute;
+}
+
+.div-table-details-cell {
+	display: table-cell;
+	vertical-align: top;
+	padding-left: 75px;
+}
+
+.div-table-details-heading {
+	border-bottom: 1px solid #efefef;
+	padding-bottom: 5px;
+}
+
+.div-table-details-heading-flag {
+
+}
+
+.div-table-details-heading-team-name {
+	font-size: 25px;
+	font-weight: bold;
+	top: -8px;
+	line-height: 25px;
+}
+
+.div-table-details-body-list {
+	list-style: none;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+.div-table-details-body-list li span {
+	color: rgb(50, 50, 50);
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	margin: 0;
+	padding: 0;
+	line-height: 20px;
+}
+
+.div-table-details-body-list li span:nth-of-type(1) {
+	font-size: 20px;
+}
+
+.card-footer-text {
+	color: rgb(50, 50, 50);
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
 }
