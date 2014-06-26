@@ -145,7 +145,8 @@ sub getPLayers {
 			club => $rawPlayer->{clubname},
 			fieldPosition => $fieldPosition->{$rawPlayer->{fieldpos}},
 			dob => $rawPlayer->{birthdate},
-			jerseyNumber => $rawPlayer->{bibnum}
+			jerseyNumber => $rawPlayer->{bibnum},
+			featured => isFeaturedPlayer($playerId)
 		};
 		push @{$players}, $player;
 		push @{$playersByTeamId->{$teamId}}, $player;
@@ -160,6 +161,11 @@ sub getPLayers {
 	}
 
 	return ($players, $playersByTeamId);
+}
+
+sub isFeaturedPlayer {
+	my $id = shift;
+	return 229397 == $id ? "true" : "false";
 }
 
 sub populateTeamDetails {
@@ -220,7 +226,8 @@ sub getTeams {
 				name => sub {scrubTeamName($_->attr('title'))},
 				'group' => sub {
 					$groups->{$_->attr('data-idgroup')}
-				}
+				},
+				featured => sub {$_->attr('id') eq 'BRA' ? 'true' : 'false';}
 			};
 		};
 

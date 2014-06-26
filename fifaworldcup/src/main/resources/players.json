@@ -6,6 +6,7 @@
       "club" : "CS Constantine",
       "teamId" : 43843,
       "dob" : "1985-01-09 00:00:00",
+      "featured" : "false",
       "teamCode" : "ALG",
       "jerseyNumber" : 1,
       "id" : 356166
@@ -17,6 +18,7 @@
       "club" : "USM Alger",
       "teamId" : 43843,
       "dob" : "1985-03-19 00:00:00",
+      "featured" : "false",
       "teamCode" : "ALG",
       "jerseyNumber" : 16,
       "id" : 305708
@@ -28,6 +30,7 @@
       "club" : "CSKA Sofia",
       "teamId" : 43843,
       "dob" : "1986-04-25 00:00:00",
+      "featured" : "false",
       "teamCode" : "ALG",
       "jerseyNumber" : 23,
       "id" : 323326
@@ -39,6 +42,7 @@
       "club" : "AS Monaco",
       "teamId" : 43922,
       "dob" : "1987-02-22 00:00:00",
+      "featured" : "false",
       "teamCode" : "ARG",
       "jerseyNumber" : 1,
       "id" : 266783
@@ -50,6 +54,7 @@
       "club" : "CA Boca Juniors",
       "teamId" : 43922,
       "dob" : "1981-06-26 00:00:00",
+      "featured" : "false",
       "teamCode" : "ARG",
       "jerseyNumber" : 12,
       "id" : 274703
@@ -61,6 +66,7 @@
       "club" : "Calcio Catania",
       "teamId" : 43922,
       "dob" : "1983-07-30 00:00:00",
+      "featured" : "false",
       "teamCode" : "ARG",
       "jerseyNumber" : 21,
       "id" : 306144
@@ -72,6 +78,7 @@
       "club" : "Club Brugge KV",
       "teamId" : 43976,
       "dob" : "1992-04-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "AUS",
       "jerseyNumber" : 1,
       "id" : 339117
@@ -83,6 +90,7 @@
       "club" : "Borussia Dortmund",
       "teamId" : 43976,
       "dob" : "1988-08-22 00:00:00",
+      "featured" : "false",
       "teamCode" : "AUS",
       "jerseyNumber" : 12,
       "id" : 356933
@@ -94,6 +102,7 @@
       "club" : "Adelaide United FC",
       "teamId" : 43976,
       "dob" : "1981-06-12 00:00:00",
+      "featured" : "false",
       "teamCode" : "AUS",
       "jerseyNumber" : 18,
       "id" : 209168
@@ -105,6 +114,7 @@
       "club" : "Atletico Madrid",
       "teamId" : 43935,
       "dob" : "1992-05-11 00:00:00",
+      "featured" : "false",
       "teamCode" : "BEL",
       "jerseyNumber" : 1,
       "id" : 358106
@@ -116,6 +126,7 @@
       "club" : "Liverpool FC",
       "teamId" : 43935,
       "dob" : "1988-03-06 00:00:00",
+      "featured" : "false",
       "teamCode" : "BEL",
       "jerseyNumber" : 12,
       "id" : 298738
@@ -127,6 +138,7 @@
       "club" : "SV Zulte Waregem",
       "teamId" : 43935,
       "dob" : "1985-08-11 00:00:00",
+      "featured" : "false",
       "teamCode" : "BEL",
       "jerseyNumber" : 13,
       "id" : 380663
@@ -138,6 +150,7 @@
       "club" : "Stoke City FC",
       "teamId" : 44037,
       "dob" : "1987-06-20 00:00:00",
+      "featured" : "false",
       "teamCode" : "BIH",
       "jerseyNumber" : 1,
       "id" : 230121
@@ -149,6 +162,7 @@
       "club" : "VfR Aalen",
       "teamId" : 44037,
       "dob" : "1986-05-15 00:00:00",
+      "featured" : "false",
       "teamCode" : "BIH",
       "jerseyNumber" : 12,
       "id" : 367415
@@ -160,6 +174,7 @@
       "club" : "FK Borac Banja Luka",
       "teamId" : 44037,
       "dob" : "1981-05-13 00:00:00",
+      "featured" : "false",
       "teamCode" : "BIH",
       "jerseyNumber" : 22,
       "id" : 358097
@@ -171,6 +186,7 @@
       "club" : "Botafogo FR",
       "teamId" : 43924,
       "dob" : "1983-01-02 00:00:00",
+      "featured" : "false",
       "teamCode" : "BRA",
       "jerseyNumber" : 1,
       "id" : 184320
@@ -182,6 +198,7 @@
       "club" : "Toronto FC",
       "teamId" : 43924,
       "dob" : "1979-09-03 00:00:00",
+      "featured" : "false",
       "teamCode" : "BRA",
       "jerseyNumber" : 12,
       "id" : 179038
@@ -193,6 +210,7 @@
       "club" : "Atletico Mineiro",
       "teamId" : 43924,
       "dob" : "1983-01-21 00:00:00",
+      "featured" : "false",
       "teamCode" : "BRA",
       "jerseyNumber" : 22,
       "id" : 309426
@@ -204,6 +222,7 @@
       "club" : "Real Sociedad",
       "teamId" : 43925,
       "dob" : "1983-04-13 00:00:00",
+      "featured" : "false",
       "teamCode" : "CHI",
       "jerseyNumber" : 1,
       "id" : 202650
@@ -215,6 +234,7 @@
       "club" : "CD Universidad Catolica",
       "teamId" : 43925,
       "dob" : "1988-06-15 00:00:00",
+      "featured" : "false",
       "teamCode" : "CHI",
       "jerseyNumber" : 12,
       "id" : 228624
@@ -226,6 +246,7 @@
       "club" : "Club Universidad de Chile",
       "teamId" : 43925,
       "dob" : "1981-05-09 00:00:00",
+      "featured" : "false",
       "teamCode" : "CHI",
       "jerseyNumber" : 23,
       "id" : 178630
@@ -237,6 +258,7 @@
       "club" : "KSC Lokeren",
       "teamId" : 43854,
       "dob" : "1979-12-30 00:00:00",
+      "featured" : "false",
       "teamCode" : "CIV",
       "jerseyNumber" : 1,
       "id" : 178958
@@ -248,6 +270,7 @@
       "club" : "Sewe Sport",
       "teamId" : 43854,
       "dob" : "1988-10-29 00:00:00",
+      "featured" : "false",
       "teamCode" : "CIV",
       "jerseyNumber" : 16,
       "id" : 367558
@@ -259,6 +282,7 @@
       "club" : "Stabaek IF",
       "teamId" : 43854,
       "dob" : "1993-06-15 00:00:00",
+      "featured" : "false",
       "teamCode" : "CIV",
       "jerseyNumber" : 23,
       "id" : 380004
@@ -270,6 +294,7 @@
       "club" : "Coton Sport FC",
       "teamId" : 43849,
       "dob" : "1992-04-14 00:00:00",
+      "featured" : "false",
       "teamCode" : "CMR",
       "jerseyNumber" : 1,
       "id" : 355859
@@ -281,6 +306,7 @@
       "club" : "Konyaspor",
       "teamId" : 43849,
       "dob" : "1982-11-02 00:00:00",
+      "featured" : "false",
       "teamCode" : "CMR",
       "jerseyNumber" : 16,
       "id" : 216990
@@ -292,6 +318,7 @@
       "club" : "Fethiyespor",
       "teamId" : 43849,
       "dob" : "1990-02-25 00:00:00",
+      "featured" : "false",
       "teamCode" : "CMR",
       "jerseyNumber" : 23,
       "id" : 370438
@@ -303,6 +330,7 @@
       "club" : "OGC Nice",
       "teamId" : 43926,
       "dob" : "1988-08-31 00:00:00",
+      "featured" : "false",
       "teamCode" : "COL",
       "jerseyNumber" : 1,
       "id" : 228686
@@ -314,6 +342,7 @@
       "club" : "Independiente Santa Fe",
       "teamId" : 43926,
       "dob" : "1989-03-09 00:00:00",
+      "featured" : "false",
       "teamCode" : "COL",
       "jerseyNumber" : 12,
       "id" : 360642
@@ -325,6 +354,7 @@
       "club" : "Deportivo Cali",
       "teamId" : 43926,
       "dob" : "1971-06-21 00:00:00",
+      "featured" : "false",
       "teamCode" : "COL",
       "jerseyNumber" : 22,
       "id" : 94918
@@ -336,6 +366,7 @@
       "club" : "Levante UD",
       "teamId" : 43901,
       "dob" : "1986-12-15 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRC",
       "jerseyNumber" : 1,
       "id" : 199175
@@ -347,6 +378,7 @@
       "club" : "LD Alajuelense",
       "teamId" : 43901,
       "dob" : "1982-04-24 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRC",
       "jerseyNumber" : 18,
       "id" : 214874
@@ -358,6 +390,7 @@
       "club" : "CS Herediano",
       "teamId" : 43901,
       "dob" : "1986-01-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRC",
       "jerseyNumber" : 23,
       "id" : 199160
@@ -369,6 +402,7 @@
       "club" : "FC Rostov",
       "teamId" : 43938,
       "dob" : "1979-01-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRO",
       "jerseyNumber" : 1,
       "id" : 179048
@@ -380,6 +414,7 @@
       "club" : "NK Lokomotiva Zagreb",
       "teamId" : 43938,
       "dob" : "1993-05-14 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRO",
       "jerseyNumber" : 12,
       "id" : 369026
@@ -391,6 +426,7 @@
       "club" : "AS Monaco",
       "teamId" : 43938,
       "dob" : "1984-10-27 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRO",
       "jerseyNumber" : 23,
       "id" : 299887
@@ -402,6 +438,7 @@
       "club" : "Barcelona SC",
       "teamId" : 43927,
       "dob" : "1985-12-16 00:00:00",
+      "featured" : "false",
       "teamCode" : "ECU",
       "jerseyNumber" : 1,
       "id" : 302630
@@ -413,6 +450,7 @@
       "club" : "CD El Nacional",
       "teamId" : 43927,
       "dob" : "1988-09-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "ECU",
       "jerseyNumber" : 12,
       "id" : 349568
@@ -424,6 +462,7 @@
       "club" : "LDU Quito",
       "teamId" : 43927,
       "dob" : "1987-06-05 00:00:00",
+      "featured" : "false",
       "teamCode" : "ECU",
       "jerseyNumber" : 22,
       "id" : 303419
@@ -435,6 +474,7 @@
       "club" : "Manchester City FC",
       "teamId" : 43942,
       "dob" : "1987-04-19 00:00:00",
+      "featured" : "false",
       "teamCode" : "ENG",
       "jerseyNumber" : 1,
       "id" : 299956
@@ -446,6 +486,7 @@
       "club" : "West Bromwich Albion FC",
       "teamId" : 43942,
       "dob" : "1983-04-03 00:00:00",
+      "featured" : "false",
       "teamCode" : "ENG",
       "jerseyNumber" : 13,
       "id" : 253999
@@ -457,6 +498,7 @@
       "club" : "Celtic FC",
       "teamId" : 43942,
       "dob" : "1988-03-17 00:00:00",
+      "featured" : "false",
       "teamCode" : "ENG",
       "jerseyNumber" : 22,
       "id" : 362881
@@ -468,6 +510,7 @@
       "club" : "Real Madrid CF",
       "teamId" : 43969,
       "dob" : "1981-05-20 00:00:00",
+      "featured" : "false",
       "teamCode" : "ESP",
       "jerseyNumber" : 1,
       "id" : 176644
@@ -479,6 +522,7 @@
       "club" : "Manchester United FC",
       "teamId" : 43969,
       "dob" : "1990-11-07 00:00:00",
+      "featured" : "false",
       "teamCode" : "ESP",
       "jerseyNumber" : 12,
       "id" : 269859
@@ -490,6 +534,7 @@
       "club" : "SSC Napoli",
       "teamId" : 43969,
       "dob" : "1982-08-31 00:00:00",
+      "featured" : "false",
       "teamCode" : "ESP",
       "jerseyNumber" : 23,
       "id" : 175413
@@ -501,6 +546,7 @@
       "club" : "Tottenham Hotspur FC",
       "teamId" : 43946,
       "dob" : "1986-12-26 00:00:00",
+      "featured" : "false",
       "teamCode" : "FRA",
       "jerseyNumber" : 1,
       "id" : 297105
@@ -512,6 +558,7 @@
       "club" : "AS Saint-Etienne",
       "teamId" : 43946,
       "dob" : "1986-09-27 00:00:00",
+      "featured" : "false",
       "teamCode" : "FRA",
       "jerseyNumber" : 16,
       "id" : 359448
@@ -523,6 +570,7 @@
       "club" : "SC Bastia",
       "teamId" : 43946,
       "dob" : "1979-05-14 00:00:00",
+      "featured" : "false",
       "teamCode" : "FRA",
       "jerseyNumber" : 23,
       "id" : 182021
@@ -534,6 +582,7 @@
       "club" : "FC Bayern Muenchen",
       "teamId" : 43948,
       "dob" : "1986-03-27 00:00:00",
+      "featured" : "false",
       "teamCode" : "GER",
       "jerseyNumber" : 1,
       "id" : 228912
@@ -545,6 +594,7 @@
       "club" : "Hannover 96",
       "teamId" : 43948,
       "dob" : "1989-02-12 00:00:00",
+      "featured" : "false",
       "teamCode" : "GER",
       "jerseyNumber" : 12,
       "id" : 302381
@@ -556,6 +606,7 @@
       "club" : "Borussia Dortmund",
       "teamId" : 43948,
       "dob" : "1980-08-06 00:00:00",
+      "featured" : "false",
       "teamCode" : "GER",
       "jerseyNumber" : 22,
       "id" : 195223
@@ -567,6 +618,7 @@
       "club" : "Aduana Stars",
       "teamId" : 43860,
       "dob" : "1989-09-28 00:00:00",
+      "featured" : "false",
       "teamCode" : "GHA",
       "jerseyNumber" : 1,
       "id" : 323574
@@ -578,6 +630,7 @@
       "club" : "Stromsgodset IF",
       "teamId" : 43860,
       "dob" : "1987-12-12 00:00:00",
+      "featured" : "false",
       "teamCode" : "GHA",
       "jerseyNumber" : 12,
       "id" : 353237
@@ -589,6 +642,7 @@
       "club" : "Orlando Pirates",
       "teamId" : 43860,
       "dob" : "1985-04-06 00:00:00",
+      "featured" : "false",
       "teamCode" : "GHA",
       "jerseyNumber" : 16,
       "id" : 376071
@@ -600,6 +654,7 @@
       "club" : "Granada CF",
       "teamId" : 43949,
       "dob" : "1985-07-11 00:00:00",
+      "featured" : "false",
       "teamCode" : "GRE",
       "jerseyNumber" : 1,
       "id" : 228328
@@ -611,6 +666,7 @@
       "club" : "PAOK FC",
       "teamId" : 43949,
       "dob" : "1986-10-10 00:00:00",
+      "featured" : "false",
       "teamCode" : "GRE",
       "jerseyNumber" : 12,
       "id" : 360111
@@ -622,6 +678,7 @@
       "club" : "Panathinaikos FC",
       "teamId" : 43949,
       "dob" : "1994-03-18 00:00:00",
+      "featured" : "false",
       "teamCode" : "GRE",
       "jerseyNumber" : 13,
       "id" : 362645
@@ -633,6 +690,7 @@
       "club" : "Real Espana",
       "teamId" : 43909,
       "dob" : "1993-09-13 00:00:00",
+      "featured" : "false",
       "teamCode" : "HON",
       "jerseyNumber" : 1,
       "id" : 380009
@@ -644,6 +702,7 @@
       "club" : "CD Olimpia",
       "teamId" : 43909,
       "dob" : "1977-05-03 00:00:00",
+      "featured" : "false",
       "teamCode" : "HON",
       "jerseyNumber" : 18,
       "id" : 178185
@@ -655,6 +714,7 @@
       "club" : "CD Olimpia",
       "teamId" : 43909,
       "dob" : "1981-02-03 00:00:00",
+      "featured" : "false",
       "teamCode" : "HON",
       "jerseyNumber" : 22,
       "id" : 213871
@@ -666,6 +726,7 @@
       "club" : "Sepahan FC",
       "teamId" : 43817,
       "dob" : "1980-07-30 00:00:00",
+      "featured" : "false",
       "teamCode" : "IRN",
       "jerseyNumber" : 1,
       "id" : 298516
@@ -677,6 +738,7 @@
       "club" : "Sporting Covilha",
       "teamId" : 43817,
       "dob" : "1988-05-02 00:00:00",
+      "featured" : "false",
       "teamCode" : "IRN",
       "jerseyNumber" : 12,
       "id" : 346763
@@ -688,6 +750,7 @@
       "club" : "Eintracht Braunschweig",
       "teamId" : 43817,
       "dob" : "1988-01-06 00:00:00",
+      "featured" : "false",
       "teamCode" : "IRN",
       "jerseyNumber" : 22,
       "id" : 379888
@@ -699,6 +762,7 @@
       "club" : "Juventus FC",
       "teamId" : 43954,
       "dob" : "1978-01-28 00:00:00",
+      "featured" : "false",
       "teamCode" : "ITA",
       "jerseyNumber" : 1,
       "id" : 159304
@@ -710,6 +774,7 @@
       "club" : "Paris Saint-Germain FC",
       "teamId" : 43954,
       "dob" : "1987-01-12 00:00:00",
+      "featured" : "false",
       "teamCode" : "ITA",
       "jerseyNumber" : 12,
       "id" : 298655
@@ -721,6 +786,7 @@
       "club" : "Genoa CFC",
       "teamId" : 43954,
       "dob" : "1992-11-10 00:00:00",
+      "featured" : "false",
       "teamCode" : "ITA",
       "jerseyNumber" : 13,
       "id" : 309420
@@ -732,6 +798,7 @@
       "club" : "Standard Liege",
       "teamId" : 43819,
       "dob" : "1983-03-20 00:00:00",
+      "featured" : "false",
       "teamCode" : "JPN",
       "jerseyNumber" : 1,
       "id" : 198117
@@ -743,6 +810,7 @@
       "club" : "Urawa Red Diamonds",
       "teamId" : 43819,
       "dob" : "1986-06-18 00:00:00",
+      "featured" : "false",
       "teamCode" : "JPN",
       "jerseyNumber" : 12,
       "id" : 214581
@@ -754,6 +822,7 @@
       "club" : "FC Tokyo",
       "teamId" : 43819,
       "dob" : "1989-03-03 00:00:00",
+      "featured" : "false",
       "teamCode" : "JPN",
       "jerseyNumber" : 23,
       "id" : 321734
@@ -765,6 +834,7 @@
       "club" : "Suwon Bluewings FC",
       "teamId" : 43822,
       "dob" : "1985-01-04 00:00:00",
+      "featured" : "false",
       "teamCode" : "KOR",
       "jerseyNumber" : 1,
       "id" : 198546
@@ -776,6 +846,7 @@
       "club" : "Ulsan Hyundai FC",
       "teamId" : 43822,
       "dob" : "1990-09-30 00:00:00",
+      "featured" : "false",
       "teamCode" : "KOR",
       "jerseyNumber" : 21,
       "id" : 274281
@@ -787,6 +858,7 @@
       "club" : "Busan IPark FC",
       "teamId" : 43822,
       "dob" : "1989-04-02 00:00:00",
+      "featured" : "false",
       "teamCode" : "KOR",
       "jerseyNumber" : 23,
       "id" : 306818
@@ -798,6 +870,7 @@
       "club" : "Cruz Azul FC",
       "teamId" : 43911,
       "dob" : "1981-01-26 00:00:00",
+      "featured" : "false",
       "teamCode" : "MEX",
       "jerseyNumber" : 1,
       "id" : 195231
@@ -809,6 +882,7 @@
       "club" : "Deportivo Toluca FC",
       "teamId" : 43911,
       "dob" : "1982-09-18 00:00:00",
+      "featured" : "false",
       "teamCode" : "MEX",
       "jerseyNumber" : 12,
       "id" : 175546
@@ -820,6 +894,7 @@
       "club" : "AC Ajaccio",
       "teamId" : 43911,
       "dob" : "1985-07-13 00:00:00",
+      "featured" : "false",
       "teamCode" : "MEX",
       "jerseyNumber" : 13,
       "id" : 215285
@@ -831,6 +906,7 @@
       "club" : "AFC Ajax",
       "teamId" : 43960,
       "dob" : "1989-04-22 00:00:00",
+      "featured" : "false",
       "teamCode" : "NED",
       "jerseyNumber" : 1,
       "id" : 358738
@@ -842,6 +918,7 @@
       "club" : "Swansea City AFC",
       "teamId" : 43960,
       "dob" : "1983-10-20 00:00:00",
+      "featured" : "false",
       "teamCode" : "NED",
       "jerseyNumber" : 22,
       "id" : 254089
@@ -853,6 +930,7 @@
       "club" : "Newcastle United FC",
       "teamId" : 43960,
       "dob" : "1988-04-03 00:00:00",
+      "featured" : "false",
       "teamCode" : "NED",
       "jerseyNumber" : 23,
       "id" : 232760
@@ -864,6 +942,7 @@
       "club" : "Lille OSC",
       "teamId" : 43876,
       "dob" : "1982-08-29 00:00:00",
+      "featured" : "false",
       "teamCode" : "NGA",
       "jerseyNumber" : 1,
       "id" : 189300
@@ -875,6 +954,7 @@
       "club" : "Hapoel Be'er Sheva FC",
       "teamId" : 43876,
       "dob" : "1984-04-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "NGA",
       "jerseyNumber" : 16,
       "id" : 184856
@@ -886,6 +966,7 @@
       "club" : "Enugu Rangers FC",
       "teamId" : 43876,
       "dob" : "1984-11-28 00:00:00",
+      "featured" : "false",
       "teamCode" : "NGA",
       "jerseyNumber" : 21,
       "id" : 182479
@@ -897,6 +978,7 @@
       "club" : "Sporting Braga",
       "teamId" : 43963,
       "dob" : "1982-09-19 00:00:00",
+      "featured" : "false",
       "teamCode" : "POR",
       "jerseyNumber" : 1,
       "id" : 299066
@@ -908,6 +990,7 @@
       "club" : "Sporting CP",
       "teamId" : 43963,
       "dob" : "1988-02-15 00:00:00",
+      "featured" : "false",
       "teamCode" : "POR",
       "jerseyNumber" : 12,
       "id" : 269768
@@ -919,6 +1002,7 @@
       "club" : "Sevilla FC",
       "teamId" : 43963,
       "dob" : "1982-05-01 00:00:00",
+      "featured" : "false",
       "teamCode" : "POR",
       "jerseyNumber" : 22,
       "id" : 214404
@@ -930,6 +1014,7 @@
       "club" : "CSKA Moscow",
       "teamId" : 43965,
       "dob" : "1986-04-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "RUS",
       "jerseyNumber" : 1,
       "id" : 215017
@@ -941,6 +1026,7 @@
       "club" : "FC Zenit St. Petersburg",
       "teamId" : 43965,
       "dob" : "1990-05-26 00:00:00",
+      "featured" : "false",
       "teamCode" : "RUS",
       "jerseyNumber" : 12,
       "id" : 367343
@@ -952,6 +1038,7 @@
       "club" : "FC Rubin Kazan",
       "teamId" : 43965,
       "dob" : "1980-09-19 00:00:00",
+      "featured" : "false",
       "teamCode" : "RUS",
       "jerseyNumber" : 16,
       "id" : 367333
@@ -963,6 +1050,7 @@
       "club" : "VfL Wolfsburg",
       "teamId" : 43971,
       "dob" : "1983-09-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "SUI",
       "jerseyNumber" : 1,
       "id" : 196633
@@ -974,6 +1062,7 @@
       "club" : "FC Basel",
       "teamId" : 43971,
       "dob" : "1988-12-17 00:00:00",
+      "featured" : "false",
       "teamCode" : "SUI",
       "jerseyNumber" : 12,
       "id" : 319460
@@ -985,6 +1074,7 @@
       "club" : "Grasshopper Club",
       "teamId" : 43971,
       "dob" : "1990-11-14 00:00:00",
+      "featured" : "false",
       "teamCode" : "SUI",
       "jerseyNumber" : 21,
       "id" : 356676
@@ -996,6 +1086,7 @@
       "club" : "Galatasaray SK",
       "teamId" : 43930,
       "dob" : "1986-06-16 00:00:00",
+      "featured" : "false",
       "teamCode" : "URU",
       "jerseyNumber" : 1,
       "id" : 229498
@@ -1007,6 +1098,7 @@
       "club" : "Club Libertad",
       "teamId" : 43930,
       "dob" : "1982-01-22 00:00:00",
+      "featured" : "false",
       "teamCode" : "URU",
       "jerseyNumber" : 12,
       "id" : 319482
@@ -1018,6 +1110,7 @@
       "club" : "CR Vasco da Gama",
       "teamId" : 43930,
       "dob" : "1983-03-25 00:00:00",
+      "featured" : "false",
       "teamCode" : "URU",
       "jerseyNumber" : 23,
       "id" : 175629
@@ -1029,6 +1122,7 @@
       "club" : "Everton FC",
       "teamId" : 43921,
       "dob" : "1979-03-06 00:00:00",
+      "featured" : "false",
       "teamCode" : "USA",
       "jerseyNumber" : 1,
       "id" : 178420
@@ -1040,6 +1134,7 @@
       "club" : "Aston Villa FC",
       "teamId" : 43921,
       "dob" : "1984-09-09 00:00:00",
+      "featured" : "false",
       "teamCode" : "USA",
       "jerseyNumber" : 12,
       "id" : 276139
@@ -1051,6 +1146,7 @@
       "club" : "Real Salt Lake",
       "teamId" : 43921,
       "dob" : "1979-06-17 00:00:00",
+      "featured" : "false",
       "teamCode" : "USA",
       "jerseyNumber" : 22,
       "id" : 184982
@@ -1062,6 +1158,7 @@
       "club" : "Lekhwiya SC",
       "teamId" : 43843,
       "dob" : "1982-10-07 00:00:00",
+      "featured" : "false",
       "teamCode" : "ALG",
       "jerseyNumber" : 2,
       "id" : 215208
@@ -1073,6 +1170,7 @@
       "club" : "SSC Napoli",
       "teamId" : 43843,
       "dob" : "1991-02-01 00:00:00",
+      "featured" : "false",
       "teamCode" : "ALG",
       "jerseyNumber" : 3,
       "id" : 364088
@@ -1084,6 +1182,7 @@
       "club" : "Watford FC",
       "teamId" : 43843,
       "dob" : "1989-01-01 00:00:00",
+      "featured" : "false",
       "teamCode" : "ALG",
       "jerseyNumber" : 4,
       "id" : 356162
@@ -1095,6 +1194,7 @@
       "club" : "Academica Coimbra",
       "teamId" : 43843,
       "dob" : "1986-09-02 00:00:00",
+      "featured" : "false",
       "teamCode" : "ALG",
       "jerseyNumber" : 5,
       "id" : 296827
@@ -1106,6 +1206,7 @@
       "club" : "AS Livorno",
       "teamId" : 43843,
       "dob" : "1984-10-09 00:00:00",
+      "featured" : "false",
       "teamCode" : "ALG",
       "jerseyNumber" : 6,
       "id" : 323339
@@ -1117,6 +1218,7 @@
       "club" : "Valenciennes FC",
       "teamId" : 43843,
       "dob" : "1985-05-15 00:00:00",
+      "featured" : "false",
       "teamCode" : "ALG",
       "jerseyNumber" : 12,
       "id" : 239237
@@ -1128,6 +1230,7 @@
       "club" : "RCD Mallorca",
       "teamId" : 43843,
       "dob" : "1988-03-05 00:00:00",
+      "featured" : "false",
       "teamCode" : "ALG",
       "jerseyNumber" : 17,
       "id" : 354883
@@ -1139,6 +1242,7 @@
       "club" : "Stade de Reims",
       "teamId" : 43843,
       "dob" : "1991-10-22 00:00:00",
+      "featured" : "false",
       "teamCode" : "ALG",
       "jerseyNumber" : 20,
       "id" : 376285
@@ -1150,6 +1254,7 @@
       "club" : "SL Benfica",
       "teamId" : 43922,
       "dob" : "1986-10-10 00:00:00",
+      "featured" : "false",
       "teamCode" : "ARG",
       "jerseyNumber" : 2,
       "id" : 200130
@@ -1161,6 +1266,7 @@
       "club" : "FC Internazionale",
       "teamId" : 43922,
       "dob" : "1980-06-27 00:00:00",
+      "featured" : "false",
       "teamCode" : "ARG",
       "jerseyNumber" : 3,
       "id" : 356612
@@ -1172,6 +1278,7 @@
       "club" : "Manchester City FC",
       "teamId" : 43922,
       "dob" : "1985-01-16 00:00:00",
+      "featured" : "false",
       "teamCode" : "ARG",
       "jerseyNumber" : 4,
       "id" : 182379
@@ -1183,6 +1290,7 @@
       "club" : "Manchester City FC",
       "teamId" : 43922,
       "dob" : "1980-12-20 00:00:00",
+      "featured" : "false",
       "teamCode" : "ARG",
       "jerseyNumber" : 15,
       "id" : 233703
@@ -1194,6 +1302,7 @@
       "club" : "Sporting CP",
       "teamId" : 43922,
       "dob" : "1990-03-20 00:00:00",
+      "featured" : "false",
       "teamCode" : "ARG",
       "jerseyNumber" : 16,
       "id" : 318688
@@ -1205,6 +1314,7 @@
       "club" : "SSC Napoli",
       "teamId" : 43922,
       "dob" : "1989-02-21 00:00:00",
+      "featured" : "false",
       "teamCode" : "ARG",
       "jerseyNumber" : 17,
       "id" : 318034
@@ -1216,6 +1326,7 @@
       "club" : "CF Monterrey",
       "teamId" : 43922,
       "dob" : "1984-04-03 00:00:00",
+      "featured" : "false",
       "teamCode" : "ARG",
       "jerseyNumber" : 23,
       "id" : 349832
@@ -1227,6 +1338,7 @@
       "club" : "Brisbane Roar FC",
       "teamId" : 43976,
       "dob" : "1987-09-10 00:00:00",
+      "featured" : "false",
       "teamCode" : "AUS",
       "jerseyNumber" : 2,
       "id" : 370062
@@ -1238,6 +1350,7 @@
       "club" : "SC Heracles Almelo",
       "teamId" : 43976,
       "dob" : "1991-06-29 00:00:00",
+      "featured" : "false",
       "teamCode" : "AUS",
       "jerseyNumber" : 3,
       "id" : 306364
@@ -1249,6 +1362,7 @@
       "club" : "Western Sydney Wanderers FC",
       "teamId" : 43976,
       "dob" : "1988-06-27 00:00:00",
+      "featured" : "false",
       "teamCode" : "AUS",
       "jerseyNumber" : 6,
       "id" : 229051
@@ -1260,6 +1374,7 @@
       "club" : "Preston North End FC",
       "teamId" : 43976,
       "dob" : "1992-07-28 00:00:00",
+      "featured" : "false",
       "teamCode" : "AUS",
       "jerseyNumber" : 8,
       "id" : 379165
@@ -1271,6 +1386,7 @@
       "club" : "Shandong Luneng Taishan FC",
       "teamId" : 43976,
       "dob" : "1989-08-15 00:00:00",
+      "featured" : "false",
       "teamCode" : "AUS",
       "jerseyNumber" : 19,
       "id" : 306410
@@ -1282,6 +1398,7 @@
       "club" : "Jeonbuk Hyundai Motors FC",
       "teamId" : 43976,
       "dob" : "1984-08-13 00:00:00",
+      "featured" : "false",
       "teamCode" : "AUS",
       "jerseyNumber" : 22,
       "id" : 182620
@@ -1293,6 +1410,7 @@
       "club" : "Atletico Madrid",
       "teamId" : 43935,
       "dob" : "1989-03-02 00:00:00",
+      "featured" : "false",
       "teamCode" : "BEL",
       "jerseyNumber" : 2,
       "id" : 290864
@@ -1304,6 +1422,7 @@
       "club" : "Arsenal FC",
       "teamId" : 43935,
       "dob" : "1985-11-14 00:00:00",
+      "featured" : "false",
       "teamCode" : "BEL",
       "jerseyNumber" : 3,
       "id" : 216880
@@ -1315,6 +1434,7 @@
       "club" : "Manchester City FC",
       "teamId" : 43935,
       "dob" : "1986-04-10 00:00:00",
+      "featured" : "false",
       "teamCode" : "BEL",
       "jerseyNumber" : 4,
       "id" : 216004
@@ -1326,6 +1446,7 @@
       "club" : "Tottenham Hotspur FC",
       "teamId" : 43935,
       "dob" : "1987-04-24 00:00:00",
+      "featured" : "false",
       "teamCode" : "BEL",
       "jerseyNumber" : 5,
       "id" : 290904
@@ -1337,6 +1458,7 @@
       "club" : "FC Bayern Muenchen",
       "teamId" : 43935,
       "dob" : "1978-02-07 00:00:00",
+      "featured" : "false",
       "teamCode" : "BEL",
       "jerseyNumber" : 15,
       "id" : 375523
@@ -1348,6 +1470,7 @@
       "club" : "FC Zenit St. Petersburg",
       "teamId" : 43935,
       "dob" : "1985-03-20 00:00:00",
+      "featured" : "false",
       "teamCode" : "BEL",
       "jerseyNumber" : 18,
       "id" : 216874
@@ -1359,6 +1482,7 @@
       "club" : "RSC Anderlecht",
       "teamId" : 43935,
       "dob" : "1987-10-24 00:00:00",
+      "featured" : "false",
       "teamCode" : "BEL",
       "jerseyNumber" : 21,
       "id" : 216006
@@ -1370,6 +1494,7 @@
       "club" : "Standard Liege",
       "teamId" : 43935,
       "dob" : "1985-08-05 00:00:00",
+      "featured" : "false",
       "teamCode" : "BEL",
       "jerseyNumber" : 23,
       "id" : 290822
@@ -1381,6 +1506,7 @@
       "club" : "Eintracht Braunschweig",
       "teamId" : 44037,
       "dob" : "1990-01-24 00:00:00",
+      "featured" : "false",
       "teamCode" : "BIH",
       "jerseyNumber" : 3,
       "id" : 372989
@@ -1392,6 +1518,7 @@
       "club" : "Bayer 04 Leverkusen",
       "teamId" : 44037,
       "dob" : "1980-08-18 00:00:00",
+      "featured" : "false",
       "teamCode" : "BIH",
       "jerseyNumber" : 4,
       "id" : 216069
@@ -1403,6 +1530,7 @@
       "club" : "FC Schalke 04",
       "teamId" : 44037,
       "dob" : "1993-06-20 00:00:00",
+      "featured" : "false",
       "teamCode" : "BIH",
       "jerseyNumber" : 5,
       "id" : 376230
@@ -1414,6 +1542,7 @@
       "club" : "Elazigspor",
       "teamId" : 44037,
       "dob" : "1989-10-24 00:00:00",
+      "featured" : "false",
       "teamCode" : "BIH",
       "jerseyNumber" : 6,
       "id" : 359995
@@ -1425,6 +1554,7 @@
       "club" : "FC Zorya Lugansk",
       "teamId" : 44037,
       "dob" : "1988-12-15 00:00:00",
+      "featured" : "false",
       "teamCode" : "BIH",
       "jerseyNumber" : 15,
       "id" : 359993
@@ -1436,6 +1566,7 @@
       "club" : "FC Barcelona",
       "teamId" : 43924,
       "dob" : "1983-05-06 00:00:00",
+      "featured" : "false",
       "teamCode" : "BRA",
       "jerseyNumber" : 2,
       "id" : 190962
@@ -1447,6 +1578,7 @@
       "club" : "Paris Saint-Germain FC",
       "teamId" : 43924,
       "dob" : "1984-09-22 00:00:00",
+      "featured" : "false",
       "teamCode" : "BRA",
       "jerseyNumber" : 3,
       "id" : 289964
@@ -1458,6 +1590,7 @@
       "club" : "Chelsea FC",
       "teamId" : 43924,
       "dob" : "1987-04-22 00:00:00",
+      "featured" : "false",
       "teamCode" : "BRA",
       "jerseyNumber" : 4,
       "id" : 271043
@@ -1469,6 +1602,7 @@
       "club" : "Real Madrid CF",
       "teamId" : 43924,
       "dob" : "1988-05-12 00:00:00",
+      "featured" : "false",
       "teamCode" : "BRA",
       "jerseyNumber" : 6,
       "id" : 218284
@@ -1480,6 +1614,7 @@
       "club" : "FC Bayern Muenchen",
       "teamId" : 43924,
       "dob" : "1983-10-18 00:00:00",
+      "featured" : "false",
       "teamCode" : "BRA",
       "jerseyNumber" : 13,
       "id" : 367913
@@ -1491,6 +1626,7 @@
       "club" : "Paris Saint-Germain FC",
       "teamId" : 43924,
       "dob" : "1981-08-27 00:00:00",
+      "featured" : "false",
       "teamCode" : "BRA",
       "jerseyNumber" : 14,
       "id" : 207809
@@ -1502,6 +1638,7 @@
       "club" : "SSC Napoli",
       "teamId" : 43924,
       "dob" : "1986-10-14 00:00:00",
+      "featured" : "false",
       "teamCode" : "BRA",
       "jerseyNumber" : 15,
       "id" : 298613
@@ -1513,6 +1650,7 @@
       "club" : "AS Roma",
       "teamId" : 43924,
       "dob" : "1981-07-26 00:00:00",
+      "featured" : "false",
       "teamCode" : "BRA",
       "jerseyNumber" : 23,
       "id" : 181406
@@ -1524,6 +1662,7 @@
       "club" : "Santos FC",
       "teamId" : 43925,
       "dob" : "1988-07-18 00:00:00",
+      "featured" : "false",
       "teamCode" : "CHI",
       "jerseyNumber" : 2,
       "id" : 349592
@@ -1535,6 +1674,7 @@
       "club" : "Malmo FF",
       "teamId" : 43925,
       "dob" : "1990-11-30 00:00:00",
+      "featured" : "false",
       "teamCode" : "CHI",
       "jerseyNumber" : 3,
       "id" : 379894
@@ -1546,6 +1686,7 @@
       "club" : "Juventus FC",
       "teamId" : 43925,
       "dob" : "1988-06-12 00:00:00",
+      "featured" : "false",
       "teamCode" : "CHI",
       "jerseyNumber" : 4,
       "id" : 228617
@@ -1557,6 +1698,7 @@
       "club" : "Club Universidad de Chile",
       "teamId" : 43925,
       "dob" : "1983-06-23 00:00:00",
+      "featured" : "false",
       "teamCode" : "CHI",
       "jerseyNumber" : 13,
       "id" : 245156
@@ -1568,6 +1710,7 @@
       "club" : "Cardiff City FC",
       "teamId" : 43925,
       "dob" : "1987-08-03 00:00:00",
+      "featured" : "false",
       "teamCode" : "CHI",
       "jerseyNumber" : 17,
       "id" : 267527
@@ -1579,6 +1722,7 @@
       "club" : "Nottingham Forest FC",
       "teamId" : 43925,
       "dob" : "1985-08-29 00:00:00",
+      "featured" : "false",
       "teamCode" : "CHI",
       "jerseyNumber" : 18,
       "id" : 229439
@@ -1590,6 +1734,7 @@
       "club" : "Caykur Rizespor",
       "teamId" : 43854,
       "dob" : "1986-12-21 00:00:00",
+      "featured" : "false",
       "teamCode" : "CIV",
       "jerseyNumber" : 2,
       "id" : 291332
@@ -1601,6 +1746,7 @@
       "club" : "VfB Stuttgart",
       "teamId" : 43854,
       "dob" : "1983-04-02 00:00:00",
+      "featured" : "false",
       "teamCode" : "CIV",
       "jerseyNumber" : 3,
       "id" : 198489
@@ -1612,6 +1758,7 @@
       "club" : "Liverpool FC",
       "teamId" : 43854,
       "dob" : "1981-03-19 00:00:00",
+      "featured" : "false",
       "teamCode" : "CIV",
       "jerseyNumber" : 4,
       "id" : 178963
@@ -1623,6 +1770,7 @@
       "club" : "Trabzonspor",
       "teamId" : 43854,
       "dob" : "1980-12-14 00:00:00",
+      "featured" : "false",
       "teamCode" : "CIV",
       "jerseyNumber" : 5,
       "id" : 176971
@@ -1634,6 +1782,7 @@
       "club" : "Toulouse FC",
       "teamId" : 43854,
       "dob" : "1992-10-11 00:00:00",
+      "featured" : "false",
       "teamCode" : "CIV",
       "jerseyNumber" : 7,
       "id" : 367557
@@ -1645,6 +1794,7 @@
       "club" : "Toulouse FC",
       "teamId" : 43854,
       "dob" : "1992-12-24 00:00:00",
+      "featured" : "false",
       "teamCode" : "CIV",
       "jerseyNumber" : 17,
       "id" : 370522
@@ -1656,6 +1806,7 @@
       "club" : "Eintracht Frankfurt",
       "teamId" : 43854,
       "dob" : "1986-10-17 00:00:00",
+      "featured" : "false",
       "teamCode" : "CIV",
       "jerseyNumber" : 18,
       "id" : 240718
@@ -1667,6 +1818,7 @@
       "club" : "Trabzonspor",
       "teamId" : 43854,
       "dob" : "1985-01-13 00:00:00",
+      "featured" : "false",
       "teamCode" : "CIV",
       "jerseyNumber" : 22,
       "id" : 207946
@@ -1678,6 +1830,7 @@
       "club" : "Queens Park Rangers FC",
       "teamId" : 43849,
       "dob" : "1984-03-24 00:00:00",
+      "featured" : "false",
       "teamCode" : "CMR",
       "jerseyNumber" : 2,
       "id" : 306180
@@ -1689,6 +1842,7 @@
       "club" : "Olympique Marseille",
       "teamId" : 43849,
       "dob" : "1990-03-27 00:00:00",
+      "featured" : "false",
       "teamCode" : "CMR",
       "jerseyNumber" : 3,
       "id" : 290931
@@ -1700,6 +1854,7 @@
       "club" : "Coton Sport FC",
       "teamId" : 43849,
       "dob" : "1992-08-28 00:00:00",
+      "featured" : "false",
       "teamCode" : "CMR",
       "jerseyNumber" : 4,
       "id" : 380060
@@ -1711,6 +1866,7 @@
       "club" : "Besiktas JK",
       "teamId" : 43849,
       "dob" : "1986-04-11 00:00:00",
+      "featured" : "false",
       "teamCode" : "CMR",
       "jerseyNumber" : 5,
       "id" : 200259
@@ -1722,6 +1878,7 @@
       "club" : "Olympique Lyonnais",
       "teamId" : 43849,
       "dob" : "1984-06-04 00:00:00",
+      "featured" : "false",
       "teamCode" : "CMR",
       "jerseyNumber" : 12,
       "id" : 317072
@@ -1733,6 +1890,7 @@
       "club" : "Galatasaray SK",
       "teamId" : 43849,
       "dob" : "1985-06-20 00:00:00",
+      "featured" : "false",
       "teamCode" : "CMR",
       "jerseyNumber" : 14,
       "id" : 278732
@@ -1744,6 +1902,7 @@
       "club" : "Granada CF",
       "teamId" : 43849,
       "dob" : "1988-05-10 00:00:00",
+      "featured" : "false",
       "teamCode" : "CMR",
       "jerseyNumber" : 22,
       "id" : 355023
@@ -1755,6 +1914,7 @@
       "club" : "AC Milan",
       "teamId" : 43926,
       "dob" : "1986-09-30 00:00:00",
+      "featured" : "false",
       "teamCode" : "COL",
       "jerseyNumber" : 2,
       "id" : 200209
@@ -1766,6 +1926,7 @@
       "club" : "Atalanta Bergamo",
       "teamId" : 43926,
       "dob" : "1976-01-13 00:00:00",
+      "featured" : "false",
       "teamCode" : "COL",
       "jerseyNumber" : 3,
       "id" : 3408
@@ -1777,6 +1938,7 @@
       "club" : "PSV Eindhoven",
       "teamId" : 43926,
       "dob" : "1992-01-13 00:00:00",
+      "featured" : "false",
       "teamCode" : "COL",
       "jerseyNumber" : 4,
       "id" : 315614
@@ -1788,6 +1950,7 @@
       "club" : "West Ham United FC",
       "teamId" : 43926,
       "dob" : "1986-11-02 00:00:00",
+      "featured" : "false",
       "teamCode" : "COL",
       "jerseyNumber" : 7,
       "id" : 200213
@@ -1799,6 +1962,7 @@
       "club" : "CA River Plate",
       "teamId" : 43926,
       "dob" : "1993-02-28 00:00:00",
+      "featured" : "false",
       "teamCode" : "COL",
       "jerseyNumber" : 16,
       "id" : 369546
@@ -1810,6 +1974,7 @@
       "club" : "SSC Napoli",
       "teamId" : 43926,
       "dob" : "1985-12-14 00:00:00",
+      "featured" : "false",
       "teamCode" : "COL",
       "jerseyNumber" : 18,
       "id" : 229443
@@ -1821,6 +1986,7 @@
       "club" : "CA San Lorenzo de Almagro",
       "teamId" : 43926,
       "dob" : "1985-05-22 00:00:00",
+      "featured" : "false",
       "teamCode" : "COL",
       "jerseyNumber" : 23,
       "id" : 217117
@@ -1832,6 +1998,7 @@
       "club" : "LD Alajuelense",
       "teamId" : 43901,
       "dob" : "1983-07-21 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRC",
       "jerseyNumber" : 2,
       "id" : 339447
@@ -1843,6 +2010,7 @@
       "club" : "Columbus Crew",
       "teamId" : 43901,
       "dob" : "1988-02-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRC",
       "jerseyNumber" : 3,
       "id" : 268821
@@ -1854,6 +2022,7 @@
       "club" : "Deportivo Saprissa",
       "teamId" : 43901,
       "dob" : "1982-07-16 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRC",
       "jerseyNumber" : 4,
       "id" : 208120
@@ -1865,6 +2034,7 @@
       "club" : "Club Brugge KV",
       "teamId" : 43901,
       "dob" : "1989-06-03 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRC",
       "jerseyNumber" : 6,
       "id" : 312987
@@ -1876,6 +2046,7 @@
       "club" : "CS Herediano",
       "teamId" : 43901,
       "dob" : "1988-06-01 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRC",
       "jerseyNumber" : 8,
       "id" : 236533
@@ -1887,6 +2058,7 @@
       "club" : "Columbus Crew",
       "teamId" : 43901,
       "dob" : "1990-09-20 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRC",
       "jerseyNumber" : 12,
       "id" : 379974
@@ -1898,6 +2070,7 @@
       "club" : "FSV Mainz 05",
       "teamId" : 43901,
       "dob" : "1983-09-12 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRC",
       "jerseyNumber" : 15,
       "id" : 209940
@@ -1909,6 +2082,7 @@
       "club" : "Rosenborg BK",
       "teamId" : 43901,
       "dob" : "1989-10-24 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRC",
       "jerseyNumber" : 16,
       "id" : 307026
@@ -1920,6 +2094,7 @@
       "club" : "New York Red Bulls",
       "teamId" : 43901,
       "dob" : "1984-11-24 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRC",
       "jerseyNumber" : 19,
       "id" : 183798
@@ -1931,6 +2106,7 @@
       "club" : "Genoa CFC",
       "teamId" : 43938,
       "dob" : "1992-01-10 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRO",
       "jerseyNumber" : 2,
       "id" : 336485
@@ -1942,6 +2118,7 @@
       "club" : "Panathinaikos FC",
       "teamId" : 43938,
       "dob" : "1981-12-02 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRO",
       "jerseyNumber" : 3,
       "id" : 210702
@@ -1953,6 +2130,7 @@
       "club" : "FC Lokomotiv Moscow",
       "teamId" : 43938,
       "dob" : "1986-02-05 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRO",
       "jerseyNumber" : 5,
       "id" : 297373
@@ -1964,6 +2142,7 @@
       "club" : "Southampton FC",
       "teamId" : 43938,
       "dob" : "1989-07-05 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRO",
       "jerseyNumber" : 6,
       "id" : 312432
@@ -1975,6 +2154,7 @@
       "club" : "Shakhtar Donetsk",
       "teamId" : 43938,
       "dob" : "1982-05-01 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRO",
       "jerseyNumber" : 11,
       "id" : 210704
@@ -1986,6 +2166,7 @@
       "club" : "Panathinaikos FC",
       "teamId" : 43938,
       "dob" : "1985-03-18 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRO",
       "jerseyNumber" : 13,
       "id" : 357990
@@ -1997,6 +2178,7 @@
       "club" : "FC Dynamo Kyiv",
       "teamId" : 43938,
       "dob" : "1989-04-29 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRO",
       "jerseyNumber" : 21,
       "id" : 299896
@@ -2008,6 +2190,7 @@
       "club" : "CS Emelec",
       "teamId" : 43927,
       "dob" : "1981-09-28 00:00:00",
+      "featured" : "false",
       "teamCode" : "ECU",
       "jerseyNumber" : 2,
       "id" : 181930
@@ -2019,6 +2202,7 @@
       "club" : "CR Flamengo",
       "teamId" : 43927,
       "dob" : "1988-05-05 00:00:00",
+      "featured" : "false",
       "teamCode" : "ECU",
       "jerseyNumber" : 3,
       "id" : 349578
@@ -2030,6 +2214,7 @@
       "club" : "Barcelona SC",
       "teamId" : 43927,
       "dob" : "1987-07-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "ECU",
       "jerseyNumber" : 4,
       "id" : 349576
@@ -2041,6 +2226,7 @@
       "club" : "CS Emelec",
       "teamId" : 43927,
       "dob" : "1982-12-10 00:00:00",
+      "featured" : "false",
       "teamCode" : "ECU",
       "jerseyNumber" : 18,
       "id" : 275793
@@ -2052,6 +2238,7 @@
       "club" : "CS Emelec",
       "teamId" : 43927,
       "dob" : "1985-03-24 00:00:00",
+      "featured" : "false",
       "teamCode" : "ECU",
       "jerseyNumber" : 21,
       "id" : 229450
@@ -2063,6 +2250,7 @@
       "club" : "Liverpool FC",
       "teamId" : 43942,
       "dob" : "1984-08-23 00:00:00",
+      "featured" : "false",
       "teamCode" : "ENG",
       "jerseyNumber" : 2,
       "id" : 197464
@@ -2074,6 +2262,7 @@
       "club" : "Everton FC",
       "teamId" : 43942,
       "dob" : "1984-12-11 00:00:00",
+      "featured" : "false",
       "teamCode" : "ENG",
       "jerseyNumber" : 3,
       "id" : 305768
@@ -2085,6 +2274,7 @@
       "club" : "Chelsea FC",
       "teamId" : 43942,
       "dob" : "1985-12-19 00:00:00",
+      "featured" : "false",
       "teamCode" : "ENG",
       "jerseyNumber" : 5,
       "id" : 305764
@@ -2096,6 +2286,7 @@
       "club" : "Everton FC",
       "teamId" : 43942,
       "dob" : "1982-08-17 00:00:00",
+      "featured" : "false",
       "teamCode" : "ENG",
       "jerseyNumber" : 6,
       "id" : 299960
@@ -2107,6 +2298,7 @@
       "club" : "Manchester United FC",
       "teamId" : 43942,
       "dob" : "1989-11-22 00:00:00",
+      "featured" : "false",
       "teamCode" : "ENG",
       "jerseyNumber" : 12,
       "id" : 356748
@@ -2118,6 +2310,7 @@
       "club" : "Manchester United FC",
       "teamId" : 43942,
       "dob" : "1992-02-21 00:00:00",
+      "featured" : "false",
       "teamCode" : "ENG",
       "jerseyNumber" : 16,
       "id" : 358009
@@ -2129,6 +2322,7 @@
       "club" : "Southampton FC",
       "teamId" : 43942,
       "dob" : "1995-07-12 00:00:00",
+      "featured" : "false",
       "teamCode" : "ENG",
       "jerseyNumber" : 23,
       "id" : 336450
@@ -2140,6 +2334,7 @@
       "club" : "SSC Napoli",
       "teamId" : 43969,
       "dob" : "1985-09-04 00:00:00",
+      "featured" : "false",
       "teamCode" : "ESP",
       "jerseyNumber" : 2,
       "id" : 216820
@@ -2151,6 +2346,7 @@
       "club" : "FC Barcelona",
       "teamId" : 43969,
       "dob" : "1987-02-02 00:00:00",
+      "featured" : "false",
       "teamCode" : "ESP",
       "jerseyNumber" : 3,
       "id" : 216973
@@ -2162,6 +2358,7 @@
       "club" : "Atletico Madrid",
       "teamId" : 43969,
       "dob" : "1985-01-09 00:00:00",
+      "featured" : "false",
       "teamCode" : "ESP",
       "jerseyNumber" : 5,
       "id" : 207906
@@ -2173,6 +2370,7 @@
       "club" : "Real Madrid CF",
       "teamId" : 43969,
       "dob" : "1986-03-30 00:00:00",
+      "featured" : "false",
       "teamCode" : "ESP",
       "jerseyNumber" : 15,
       "id" : 216814
@@ -2184,6 +2382,7 @@
       "club" : "FC Barcelona",
       "teamId" : 43969,
       "dob" : "1989-03-21 00:00:00",
+      "featured" : "false",
       "teamCode" : "ESP",
       "jerseyNumber" : 18,
       "id" : 306954
@@ -2195,6 +2394,7 @@
       "club" : "Newcastle United FC",
       "teamId" : 43946,
       "dob" : "1985-07-28 00:00:00",
+      "featured" : "false",
       "teamCode" : "FRA",
       "jerseyNumber" : 2,
       "id" : 358011
@@ -2206,6 +2406,7 @@
       "club" : "Manchester United FC",
       "teamId" : 43946,
       "dob" : "1981-05-15 00:00:00",
+      "featured" : "false",
       "teamCode" : "FRA",
       "jerseyNumber" : 3,
       "id" : 212246
@@ -2217,6 +2418,7 @@
       "club" : "Real Madrid CF",
       "teamId" : 43946,
       "dob" : "1993-04-25 00:00:00",
+      "featured" : "false",
       "teamCode" : "FRA",
       "jerseyNumber" : 4,
       "id" : 359440
@@ -2228,6 +2430,7 @@
       "club" : "Liverpool FC",
       "teamId" : 43946,
       "dob" : "1990-02-13 00:00:00",
+      "featured" : "false",
       "teamCode" : "FRA",
       "jerseyNumber" : 5,
       "id" : 274135
@@ -2239,6 +2442,7 @@
       "club" : "FC Porto",
       "teamId" : 43946,
       "dob" : "1991-02-13 00:00:00",
+      "featured" : "false",
       "teamCode" : "FRA",
       "jerseyNumber" : 13,
       "id" : 319340
@@ -2250,6 +2454,7 @@
       "club" : "Arsenal FC",
       "teamId" : 43946,
       "dob" : "1983-02-14 00:00:00",
+      "featured" : "false",
       "teamCode" : "FRA",
       "jerseyNumber" : 15,
       "id" : 254141
@@ -2261,6 +2466,7 @@
       "club" : "Paris Saint-Germain FC",
       "teamId" : 43946,
       "dob" : "1993-07-20 00:00:00",
+      "featured" : "false",
       "teamCode" : "FRA",
       "jerseyNumber" : 17,
       "id" : 368860
@@ -2272,6 +2478,7 @@
       "club" : "Arsenal FC",
       "teamId" : 43946,
       "dob" : "1985-09-10 00:00:00",
+      "featured" : "false",
       "teamCode" : "FRA",
       "jerseyNumber" : 21,
       "id" : 358012
@@ -2283,6 +2490,7 @@
       "club" : "Borussia Dortmund",
       "teamId" : 43948,
       "dob" : "1988-07-19 00:00:00",
+      "featured" : "false",
       "teamCode" : "GER",
       "jerseyNumber" : 2,
       "id" : 358694
@@ -2294,6 +2502,7 @@
       "club" : "SC Freiburg",
       "teamId" : 43948,
       "dob" : "1994-01-19 00:00:00",
+      "featured" : "false",
       "teamCode" : "GER",
       "jerseyNumber" : 3,
       "id" : 379736
@@ -2305,6 +2514,7 @@
       "club" : "FC Schalke 04",
       "teamId" : 43948,
       "dob" : "1988-02-29 00:00:00",
+      "featured" : "false",
       "teamCode" : "GER",
       "jerseyNumber" : 4,
       "id" : 311148
@@ -2316,6 +2526,7 @@
       "club" : "Borussia Dortmund",
       "teamId" : 43948,
       "dob" : "1988-12-16 00:00:00",
+      "featured" : "false",
       "teamCode" : "GER",
       "jerseyNumber" : 5,
       "id" : 311150
@@ -2327,6 +2538,7 @@
       "club" : "Borussia Dortmund",
       "teamId" : 43948,
       "dob" : "1992-05-12 00:00:00",
+      "featured" : "false",
       "teamCode" : "GER",
       "jerseyNumber" : 15,
       "id" : 379952
@@ -2338,6 +2550,7 @@
       "club" : "Arsenal FC",
       "teamId" : 43948,
       "dob" : "1984-09-29 00:00:00",
+      "featured" : "false",
       "teamCode" : "GER",
       "jerseyNumber" : 17,
       "id" : 207888
@@ -2349,6 +2562,7 @@
       "club" : "FC Bayern Muenchen",
       "teamId" : 43948,
       "dob" : "1988-09-03 00:00:00",
+      "featured" : "false",
       "teamCode" : "GER",
       "jerseyNumber" : 20,
       "id" : 299442
@@ -2360,6 +2574,7 @@
       "club" : "UC Sampdoria",
       "teamId" : 43948,
       "dob" : "1992-04-17 00:00:00",
+      "featured" : "false",
       "teamCode" : "GER",
       "jerseyNumber" : 21,
       "id" : 309308
@@ -2371,6 +2586,7 @@
       "club" : "FC Platanias",
       "teamId" : 43860,
       "dob" : "1989-06-01 00:00:00",
+      "featured" : "false",
       "teamCode" : "GHA",
       "jerseyNumber" : 2,
       "id" : 238381
@@ -2382,6 +2598,7 @@
       "club" : "Standard Liege",
       "teamId" : 43860,
       "dob" : "1990-10-18 00:00:00",
+      "featured" : "false",
       "teamCode" : "GHA",
       "jerseyNumber" : 4,
       "id" : 269071
@@ -2393,6 +2610,7 @@
       "club" : "Mamelodi Sundowns FC",
       "teamId" : 43860,
       "dob" : "1992-12-18 00:00:00",
+      "featured" : "false",
       "teamCode" : "GHA",
       "jerseyNumber" : 15,
       "id" : 370469
@@ -2404,6 +2622,7 @@
       "club" : "Evian TG FC",
       "teamId" : 43860,
       "dob" : "1990-07-13 00:00:00",
+      "featured" : "false",
       "teamCode" : "GHA",
       "jerseyNumber" : 19,
       "id" : 306634
@@ -2415,6 +2634,7 @@
       "club" : "Stade Rennais FC",
       "teamId" : 43860,
       "dob" : "1987-04-23 00:00:00",
+      "featured" : "false",
       "teamCode" : "GHA",
       "jerseyNumber" : 21,
       "id" : 298582
@@ -2426,6 +2646,7 @@
       "club" : "Esperance Sportive de Tunis",
       "teamId" : 43860,
       "dob" : "1986-07-24 00:00:00",
+      "featured" : "false",
       "teamCode" : "GHA",
       "jerseyNumber" : 23,
       "id" : 294626
@@ -2437,6 +2658,7 @@
       "club" : "PAOK FC",
       "teamId" : 43949,
       "dob" : "1987-11-26 00:00:00",
+      "featured" : "false",
       "teamCode" : "GRE",
       "jerseyNumber" : 3,
       "id" : 319298
@@ -2448,6 +2670,7 @@
       "club" : "Olympiacos Piraeus FC",
       "teamId" : 43949,
       "dob" : "1991-06-14 00:00:00",
+      "featured" : "false",
       "teamCode" : "GRE",
       "jerseyNumber" : 4,
       "id" : 323556
@@ -2459,6 +2682,7 @@
       "club" : "Hellas Verona FC",
       "teamId" : 43949,
       "dob" : "1981-08-26 00:00:00",
+      "featured" : "false",
       "teamCode" : "GRE",
       "jerseyNumber" : 5,
       "id" : 215471
@@ -2470,6 +2694,7 @@
       "club" : "Levante UD",
       "teamId" : 43949,
       "dob" : "1981-02-05 00:00:00",
+      "featured" : "false",
       "teamCode" : "GRE",
       "jerseyNumber" : 11,
       "id" : 215484
@@ -2481,6 +2706,7 @@
       "club" : "AS Roma",
       "teamId" : 43949,
       "dob" : "1985-06-10 00:00:00",
+      "featured" : "false",
       "teamCode" : "GRE",
       "jerseyNumber" : 15,
       "id" : 228336
@@ -2492,6 +2718,7 @@
       "club" : "Borussia Dortmund",
       "teamId" : 43949,
       "dob" : "1988-06-09 00:00:00",
+      "featured" : "false",
       "teamCode" : "GRE",
       "jerseyNumber" : 19,
       "id" : 299090
@@ -2503,6 +2730,7 @@
       "club" : "Olympiacos Piraeus FC",
       "teamId" : 43949,
       "dob" : "1984-06-27 00:00:00",
+      "featured" : "false",
       "teamCode" : "GRE",
       "jerseyNumber" : 20,
       "id" : 358022
@@ -2514,6 +2742,7 @@
       "club" : "Qingdao Jonoon FC",
       "teamId" : 43909,
       "dob" : "1984-07-29 00:00:00",
+      "featured" : "false",
       "teamCode" : "HON",
       "jerseyNumber" : 2,
       "id" : 297230
@@ -2525,6 +2754,7 @@
       "club" : "Hull City FC",
       "teamId" : 43909,
       "dob" : "1983-05-02 00:00:00",
+      "featured" : "false",
       "teamCode" : "HON",
       "jerseyNumber" : 3,
       "id" : 213879
@@ -2536,6 +2766,7 @@
       "club" : "CD Motagua",
       "teamId" : 43909,
       "dob" : "1985-12-26 00:00:00",
+      "featured" : "false",
       "teamCode" : "HON",
       "jerseyNumber" : 4,
       "id" : 365464
@@ -2547,6 +2778,7 @@
       "club" : "San Jose Earthquakes",
       "teamId" : 43909,
       "dob" : "1982-05-24 00:00:00",
+      "featured" : "false",
       "teamCode" : "HON",
       "jerseyNumber" : 5,
       "id" : 213878
@@ -2558,6 +2790,7 @@
       "club" : "Wigan Athletic FC",
       "teamId" : 43909,
       "dob" : "1988-03-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "HON",
       "jerseyNumber" : 6,
       "id" : 296303
@@ -2569,6 +2802,7 @@
       "club" : "CD Olimpia",
       "teamId" : 43909,
       "dob" : "1985-11-28 00:00:00",
+      "featured" : "false",
       "teamCode" : "HON",
       "jerseyNumber" : 21,
       "id" : 339551
@@ -2580,6 +2814,7 @@
       "club" : "Perspolis FC",
       "teamId" : 43817,
       "dob" : "1982-02-03 00:00:00",
+      "featured" : "false",
       "teamCode" : "IRN",
       "jerseyNumber" : 4,
       "id" : 278072
@@ -2591,6 +2826,7 @@
       "club" : "Esteghlal Tehran FC",
       "teamId" : 43817,
       "dob" : "1981-09-06 00:00:00",
+      "featured" : "false",
       "teamCode" : "IRN",
       "jerseyNumber" : 5,
       "id" : 213124
@@ -2602,6 +2838,7 @@
       "club" : "Perspolis FC",
       "teamId" : 43817,
       "dob" : "1986-09-16 00:00:00",
+      "featured" : "false",
       "teamCode" : "IRN",
       "jerseyNumber" : 13,
       "id" : 329745
@@ -2613,6 +2850,7 @@
       "club" : "Umm Salal SC",
       "teamId" : 43817,
       "dob" : "1983-09-06 00:00:00",
+      "featured" : "false",
       "teamCode" : "IRN",
       "jerseyNumber" : 15,
       "id" : 251481
@@ -2624,6 +2862,7 @@
       "club" : "Naft Tehran FC",
       "teamId" : 43817,
       "dob" : "1982-10-20 00:00:00",
+      "featured" : "false",
       "teamCode" : "IRN",
       "jerseyNumber" : 17,
       "id" : 295153
@@ -2635,6 +2874,7 @@
       "club" : "Vancouver Whitecaps FC",
       "teamId" : 43817,
       "dob" : "1987-02-01 00:00:00",
+      "featured" : "false",
       "teamCode" : "IRN",
       "jerseyNumber" : 20,
       "id" : 379889
@@ -2646,6 +2886,7 @@
       "club" : "Perspolis FC",
       "teamId" : 43817,
       "dob" : "1987-02-26 00:00:00",
+      "featured" : "false",
       "teamCode" : "IRN",
       "jerseyNumber" : 23,
       "id" : 267344
@@ -2657,6 +2898,7 @@
       "club" : "AC Milan",
       "teamId" : 43954,
       "dob" : "1992-10-20 00:00:00",
+      "featured" : "false",
       "teamCode" : "ITA",
       "jerseyNumber" : 2,
       "id" : 359223
@@ -2668,6 +2910,7 @@
       "club" : "Juventus FC",
       "teamId" : 43954,
       "dob" : "1984-08-14 00:00:00",
+      "featured" : "false",
       "teamCode" : "ITA",
       "jerseyNumber" : 3,
       "id" : 215274
@@ -2679,6 +2922,7 @@
       "club" : "Torino FC",
       "teamId" : 43954,
       "dob" : "1989-12-02 00:00:00",
+      "featured" : "false",
       "teamCode" : "ITA",
       "jerseyNumber" : 4,
       "id" : 288824
@@ -2690,6 +2934,7 @@
       "club" : "AC Milan",
       "teamId" : 43954,
       "dob" : "1986-11-12 00:00:00",
+      "featured" : "false",
       "teamCode" : "ITA",
       "jerseyNumber" : 7,
       "id" : 228936
@@ -2701,6 +2946,7 @@
       "club" : "Juventus FC",
       "teamId" : 43954,
       "dob" : "1981-05-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "ITA",
       "jerseyNumber" : 15,
       "id" : 214377
@@ -2712,6 +2958,7 @@
       "club" : "Juventus FC",
       "teamId" : 43954,
       "dob" : "1987-05-01 00:00:00",
+      "featured" : "false",
       "teamCode" : "ITA",
       "jerseyNumber" : 19,
       "id" : 321641
@@ -2723,6 +2970,7 @@
       "club" : "Parma FC",
       "teamId" : 43954,
       "dob" : "1986-02-15 00:00:00",
+      "featured" : "false",
       "teamCode" : "ITA",
       "jerseyNumber" : 20,
       "id" : 233333
@@ -2734,6 +2982,7 @@
       "club" : "FC Schalke 04",
       "teamId" : 43819,
       "dob" : "1988-03-27 00:00:00",
+      "featured" : "false",
       "teamCode" : "JPN",
       "jerseyNumber" : 2,
       "id" : 268474
@@ -2745,6 +2994,7 @@
       "club" : "VfB Stuttgart",
       "teamId" : 43819,
       "dob" : "1991-03-14 00:00:00",
+      "featured" : "false",
       "teamCode" : "JPN",
       "jerseyNumber" : 3,
       "id" : 321736
@@ -2756,6 +3006,7 @@
       "club" : "FC Internazionale",
       "teamId" : 43819,
       "dob" : "1986-09-12 00:00:00",
+      "featured" : "false",
       "teamCode" : "JPN",
       "jerseyNumber" : 5,
       "id" : 291372
@@ -2767,6 +3018,7 @@
       "club" : "FC Tokyo",
       "teamId" : 43819,
       "dob" : "1987-05-21 00:00:00",
+      "featured" : "false",
       "teamCode" : "JPN",
       "jerseyNumber" : 6,
       "id" : 268594
@@ -2778,6 +3030,7 @@
       "club" : "Gamba Osaka",
       "teamId" : 43819,
       "dob" : "1983-01-25 00:00:00",
+      "featured" : "false",
       "teamCode" : "JPN",
       "jerseyNumber" : 15,
       "id" : 184373
@@ -2789,6 +3042,7 @@
       "club" : "Jubilo Iwata",
       "teamId" : 43819,
       "dob" : "1985-08-28 00:00:00",
+      "featured" : "false",
       "teamCode" : "JPN",
       "jerseyNumber" : 19,
       "id" : 233497
@@ -2800,6 +3054,7 @@
       "club" : "Hannover 96",
       "teamId" : 43819,
       "dob" : "1990-04-12 00:00:00",
+      "featured" : "false",
       "teamCode" : "JPN",
       "jerseyNumber" : 21,
       "id" : 350003
@@ -2811,6 +3066,7 @@
       "club" : "Southampton FC",
       "teamId" : 43819,
       "dob" : "1988-08-24 00:00:00",
+      "featured" : "false",
       "teamCode" : "JPN",
       "jerseyNumber" : 22,
       "id" : 271253
@@ -2822,6 +3078,7 @@
       "club" : "Kashiwa Reysol",
       "teamId" : 43822,
       "dob" : "1985-09-12 00:00:00",
+      "featured" : "false",
       "teamCode" : "KOR",
       "jerseyNumber" : 2,
       "id" : 278126
@@ -2833,6 +3090,7 @@
       "club" : "Queens Park Rangers FC",
       "teamId" : 43822,
       "dob" : "1990-02-13 00:00:00",
+      "featured" : "false",
       "teamCode" : "KOR",
       "jerseyNumber" : 3,
       "id" : 274283
@@ -2844,6 +3102,7 @@
       "club" : "Al Hilal FC",
       "teamId" : 43822,
       "dob" : "1981-07-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "KOR",
       "jerseyNumber" : 4,
       "id" : 212410
@@ -2855,6 +3114,7 @@
       "club" : "Guangzhou Evergrande FC",
       "teamId" : 43822,
       "dob" : "1990-02-27 00:00:00",
+      "featured" : "false",
       "teamCode" : "KOR",
       "jerseyNumber" : 5,
       "id" : 375754
@@ -2866,6 +3126,7 @@
       "club" : "Sanfrecce Hiroshima",
       "teamId" : 43822,
       "dob" : "1989-06-27 00:00:00",
+      "featured" : "false",
       "teamCode" : "KOR",
       "jerseyNumber" : 6,
       "id" : 356518
@@ -2877,6 +3138,7 @@
       "club" : "Ulsan Hyundai FC",
       "teamId" : 43822,
       "dob" : "1986-12-24 00:00:00",
+      "featured" : "false",
       "teamCode" : "KOR",
       "jerseyNumber" : 12,
       "id" : 363578
@@ -2888,6 +3150,7 @@
       "club" : "FC Augsburg",
       "teamId" : 43822,
       "dob" : "1989-08-12 00:00:00",
+      "featured" : "false",
       "teamCode" : "KOR",
       "jerseyNumber" : 20,
       "id" : 312679
@@ -2899,6 +3162,7 @@
       "club" : "FSV Mainz 05",
       "teamId" : 43822,
       "dob" : "1987-01-16 00:00:00",
+      "featured" : "false",
       "teamCode" : "KOR",
       "jerseyNumber" : 22,
       "id" : 268411
@@ -2910,6 +3174,7 @@
       "club" : "Club America",
       "teamId" : 43911,
       "dob" : "1981-10-20 00:00:00",
+      "featured" : "false",
       "teamCode" : "MEX",
       "jerseyNumber" : 2,
       "id" : 209960
@@ -2921,6 +3186,7 @@
       "club" : "Tigres UANL",
       "teamId" : 43911,
       "dob" : "1980-04-02 00:00:00",
+      "featured" : "false",
       "teamCode" : "MEX",
       "jerseyNumber" : 3,
       "id" : 218253
@@ -2932,6 +3198,7 @@
       "club" : "Club Leon",
       "teamId" : 43911,
       "dob" : "1979-02-13 00:00:00",
+      "featured" : "false",
       "teamCode" : "MEX",
       "jerseyNumber" : 4,
       "id" : 178119
@@ -2943,6 +3210,7 @@
       "club" : "FC Porto",
       "teamId" : 43911,
       "dob" : "1992-09-19 00:00:00",
+      "featured" : "false",
       "teamCode" : "MEX",
       "jerseyNumber" : 5,
       "id" : 308082
@@ -2954,6 +3222,7 @@
       "club" : "Club America",
       "teamId" : 43911,
       "dob" : "1988-06-25 00:00:00",
+      "featured" : "false",
       "teamCode" : "MEX",
       "jerseyNumber" : 7,
       "id" : 371044
@@ -2965,6 +3234,7 @@
       "club" : "RCD Espanyol",
       "teamId" : 43911,
       "dob" : "1988-01-17 00:00:00",
+      "featured" : "false",
       "teamCode" : "MEX",
       "jerseyNumber" : 15,
       "id" : 238112
@@ -2976,6 +3246,7 @@
       "club" : "Deportivo Toluca FC",
       "teamId" : 43911,
       "dob" : "1989-04-12 00:00:00",
+      "featured" : "false",
       "teamCode" : "MEX",
       "jerseyNumber" : 16,
       "id" : 350129
@@ -2987,6 +3258,7 @@
       "club" : "Bayer 04 Leverkusen",
       "teamId" : 43911,
       "dob" : "1986-09-28 00:00:00",
+      "featured" : "false",
       "teamCode" : "MEX",
       "jerseyNumber" : 18,
       "id" : 251352
@@ -2998,6 +3270,7 @@
       "club" : "Club America",
       "teamId" : 43911,
       "dob" : "1986-03-06 00:00:00",
+      "featured" : "false",
       "teamCode" : "MEX",
       "jerseyNumber" : 22,
       "id" : 289195
@@ -3009,6 +3282,7 @@
       "club" : "Aston Villa FC",
       "teamId" : 43960,
       "dob" : "1985-02-16 00:00:00",
+      "featured" : "false",
       "teamCode" : "NED",
       "jerseyNumber" : 2,
       "id" : 216715
@@ -3020,6 +3294,7 @@
       "club" : "Feyenoord Rotterdam",
       "teamId" : 43960,
       "dob" : "1992-02-05 00:00:00",
+      "featured" : "false",
       "teamCode" : "NED",
       "jerseyNumber" : 3,
       "id" : 313021
@@ -3031,6 +3306,7 @@
       "club" : "Feyenoord Rotterdam",
       "teamId" : 43960,
       "dob" : "1992-02-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "NED",
       "jerseyNumber" : 4,
       "id" : 358736
@@ -3042,6 +3318,7 @@
       "club" : "AFC Ajax",
       "teamId" : 43960,
       "dob" : "1990-03-09 00:00:00",
+      "featured" : "false",
       "teamCode" : "NED",
       "jerseyNumber" : 5,
       "id" : 319432
@@ -3053,6 +3330,7 @@
       "club" : "Feyenoord Rotterdam",
       "teamId" : 43960,
       "dob" : "1989-07-22 00:00:00",
+      "featured" : "false",
       "teamCode" : "NED",
       "jerseyNumber" : 7,
       "id" : 319428
@@ -3064,6 +3342,7 @@
       "club" : "FC Augsburg",
       "teamId" : 43960,
       "dob" : "1983-09-01 00:00:00",
+      "featured" : "false",
       "teamCode" : "NED",
       "jerseyNumber" : 12,
       "id" : 254091
@@ -3075,6 +3354,7 @@
       "club" : "AFC Ajax",
       "teamId" : 43960,
       "dob" : "1992-01-15 00:00:00",
+      "featured" : "false",
       "teamCode" : "NED",
       "jerseyNumber" : 13,
       "id" : 313051
@@ -3086,6 +3366,7 @@
       "club" : "Feyenoord Rotterdam",
       "teamId" : 43960,
       "dob" : "1994-02-14 00:00:00",
+      "featured" : "false",
       "teamCode" : "NED",
       "jerseyNumber" : 14,
       "id" : 336085
@@ -3097,6 +3378,7 @@
       "club" : "Norwich City FC",
       "teamId" : 43876,
       "dob" : "1980-09-06 00:00:00",
+      "featured" : "false",
       "teamCode" : "NGA",
       "jerseyNumber" : 2,
       "id" : 178403
@@ -3108,6 +3390,7 @@
       "club" : "Celtic FC",
       "teamId" : 43876,
       "dob" : "1988-10-18 00:00:00",
+      "featured" : "false",
       "teamCode" : "NGA",
       "jerseyNumber" : 5,
       "id" : 273291
@@ -3119,6 +3402,7 @@
       "club" : "Warri Wolves FC",
       "teamId" : 43876,
       "dob" : "1989-07-16 00:00:00",
+      "featured" : "false",
       "teamCode" : "NGA",
       "jerseyNumber" : 6,
       "id" : 356711
@@ -3130,6 +3414,7 @@
       "club" : "Sunshine Stars FC",
       "teamId" : 43876,
       "dob" : "1991-04-30 00:00:00",
+      "featured" : "false",
       "teamCode" : "NGA",
       "jerseyNumber" : 12,
       "id" : 368009
@@ -3141,6 +3426,7 @@
       "club" : "FC Ashdod",
       "teamId" : 43876,
       "dob" : "1990-09-14 00:00:00",
+      "featured" : "false",
       "teamCode" : "NGA",
       "jerseyNumber" : 13,
       "id" : 356712
@@ -3152,6 +3438,7 @@
       "club" : "Caykur Rizespor",
       "teamId" : 43876,
       "dob" : "1990-09-16 00:00:00",
+      "featured" : "false",
       "teamCode" : "NGA",
       "jerseyNumber" : 14,
       "id" : 356459
@@ -3163,6 +3450,7 @@
       "club" : "Middlesbrough FC",
       "teamId" : 43876,
       "dob" : "1993-10-17 00:00:00",
+      "featured" : "false",
       "teamCode" : "NGA",
       "jerseyNumber" : 22,
       "id" : 315424
@@ -3174,6 +3462,7 @@
       "club" : "Fenerbahce SK",
       "teamId" : 43963,
       "dob" : "1981-11-27 00:00:00",
+      "featured" : "false",
       "teamCode" : "POR",
       "jerseyNumber" : 2,
       "id" : 210213
@@ -3185,6 +3474,7 @@
       "club" : "Real Madrid CF",
       "teamId" : 43963,
       "dob" : "1983-02-26 00:00:00",
+      "featured" : "false",
       "teamCode" : "POR",
       "jerseyNumber" : 3,
       "id" : 275931
@@ -3196,6 +3486,7 @@
       "club" : "Real Madrid CF",
       "teamId" : 43963,
       "dob" : "1988-03-11 00:00:00",
+      "featured" : "false",
       "teamCode" : "POR",
       "jerseyNumber" : 5,
       "id" : 269784
@@ -3207,6 +3498,7 @@
       "club" : "Valencia CF",
       "teamId" : 43963,
       "dob" : "1981-05-16 00:00:00",
+      "featured" : "false",
       "teamCode" : "POR",
       "jerseyNumber" : 13,
       "id" : 210212
@@ -3218,6 +3510,7 @@
       "club" : "FC Zenit St. Petersburg",
       "teamId" : 43963,
       "dob" : "1988-05-26 00:00:00",
+      "featured" : "false",
       "teamCode" : "POR",
       "jerseyNumber" : 14,
       "id" : 359428
@@ -3229,6 +3522,7 @@
       "club" : "SL Benfica",
       "teamId" : 43963,
       "dob" : "1990-09-10 00:00:00",
+      "featured" : "false",
       "teamCode" : "POR",
       "jerseyNumber" : 19,
       "id" : 375453
@@ -3240,6 +3534,7 @@
       "club" : "Valencia CF",
       "teamId" : 43963,
       "dob" : "1984-02-25 00:00:00",
+      "featured" : "false",
       "teamCode" : "POR",
       "jerseyNumber" : 21,
       "id" : 214407
@@ -3251,6 +3546,7 @@
       "club" : "FC Dynamo Moscow",
       "teamId" : 43965,
       "dob" : "1986-12-25 00:00:00",
+      "featured" : "false",
       "teamCode" : "RUS",
       "jerseyNumber" : 2,
       "id" : 369983
@@ -3262,6 +3558,7 @@
       "club" : "CSKA Moscow",
       "teamId" : 43965,
       "dob" : "1991-04-27 00:00:00",
+      "featured" : "false",
       "teamCode" : "RUS",
       "jerseyNumber" : 3,
       "id" : 358869
@@ -3273,6 +3570,7 @@
       "club" : "CSKA Moscow",
       "teamId" : 43965,
       "dob" : "1979-07-14 00:00:00",
+      "featured" : "false",
       "teamCode" : "RUS",
       "jerseyNumber" : 4,
       "id" : 186787
@@ -3284,6 +3582,7 @@
       "club" : "FC Terek Grozny",
       "teamId" : 43965,
       "dob" : "1989-03-24 00:00:00",
+      "featured" : "false",
       "teamCode" : "RUS",
       "jerseyNumber" : 5,
       "id" : 379985
@@ -3295,6 +3594,7 @@
       "club" : "FC Dynamo Moscow",
       "teamId" : 43965,
       "dob" : "1987-05-22 00:00:00",
+      "featured" : "false",
       "teamCode" : "RUS",
       "jerseyNumber" : 13,
       "id" : 358046
@@ -3306,6 +3606,7 @@
       "club" : "CSKA Moscow",
       "teamId" : 43965,
       "dob" : "1982-06-20 00:00:00",
+      "featured" : "false",
       "teamCode" : "RUS",
       "jerseyNumber" : 14,
       "id" : 186793
@@ -3317,6 +3618,7 @@
       "club" : "FC Anzhi Makhachkala",
       "teamId" : 43965,
       "dob" : "1984-02-09 00:00:00",
+      "featured" : "false",
       "teamCode" : "RUS",
       "jerseyNumber" : 22,
       "id" : 358893
@@ -3328,6 +3630,7 @@
       "club" : "FC Spartak Moscow",
       "teamId" : 43965,
       "dob" : "1987-01-22 00:00:00",
+      "featured" : "false",
       "teamCode" : "RUS",
       "jerseyNumber" : 23,
       "id" : 300237
@@ -3339,6 +3642,7 @@
       "club" : "Juventus FC",
       "teamId" : 43971,
       "dob" : "1984-01-16 00:00:00",
+      "featured" : "false",
       "teamCode" : "SUI",
       "jerseyNumber" : 2,
       "id" : 196605
@@ -3350,6 +3654,7 @@
       "club" : "US Sassuolo",
       "teamId" : 43971,
       "dob" : "1986-01-16 00:00:00",
+      "featured" : "false",
       "teamCode" : "SUI",
       "jerseyNumber" : 3,
       "id" : 216642
@@ -3361,6 +3666,7 @@
       "club" : "Valencia CF",
       "teamId" : 43971,
       "dob" : "1985-02-14 00:00:00",
+      "featured" : "false",
       "teamCode" : "SUI",
       "jerseyNumber" : 4,
       "id" : 209989
@@ -3372,6 +3678,7 @@
       "club" : "BSC Young Boys",
       "teamId" : 43971,
       "dob" : "1983-06-10 00:00:00",
+      "featured" : "false",
       "teamCode" : "SUI",
       "jerseyNumber" : 5,
       "id" : 196620
@@ -3383,6 +3690,7 @@
       "club" : "Grasshopper Club",
       "teamId" : 43971,
       "dob" : "1991-02-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "SUI",
       "jerseyNumber" : 6,
       "id" : 356407
@@ -3394,6 +3702,7 @@
       "club" : "VfL Wolfsburg",
       "teamId" : 43971,
       "dob" : "1992-08-25 00:00:00",
+      "featured" : "false",
       "teamCode" : "SUI",
       "jerseyNumber" : 13,
       "id" : 313559
@@ -3405,6 +3714,7 @@
       "club" : "Hamburger SV",
       "teamId" : 43971,
       "dob" : "1987-01-18 00:00:00",
+      "featured" : "false",
       "teamCode" : "SUI",
       "jerseyNumber" : 20,
       "id" : 216645
@@ -3416,6 +3726,7 @@
       "club" : "FC Basel",
       "teamId" : 43971,
       "dob" : "1991-12-20 00:00:00",
+      "featured" : "false",
       "teamCode" : "SUI",
       "jerseyNumber" : 22,
       "id" : 356411
@@ -3427,6 +3738,7 @@
       "club" : "West Bromwich Albion FC",
       "teamId" : 43930,
       "dob" : "1980-11-02 00:00:00",
+      "featured" : "false",
       "teamCode" : "URU",
       "jerseyNumber" : 2,
       "id" : 239433
@@ -3438,6 +3750,7 @@
       "club" : "Atletico Madrid",
       "teamId" : 43930,
       "dob" : "1986-02-16 00:00:00",
+      "featured" : "false",
       "teamCode" : "URU",
       "jerseyNumber" : 3,
       "id" : 229499
@@ -3449,6 +3762,7 @@
       "club" : "FC Porto",
       "teamId" : 43930,
       "dob" : "1984-11-19 00:00:00",
+      "featured" : "false",
       "teamCode" : "URU",
       "jerseyNumber" : 4,
       "id" : 276132
@@ -3460,6 +3774,7 @@
       "club" : "Atletico Madrid",
       "teamId" : 43930,
       "dob" : "1995-01-20 00:00:00",
+      "featured" : "false",
       "teamCode" : "URU",
       "jerseyNumber" : 13,
       "id" : 368655
@@ -3471,6 +3786,7 @@
       "club" : "SL Benfica",
       "teamId" : 43930,
       "dob" : "1984-06-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "URU",
       "jerseyNumber" : 16,
       "id" : 286481
@@ -3482,6 +3798,7 @@
       "club" : "Club Nacional de Football",
       "teamId" : 43930,
       "dob" : "1990-10-07 00:00:00",
+      "featured" : "false",
       "teamCode" : "URU",
       "jerseyNumber" : 19,
       "id" : 305382
@@ -3493,6 +3810,7 @@
       "club" : "Juventus FC",
       "teamId" : 43930,
       "dob" : "1987-04-07 00:00:00",
+      "featured" : "false",
       "teamCode" : "URU",
       "jerseyNumber" : 22,
       "id" : 267829
@@ -3504,6 +3822,7 @@
       "club" : "Seattle Sounders FC",
       "teamId" : 43921,
       "dob" : "1993-07-09 00:00:00",
+      "featured" : "false",
       "teamCode" : "USA",
       "jerseyNumber" : 2,
       "id" : 368973
@@ -3515,6 +3834,7 @@
       "club" : "Los Angeles Galaxy",
       "teamId" : 43921,
       "dob" : "1988-10-11 00:00:00",
+      "featured" : "false",
       "teamCode" : "USA",
       "jerseyNumber" : 3,
       "id" : 234405
@@ -3526,6 +3846,7 @@
       "club" : "Sporting Kansas City",
       "teamId" : 43921,
       "dob" : "1987-02-11 00:00:00",
+      "featured" : "false",
       "teamCode" : "USA",
       "jerseyNumber" : 5,
       "id" : 367433
@@ -3537,6 +3858,7 @@
       "club" : "Hertha BSC",
       "teamId" : 43921,
       "dob" : "1993-01-28 00:00:00",
+      "featured" : "false",
       "teamCode" : "USA",
       "jerseyNumber" : 6,
       "id" : 373555
@@ -3548,6 +3870,7 @@
       "club" : "Puebla FC",
       "teamId" : 43921,
       "dob" : "1982-05-24 00:00:00",
+      "featured" : "false",
       "teamCode" : "USA",
       "jerseyNumber" : 7,
       "id" : 175498
@@ -3559,6 +3882,7 @@
       "club" : "Stoke City FC",
       "teamId" : 43921,
       "dob" : "1985-07-11 00:00:00",
+      "featured" : "false",
       "teamCode" : "USA",
       "jerseyNumber" : 20,
       "id" : 321971
@@ -3570,6 +3894,7 @@
       "club" : "1. FC Nuernberg",
       "teamId" : 43921,
       "dob" : "1990-03-29 00:00:00",
+      "featured" : "false",
       "teamCode" : "USA",
       "jerseyNumber" : 21,
       "id" : 365556
@@ -3581,6 +3906,7 @@
       "club" : "TSG 1899 Hoffenheim",
       "teamId" : 43921,
       "dob" : "1987-12-11 00:00:00",
+      "featured" : "false",
       "teamCode" : "USA",
       "jerseyNumber" : 23,
       "id" : 311174
@@ -3592,6 +3918,7 @@
       "club" : "Udinese Calcio",
       "teamId" : 43843,
       "dob" : "1984-05-14 00:00:00",
+      "featured" : "false",
       "teamCode" : "ALG",
       "jerseyNumber" : 7,
       "id" : 183882
@@ -3603,6 +3930,7 @@
       "club" : "Getafe CF",
       "teamId" : 43843,
       "dob" : "1984-03-15 00:00:00",
+      "featured" : "false",
       "teamCode" : "ALG",
       "jerseyNumber" : 8,
       "id" : 321682
@@ -3614,6 +3942,7 @@
       "club" : "Granada CF",
       "teamId" : 43843,
       "dob" : "1990-02-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "ALG",
       "jerseyNumber" : 11,
       "id" : 366309
@@ -3625,6 +3954,7 @@
       "club" : "Tottenham Hotspur FC",
       "teamId" : 43843,
       "dob" : "1994-11-24 00:00:00",
+      "featured" : "false",
       "teamCode" : "ALG",
       "jerseyNumber" : 14,
       "id" : 379939
@@ -3636,6 +3966,7 @@
       "club" : "FC Internazionale",
       "teamId" : 43843,
       "dob" : "1992-02-29 00:00:00",
+      "featured" : "false",
       "teamCode" : "ALG",
       "jerseyNumber" : 19,
       "id" : 366573
@@ -3647,6 +3978,7 @@
       "club" : "AC Ajaccio",
       "teamId" : 43843,
       "dob" : "1983-08-30 00:00:00",
+      "featured" : "false",
       "teamCode" : "ALG",
       "jerseyNumber" : 22,
       "id" : 354873
@@ -3658,6 +3990,7 @@
       "club" : "CA Boca Juniors",
       "teamId" : 43922,
       "dob" : "1986-04-10 00:00:00",
+      "featured" : "false",
       "teamCode" : "ARG",
       "jerseyNumber" : 5,
       "id" : 201001
@@ -3669,6 +4002,7 @@
       "club" : "SS Lazio",
       "teamId" : 43922,
       "dob" : "1986-01-30 00:00:00",
+      "featured" : "false",
       "teamCode" : "ARG",
       "jerseyNumber" : 6,
       "id" : 200133
@@ -3680,6 +4014,7 @@
       "club" : "Real Madrid CF",
       "teamId" : 43922,
       "dob" : "1988-02-14 00:00:00",
+      "featured" : "false",
       "teamCode" : "ARG",
       "jerseyNumber" : 7,
       "id" : 266800
@@ -3691,6 +4026,7 @@
       "club" : "SL Benfica",
       "teamId" : 43922,
       "dob" : "1986-02-22 00:00:00",
+      "featured" : "false",
       "teamCode" : "ARG",
       "jerseyNumber" : 8,
       "id" : 316997
@@ -3702,6 +4038,7 @@
       "club" : "CA Newells Old Boys",
       "teamId" : 43922,
       "dob" : "1981-01-02 00:00:00",
+      "featured" : "false",
       "teamCode" : "ARG",
       "jerseyNumber" : 11,
       "id" : 184291
@@ -3713,6 +4050,7 @@
       "club" : "Celta Vigo",
       "teamId" : 43922,
       "dob" : "1986-04-10 00:00:00",
+      "featured" : "false",
       "teamCode" : "ARG",
       "jerseyNumber" : 13,
       "id" : 298892
@@ -3724,6 +4062,7 @@
       "club" : "FC Barcelona",
       "teamId" : 43922,
       "dob" : "1984-06-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "ARG",
       "jerseyNumber" : 14,
       "id" : 182372
@@ -3735,6 +4074,7 @@
       "club" : "FC Internazionale",
       "teamId" : 43922,
       "dob" : "1988-04-12 00:00:00",
+      "featured" : "false",
       "teamCode" : "ARG",
       "jerseyNumber" : 19,
       "id" : 349631
@@ -3746,6 +4086,7 @@
       "club" : "Melbourne Victory FC",
       "teamId" : 43976,
       "dob" : "1985-08-04 00:00:00",
+      "featured" : "false",
       "teamCode" : "AUS",
       "jerseyNumber" : 5,
       "id" : 197411
@@ -3757,6 +4098,7 @@
       "club" : "FC Utrecht",
       "teamId" : 43976,
       "dob" : "1991-12-10 00:00:00",
+      "featured" : "false",
       "teamCode" : "AUS",
       "jerseyNumber" : 11,
       "id" : 306424
@@ -3768,6 +4110,7 @@
       "club" : "FC Luzern",
       "teamId" : 43976,
       "dob" : "1989-01-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "AUS",
       "jerseyNumber" : 13,
       "id" : 312234
@@ -3779,6 +4122,7 @@
       "club" : "Melbourne Victory FC",
       "teamId" : 43976,
       "dob" : "1988-07-03 00:00:00",
+      "featured" : "false",
       "teamCode" : "AUS",
       "jerseyNumber" : 14,
       "id" : 290605
@@ -3790,6 +4134,7 @@
       "club" : "Crystal Palace FC",
       "teamId" : 43976,
       "dob" : "1984-08-03 00:00:00",
+      "featured" : "false",
       "teamCode" : "AUS",
       "jerseyNumber" : 15,
       "id" : 197514
@@ -3801,6 +4146,7 @@
       "club" : "FK Austria Wien",
       "teamId" : 43976,
       "dob" : "1989-05-15 00:00:00",
+      "featured" : "false",
       "teamCode" : "AUS",
       "jerseyNumber" : 16,
       "id" : 295149
@@ -3812,6 +4158,7 @@
       "club" : "Brisbane Roar FC",
       "teamId" : 43976,
       "dob" : "1983-01-11 00:00:00",
+      "featured" : "false",
       "teamCode" : "AUS",
       "jerseyNumber" : 17,
       "id" : 197409
@@ -3823,6 +4170,7 @@
       "club" : "FC Sion",
       "teamId" : 43976,
       "dob" : "1987-04-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "AUS",
       "jerseyNumber" : 20,
       "id" : 290800
@@ -3834,6 +4182,7 @@
       "club" : "Swindon Town FC",
       "teamId" : 43976,
       "dob" : "1992-09-25 00:00:00",
+      "featured" : "false",
       "teamCode" : "AUS",
       "jerseyNumber" : 21,
       "id" : 339116
@@ -3845,6 +4194,7 @@
       "club" : "Al Gharafa SC",
       "teamId" : 43976,
       "dob" : "1980-02-11 00:00:00",
+      "featured" : "false",
       "teamCode" : "AUS",
       "jerseyNumber" : 23,
       "id" : 178299
@@ -3856,6 +4206,7 @@
       "club" : "FC Zenit St. Petersburg",
       "teamId" : 43935,
       "dob" : "1989-01-12 00:00:00",
+      "featured" : "false",
       "teamCode" : "BEL",
       "jerseyNumber" : 6,
       "id" : 290821
@@ -3867,6 +4218,7 @@
       "club" : "VfL Wolfsburg",
       "teamId" : 43935,
       "dob" : "1991-06-28 00:00:00",
+      "featured" : "false",
       "teamCode" : "BEL",
       "jerseyNumber" : 7,
       "id" : 358120
@@ -3878,6 +4230,7 @@
       "club" : "Manchester United FC",
       "teamId" : 43935,
       "dob" : "1987-11-22 00:00:00",
+      "featured" : "false",
       "teamCode" : "BEL",
       "jerseyNumber" : 8,
       "id" : 290902
@@ -3889,6 +4242,7 @@
       "club" : "Chelsea FC",
       "teamId" : 43935,
       "dob" : "1991-01-07 00:00:00",
+      "featured" : "false",
       "teamCode" : "BEL",
       "jerseyNumber" : 10,
       "id" : 273996
@@ -3900,6 +4254,7 @@
       "club" : "SSC Napoli",
       "teamId" : 43935,
       "dob" : "1987-05-06 00:00:00",
+      "featured" : "false",
       "teamCode" : "BEL",
       "jerseyNumber" : 14,
       "id" : 358114
@@ -3911,6 +4266,7 @@
       "club" : "FC Porto",
       "teamId" : 43935,
       "dob" : "1988-04-15 00:00:00",
+      "featured" : "false",
       "teamCode" : "BEL",
       "jerseyNumber" : 16,
       "id" : 290824
@@ -3922,6 +4278,7 @@
       "club" : "Tottenham Hotspur FC",
       "teamId" : 43935,
       "dob" : "1987-07-16 00:00:00",
+      "featured" : "false",
       "teamCode" : "BEL",
       "jerseyNumber" : 19,
       "id" : 290825
@@ -3933,6 +4290,7 @@
       "club" : "Manchester United FC",
       "teamId" : 43935,
       "dob" : "1995-02-05 00:00:00",
+      "featured" : "false",
       "teamCode" : "BEL",
       "jerseyNumber" : 20,
       "id" : 379910
@@ -3944,6 +4302,7 @@
       "club" : "Tottenham Hotspur FC",
       "teamId" : 43935,
       "dob" : "1989-08-02 00:00:00",
+      "featured" : "false",
       "teamCode" : "BEL",
       "jerseyNumber" : 22,
       "id" : 358108
@@ -3955,6 +4314,7 @@
       "club" : "HNK Hajduk Split",
       "teamId" : 44037,
       "dob" : "1986-03-06 00:00:00",
+      "featured" : "false",
       "teamCode" : "BIH",
       "jerseyNumber" : 2,
       "id" : 359997
@@ -3966,6 +4326,7 @@
       "club" : "Ferencvarosi TC",
       "teamId" : 44037,
       "dob" : "1992-09-10 00:00:00",
+      "featured" : "false",
       "teamCode" : "BIH",
       "jerseyNumber" : 7,
       "id" : 358101
@@ -3977,6 +4338,7 @@
       "club" : "AS Roma",
       "teamId" : 44037,
       "dob" : "1990-04-02 00:00:00",
+      "featured" : "false",
       "teamCode" : "BIH",
       "jerseyNumber" : 8,
       "id" : 299198
@@ -3988,6 +4350,7 @@
       "club" : "Guizhou Renhe FC",
       "teamId" : 44037,
       "dob" : "1982-06-05 00:00:00",
+      "featured" : "false",
       "teamCode" : "BIH",
       "jerseyNumber" : 10,
       "id" : 216071
@@ -3999,6 +4362,7 @@
       "club" : "SC Freiburg",
       "teamId" : 44037,
       "dob" : "1984-03-28 00:00:00",
+      "featured" : "false",
       "teamCode" : "BIH",
       "jerseyNumber" : 13,
       "id" : 299904
@@ -4010,6 +4374,7 @@
       "club" : "HNK Hajduk Split",
       "teamId" : 44037,
       "dob" : "1992-02-13 00:00:00",
+      "featured" : "false",
       "teamCode" : "BIH",
       "jerseyNumber" : 14,
       "id" : 379808
@@ -4021,6 +4386,7 @@
       "club" : "SS Lazio",
       "teamId" : 44037,
       "dob" : "1986-01-18 00:00:00",
+      "featured" : "false",
       "teamCode" : "BIH",
       "jerseyNumber" : 16,
       "id" : 358099
@@ -4032,6 +4398,7 @@
       "club" : "Kayseri Erciyesspor",
       "teamId" : 44037,
       "dob" : "1985-09-26 00:00:00",
+      "featured" : "false",
       "teamCode" : "BIH",
       "jerseyNumber" : 17,
       "id" : 300402
@@ -4043,6 +4410,7 @@
       "club" : "Gaziantepspor",
       "teamId" : 44037,
       "dob" : "1985-03-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "BIH",
       "jerseyNumber" : 18,
       "id" : 233167
@@ -4054,6 +4422,7 @@
       "club" : "Galatasaray SK",
       "teamId" : 44037,
       "dob" : "1991-08-04 00:00:00",
+      "featured" : "false",
       "teamCode" : "BIH",
       "jerseyNumber" : 20,
       "id" : 356403
@@ -4065,6 +4434,7 @@
       "club" : "SK Sturm Graz",
       "teamId" : 44037,
       "dob" : "1989-08-16 00:00:00",
+      "featured" : "false",
       "teamCode" : "BIH",
       "jerseyNumber" : 21,
       "id" : 374529
@@ -4076,6 +4446,7 @@
       "club" : "TSG 1899 Hoffenheim",
       "teamId" : 44037,
       "dob" : "1984-10-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "BIH",
       "jerseyNumber" : 23,
       "id" : 300407
@@ -4087,6 +4458,7 @@
       "club" : "Manchester City FC",
       "teamId" : 43924,
       "dob" : "1985-05-04 00:00:00",
+      "featured" : "false",
       "teamCode" : "BRA",
       "jerseyNumber" : 5,
       "id" : 208016
@@ -4098,6 +4470,7 @@
       "club" : "Tottenham Hotspur FC",
       "teamId" : 43924,
       "dob" : "1988-07-25 00:00:00",
+      "featured" : "false",
       "teamCode" : "BRA",
       "jerseyNumber" : 8,
       "id" : 362727
@@ -4109,6 +4482,7 @@
       "club" : "Chelsea FC",
       "teamId" : 43924,
       "dob" : "1991-09-09 00:00:00",
+      "featured" : "false",
       "teamCode" : "BRA",
       "jerseyNumber" : 11,
       "id" : 312868
@@ -4120,6 +4494,7 @@
       "club" : "Chelsea FC",
       "teamId" : 43924,
       "dob" : "1987-03-24 00:00:00",
+      "featured" : "false",
       "teamCode" : "BRA",
       "jerseyNumber" : 16,
       "id" : 298959
@@ -4131,6 +4506,7 @@
       "club" : "VfL Wolfsburg",
       "teamId" : 43924,
       "dob" : "1987-07-23 00:00:00",
+      "featured" : "false",
       "teamCode" : "BRA",
       "jerseyNumber" : 17,
       "id" : 367918
@@ -4142,6 +4518,7 @@
       "club" : "FC Internazionale",
       "teamId" : 43924,
       "dob" : "1985-05-29 00:00:00",
+      "featured" : "false",
       "teamCode" : "BRA",
       "jerseyNumber" : 18,
       "id" : 239424
@@ -4153,6 +4530,7 @@
       "club" : "Chelsea FC",
       "teamId" : 43924,
       "dob" : "1988-08-09 00:00:00",
+      "featured" : "false",
       "teamCode" : "BRA",
       "jerseyNumber" : 19,
       "id" : 218306
@@ -4164,6 +4542,7 @@
       "club" : "CA Osasuna",
       "teamId" : 43925,
       "dob" : "1986-02-11 00:00:00",
+      "featured" : "false",
       "teamCode" : "CHI",
       "jerseyNumber" : 5,
       "id" : 349582
@@ -4175,6 +4554,7 @@
       "club" : "Atalanta Bergamo",
       "teamId" : 43925,
       "dob" : "1987-02-21 00:00:00",
+      "featured" : "false",
       "teamCode" : "CHI",
       "jerseyNumber" : 6,
       "id" : 229436
@@ -4186,6 +4566,7 @@
       "club" : "Juventus FC",
       "teamId" : 43925,
       "dob" : "1987-05-22 00:00:00",
+      "featured" : "false",
       "teamCode" : "CHI",
       "jerseyNumber" : 8,
       "id" : 267543
@@ -4197,6 +4578,7 @@
       "club" : "Palmeiras",
       "teamId" : 43925,
       "dob" : "1983-10-19 00:00:00",
+      "featured" : "false",
       "teamCode" : "CHI",
       "jerseyNumber" : 10,
       "id" : 202655
@@ -4208,6 +4590,7 @@
       "club" : "Wigan Athletic FC",
       "teamId" : 43925,
       "dob" : "1984-06-01 00:00:00",
+      "featured" : "false",
       "teamCode" : "CHI",
       "jerseyNumber" : 15,
       "id" : 209502
@@ -4219,6 +4602,7 @@
       "club" : "FC Twente",
       "teamId" : 43925,
       "dob" : "1990-10-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "CHI",
       "jerseyNumber" : 16,
       "id" : 349588
@@ -4230,6 +4614,7 @@
       "club" : "CSD Colo-Colo",
       "teamId" : 43925,
       "dob" : "1985-02-22 00:00:00",
+      "featured" : "false",
       "teamCode" : "CHI",
       "jerseyNumber" : 19,
       "id" : 229440
@@ -4241,6 +4626,7 @@
       "club" : "SC Internacional",
       "teamId" : 43925,
       "dob" : "1989-04-17 00:00:00",
+      "featured" : "false",
       "teamCode" : "CHI",
       "jerseyNumber" : 20,
       "id" : 318150
@@ -4252,6 +4638,7 @@
       "club" : "FC Basel",
       "teamId" : 43925,
       "dob" : "1986-12-30 00:00:00",
+      "featured" : "false",
       "teamCode" : "CHI",
       "jerseyNumber" : 21,
       "id" : 233530
@@ -4263,6 +4650,7 @@
       "club" : "Fortuna Duesseldorf",
       "teamId" : 43854,
       "dob" : "1990-11-14 00:00:00",
+      "featured" : "false",
       "teamCode" : "CIV",
       "jerseyNumber" : 6,
       "id" : 370523
@@ -4274,6 +4662,7 @@
       "club" : "Newcastle United FC",
       "teamId" : 43854,
       "dob" : "1986-06-21 00:00:00",
+      "featured" : "false",
       "teamCode" : "CIV",
       "jerseyNumber" : 9,
       "id" : 291329
@@ -4285,6 +4674,7 @@
       "club" : "Hannover 96",
       "teamId" : 43854,
       "dob" : "1984-05-22 00:00:00",
+      "featured" : "false",
       "teamCode" : "CIV",
       "jerseyNumber" : 13,
       "id" : 297839
@@ -4296,6 +4686,7 @@
       "club" : "AS Saint-Etienne",
       "teamId" : 43854,
       "dob" : "1992-08-28 00:00:00",
+      "featured" : "false",
       "teamCode" : "CIV",
       "jerseyNumber" : 14,
       "id" : 376360
@@ -4307,6 +4698,7 @@
       "club" : "AS Saint-Etienne",
       "teamId" : 43854,
       "dob" : "1987-11-30 00:00:00",
+      "featured" : "false",
       "teamCode" : "CIV",
       "jerseyNumber" : 15,
       "id" : 353119
@@ -4318,6 +4710,7 @@
       "club" : "Manchester City FC",
       "teamId" : 43854,
       "dob" : "1983-05-13 00:00:00",
+      "featured" : "false",
       "teamCode" : "CIV",
       "jerseyNumber" : 19,
       "id" : 198106
@@ -4329,6 +4722,7 @@
       "club" : "FC Basel",
       "teamId" : 43854,
       "dob" : "1984-11-07 00:00:00",
+      "featured" : "false",
       "teamCode" : "CIV",
       "jerseyNumber" : 20,
       "id" : 367555
@@ -4340,6 +4734,7 @@
       "club" : "FC Barcelona",
       "teamId" : 43849,
       "dob" : "1987-09-09 00:00:00",
+      "featured" : "false",
       "teamCode" : "CMR",
       "jerseyNumber" : 6,
       "id" : 200261
@@ -4351,6 +4746,7 @@
       "club" : "FC Girondins Bordeaux",
       "teamId" : 43849,
       "dob" : "1985-11-28 00:00:00",
+      "featured" : "false",
       "teamCode" : "CMR",
       "jerseyNumber" : 7,
       "id" : 200262
@@ -4362,6 +4758,7 @@
       "club" : "Stade Rennais FC",
       "teamId" : 43849,
       "dob" : "1983-05-29 00:00:00",
+      "featured" : "false",
       "teamCode" : "CMR",
       "jerseyNumber" : 11,
       "id" : 199600
@@ -4373,6 +4770,7 @@
       "club" : "Sevilla FC",
       "teamId" : 43849,
       "dob" : "1986-05-20 00:00:00",
+      "featured" : "false",
       "teamCode" : "CMR",
       "jerseyNumber" : 17,
       "id" : 200935
@@ -4384,6 +4782,7 @@
       "club" : "Antalyaspor AS",
       "teamId" : 43849,
       "dob" : "1986-03-23 00:00:00",
+      "featured" : "false",
       "teamCode" : "CMR",
       "jerseyNumber" : 18,
       "id" : 310048
@@ -4395,6 +4794,7 @@
       "club" : "RC Lens",
       "teamId" : 43849,
       "dob" : "1992-08-17 00:00:00",
+      "featured" : "false",
       "teamCode" : "CMR",
       "jerseyNumber" : 20,
       "id" : 336791
@@ -4406,6 +4806,7 @@
       "club" : "FC Schalke 04",
       "teamId" : 43849,
       "dob" : "1991-08-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "CMR",
       "jerseyNumber" : 21,
       "id" : 320375
@@ -4417,6 +4818,7 @@
       "club" : "CA River Plate",
       "teamId" : 43926,
       "dob" : "1990-07-25 00:00:00",
+      "featured" : "false",
       "teamCode" : "COL",
       "jerseyNumber" : 5,
       "id" : 349514
@@ -4428,6 +4830,7 @@
       "club" : "Elche CF",
       "teamId" : 43926,
       "dob" : "1986-02-06 00:00:00",
+      "featured" : "false",
       "teamCode" : "COL",
       "jerseyNumber" : 6,
       "id" : 280487
@@ -4439,6 +4842,7 @@
       "club" : "Toulouse FC",
       "teamId" : 43926,
       "dob" : "1985-01-06 00:00:00",
+      "featured" : "false",
       "teamCode" : "COL",
       "jerseyNumber" : 8,
       "id" : 198243
@@ -4450,6 +4854,7 @@
       "club" : "AS Monaco",
       "teamId" : 43926,
       "dob" : "1991-07-12 00:00:00",
+      "featured" : "false",
       "teamCode" : "COL",
       "jerseyNumber" : 10,
       "id" : 269058
@@ -4461,6 +4866,7 @@
       "club" : "ACF Fiorentina",
       "teamId" : 43926,
       "dob" : "1988-05-26 00:00:00",
+      "featured" : "false",
       "teamCode" : "COL",
       "jerseyNumber" : 11,
       "id" : 309714
@@ -4472,6 +4878,7 @@
       "club" : "FC Internazionale",
       "teamId" : 43926,
       "dob" : "1986-06-30 00:00:00",
+      "featured" : "false",
       "teamCode" : "COL",
       "jerseyNumber" : 13,
       "id" : 200219
@@ -4483,6 +4890,7 @@
       "club" : "Atletico Nacional",
       "teamId" : 43926,
       "dob" : "1988-07-11 00:00:00",
+      "featured" : "false",
       "teamCode" : "COL",
       "jerseyNumber" : 15,
       "id" : 228691
@@ -4494,6 +4902,7 @@
       "club" : "FC Porto",
       "teamId" : 43926,
       "dob" : "1993-01-18 00:00:00",
+      "featured" : "false",
       "teamCode" : "COL",
       "jerseyNumber" : 20,
       "id" : 356704
@@ -4505,6 +4914,7 @@
       "club" : "AIK Solna",
       "teamId" : 43901,
       "dob" : "1988-05-27 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRC",
       "jerseyNumber" : 5,
       "id" : 236530
@@ -4516,6 +4926,7 @@
       "club" : "FC Kobenhavn",
       "teamId" : 43901,
       "dob" : "1984-05-17 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRC",
       "jerseyNumber" : 7,
       "id" : 183796
@@ -4527,6 +4938,7 @@
       "club" : "Aalesunds FK",
       "teamId" : 43901,
       "dob" : "1983-10-04 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRC",
       "jerseyNumber" : 11,
       "id" : 271182
@@ -4538,6 +4950,7 @@
       "club" : "CS Herediano",
       "teamId" : 43901,
       "dob" : "1985-10-25 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRC",
       "jerseyNumber" : 13,
       "id" : 301165
@@ -4549,6 +4962,7 @@
       "club" : "Deportivo Saprissa",
       "teamId" : 43901,
       "dob" : "1992-03-17 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRC",
       "jerseyNumber" : 17,
       "id" : 307541
@@ -4560,6 +4974,7 @@
       "club" : "Valerenga IF",
       "teamId" : 43901,
       "dob" : "1991-03-25 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRC",
       "jerseyNumber" : 20,
       "id" : 336837
@@ -4571,6 +4986,7 @@
       "club" : "CS Herediano",
       "teamId" : 43901,
       "dob" : "1987-02-14 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRC",
       "jerseyNumber" : 22,
       "id" : 268822
@@ -4582,6 +4998,7 @@
       "club" : "VfL Wolfsburg",
       "teamId" : 43938,
       "dob" : "1989-02-02 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRO",
       "jerseyNumber" : 4,
       "id" : 359381
@@ -4593,6 +5010,7 @@
       "club" : "Sevilla FC",
       "teamId" : 43938,
       "dob" : "1988-03-10 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRO",
       "jerseyNumber" : 7,
       "id" : 296633
@@ -4604,6 +5022,7 @@
       "club" : "FC Dynamo Kyiv",
       "teamId" : 43938,
       "dob" : "1983-12-20 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRO",
       "jerseyNumber" : 8,
       "id" : 297377
@@ -4615,6 +5034,7 @@
       "club" : "Real Madrid CF",
       "teamId" : 43938,
       "dob" : "1985-09-09 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRO",
       "jerseyNumber" : 10,
       "id" : 241559
@@ -4626,6 +5046,7 @@
       "club" : "GNK Dinamo Zagreb",
       "teamId" : 43938,
       "dob" : "1992-11-16 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRO",
       "jerseyNumber" : 14,
       "id" : 380000
@@ -4637,6 +5058,7 @@
       "club" : "Hamburger SV",
       "teamId" : 43938,
       "dob" : "1989-02-25 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRO",
       "jerseyNumber" : 15,
       "id" : 357991
@@ -4648,6 +5070,7 @@
       "club" : "Getafe CF",
       "teamId" : 43938,
       "dob" : "1987-04-23 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRO",
       "jerseyNumber" : 19,
       "id" : 359375
@@ -4659,6 +5082,7 @@
       "club" : "FC Internazionale",
       "teamId" : 43938,
       "dob" : "1994-05-06 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRO",
       "jerseyNumber" : 20,
       "id" : 339987
@@ -4670,6 +5094,7 @@
       "club" : "Vitesse Arnheim",
       "teamId" : 43927,
       "dob" : "1991-01-20 00:00:00",
+      "featured" : "false",
       "teamCode" : "ECU",
       "jerseyNumber" : 5,
       "id" : 336869
@@ -4681,6 +5106,7 @@
       "club" : "FC Dynamo Moscow",
       "teamId" : 43927,
       "dob" : "1985-04-09 00:00:00",
+      "featured" : "false",
       "teamCode" : "ECU",
       "jerseyNumber" : 6,
       "id" : 279417
@@ -4692,6 +5118,7 @@
       "club" : "CA Monarcas Morelia",
       "teamId" : 43927,
       "dob" : "1989-09-01 00:00:00",
+      "featured" : "false",
       "teamCode" : "ECU",
       "jerseyNumber" : 7,
       "id" : 290452
@@ -4703,6 +5130,7 @@
       "club" : "Independiente Santa Fe",
       "teamId" : 43927,
       "dob" : "1979-03-16 00:00:00",
+      "featured" : "false",
       "teamCode" : "ECU",
       "jerseyNumber" : 8,
       "id" : 178842
@@ -4714,6 +5142,7 @@
       "club" : "CF Pachuca",
       "teamId" : 43927,
       "dob" : "1979-08-11 00:00:00",
+      "featured" : "false",
       "teamCode" : "ECU",
       "jerseyNumber" : 10,
       "id" : 184447
@@ -4725,6 +5154,7 @@
       "club" : "CD Chivas USA",
       "teamId" : 43927,
       "dob" : "1983-07-26 00:00:00",
+      "featured" : "false",
       "teamCode" : "ECU",
       "jerseyNumber" : 14,
       "id" : 350119
@@ -4736,6 +5166,7 @@
       "club" : "Atlante FC",
       "teamId" : 43927,
       "dob" : "1987-04-23 00:00:00",
+      "featured" : "false",
       "teamCode" : "ECU",
       "jerseyNumber" : 15,
       "id" : 349574
@@ -4747,6 +5178,7 @@
       "club" : "Manchester United FC",
       "teamId" : 43927,
       "dob" : "1985-08-04 00:00:00",
+      "featured" : "false",
       "teamCode" : "ECU",
       "jerseyNumber" : 16,
       "id" : 202544
@@ -4758,6 +5190,7 @@
       "club" : "Barcelona SC",
       "teamId" : 43927,
       "dob" : "1983-10-20 00:00:00",
+      "featured" : "false",
       "teamCode" : "ECU",
       "jerseyNumber" : 19,
       "id" : 202280
@@ -4769,6 +5202,7 @@
       "club" : "Club Tijuana",
       "teamId" : 43927,
       "dob" : "1990-02-15 00:00:00",
+      "featured" : "false",
       "teamCode" : "ECU",
       "jerseyNumber" : 20,
       "id" : 375459
@@ -4780,6 +5214,7 @@
       "club" : "VfB Stuttgart",
       "teamId" : 43927,
       "dob" : "1995-04-19 00:00:00",
+      "featured" : "false",
       "teamCode" : "ECU",
       "jerseyNumber" : 23,
       "id" : 332827
@@ -4791,6 +5226,7 @@
       "club" : "Liverpool FC",
       "teamId" : 43942,
       "dob" : "1980-05-30 00:00:00",
+      "featured" : "false",
       "teamCode" : "ENG",
       "jerseyNumber" : 4,
       "id" : 214961
@@ -4802,6 +5238,7 @@
       "club" : "Arsenal FC",
       "teamId" : 43942,
       "dob" : "1992-01-01 00:00:00",
+      "featured" : "false",
       "teamCode" : "ENG",
       "jerseyNumber" : 7,
       "id" : 330565
@@ -4813,6 +5250,7 @@
       "club" : "Chelsea FC",
       "teamId" : 43942,
       "dob" : "1978-06-20 00:00:00",
+      "featured" : "false",
       "teamCode" : "ENG",
       "jerseyNumber" : 8,
       "id" : 185385
@@ -4824,6 +5262,7 @@
       "club" : "Liverpool FC",
       "teamId" : 43942,
       "dob" : "1990-06-17 00:00:00",
+      "featured" : "false",
       "teamCode" : "ENG",
       "jerseyNumber" : 14,
       "id" : 356189
@@ -4835,6 +5274,7 @@
       "club" : "Arsenal FC",
       "teamId" : 43942,
       "dob" : "1993-08-15 00:00:00",
+      "featured" : "false",
       "teamCode" : "ENG",
       "jerseyNumber" : 15,
       "id" : 356198
@@ -4846,6 +5286,7 @@
       "club" : "Manchester City FC",
       "teamId" : 43942,
       "dob" : "1986-01-04 00:00:00",
+      "featured" : "false",
       "teamCode" : "ENG",
       "jerseyNumber" : 17,
       "id" : 207924
@@ -4857,6 +5298,7 @@
       "club" : "Liverpool FC",
       "teamId" : 43942,
       "dob" : "1994-12-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "ENG",
       "jerseyNumber" : 19,
       "id" : 336043
@@ -4868,6 +5310,7 @@
       "club" : "Southampton FC",
       "teamId" : 43942,
       "dob" : "1988-05-10 00:00:00",
+      "featured" : "false",
       "teamCode" : "ENG",
       "jerseyNumber" : 20,
       "id" : 361222
@@ -4879,6 +5322,7 @@
       "club" : "Everton FC",
       "teamId" : 43942,
       "dob" : "1993-12-05 00:00:00",
+      "featured" : "false",
       "teamCode" : "ENG",
       "jerseyNumber" : 21,
       "id" : 369392
@@ -4890,6 +5334,7 @@
       "club" : "FC Bayern Muenchen",
       "teamId" : 43969,
       "dob" : "1988-09-02 00:00:00",
+      "featured" : "false",
       "teamCode" : "ESP",
       "jerseyNumber" : 4,
       "id" : 270714
@@ -4901,6 +5346,7 @@
       "club" : "FC Barcelona",
       "teamId" : 43969,
       "dob" : "1984-05-11 00:00:00",
+      "featured" : "false",
       "teamCode" : "ESP",
       "jerseyNumber" : 6,
       "id" : 183857
@@ -4912,6 +5358,7 @@
       "club" : "FC Barcelona",
       "teamId" : 43969,
       "dob" : "1980-01-25 00:00:00",
+      "featured" : "false",
       "teamCode" : "ESP",
       "jerseyNumber" : 8,
       "id" : 177855
@@ -4923,6 +5370,7 @@
       "club" : "FC Barcelona",
       "teamId" : 43969,
       "dob" : "1987-05-04 00:00:00",
+      "featured" : "false",
       "teamCode" : "ESP",
       "jerseyNumber" : 10,
       "id" : 200179
@@ -4934,6 +5382,7 @@
       "club" : "Real Madrid CF",
       "teamId" : 43969,
       "dob" : "1981-11-25 00:00:00",
+      "featured" : "false",
       "teamCode" : "ESP",
       "jerseyNumber" : 14,
       "id" : 207528
@@ -4945,6 +5394,7 @@
       "club" : "FC Barcelona",
       "teamId" : 43969,
       "dob" : "1988-07-16 00:00:00",
+      "featured" : "false",
       "teamCode" : "ESP",
       "jerseyNumber" : 16,
       "id" : 303034
@@ -4956,6 +5406,7 @@
       "club" : "Atletico Madrid",
       "teamId" : 43969,
       "dob" : "1992-01-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "ESP",
       "jerseyNumber" : 17,
       "id" : 313410
@@ -4967,6 +5418,7 @@
       "club" : "Arsenal FC",
       "teamId" : 43969,
       "dob" : "1984-12-13 00:00:00",
+      "featured" : "false",
       "teamCode" : "ESP",
       "jerseyNumber" : 20,
       "id" : 297705
@@ -4978,6 +5430,7 @@
       "club" : "Manchester City FC",
       "teamId" : 43969,
       "dob" : "1986-01-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "ESP",
       "jerseyNumber" : 21,
       "id" : 200176
@@ -4989,6 +5442,7 @@
       "club" : "Chelsea FC",
       "teamId" : 43969,
       "dob" : "1989-08-28 00:00:00",
+      "featured" : "false",
       "teamCode" : "ESP",
       "jerseyNumber" : 22,
       "id" : 270948
@@ -5000,6 +5454,7 @@
       "club" : "Paris Saint-Germain FC",
       "teamId" : 43946,
       "dob" : "1986-01-14 00:00:00",
+      "featured" : "false",
       "teamCode" : "FRA",
       "jerseyNumber" : 6,
       "id" : 358013
@@ -5011,6 +5466,7 @@
       "club" : "Olympique Marseille",
       "teamId" : 43946,
       "dob" : "1984-09-28 00:00:00",
+      "featured" : "false",
       "teamCode" : "FRA",
       "jerseyNumber" : 8,
       "id" : 297106
@@ -5022,6 +5478,7 @@
       "club" : "Lille OSC",
       "teamId" : 43946,
       "dob" : "1984-03-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "FRA",
       "jerseyNumber" : 12,
       "id" : 214571
@@ -5033,6 +5490,7 @@
       "club" : "Paris Saint-Germain FC",
       "teamId" : 43946,
       "dob" : "1987-04-09 00:00:00",
+      "featured" : "false",
       "teamCode" : "FRA",
       "jerseyNumber" : 14,
       "id" : 358014
@@ -5044,6 +5502,7 @@
       "club" : "Newcastle United FC",
       "teamId" : 43946,
       "dob" : "1989-08-16 00:00:00",
+      "featured" : "false",
       "teamCode" : "FRA",
       "jerseyNumber" : 18,
       "id" : 317056
@@ -5055,6 +5514,7 @@
       "club" : "Juventus FC",
       "teamId" : 43946,
       "dob" : "1993-03-15 00:00:00",
+      "featured" : "false",
       "teamCode" : "FRA",
       "jerseyNumber" : 19,
       "id" : 367388
@@ -5066,6 +5526,7 @@
       "club" : "Southampton FC",
       "teamId" : 43946,
       "dob" : "1989-11-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "FRA",
       "jerseyNumber" : 22,
       "id" : 379995
@@ -5077,6 +5538,7 @@
       "club" : "Real Madrid CF",
       "teamId" : 43948,
       "dob" : "1987-04-04 00:00:00",
+      "featured" : "false",
       "teamCode" : "GER",
       "jerseyNumber" : 6,
       "id" : 196900
@@ -5088,6 +5550,7 @@
       "club" : "FC Bayern Muenchen",
       "teamId" : 43948,
       "dob" : "1984-08-01 00:00:00",
+      "featured" : "false",
       "teamCode" : "GER",
       "jerseyNumber" : 7,
       "id" : 196752
@@ -5099,6 +5562,7 @@
       "club" : "Arsenal FC",
       "teamId" : 43948,
       "dob" : "1988-10-15 00:00:00",
+      "featured" : "false",
       "teamCode" : "GER",
       "jerseyNumber" : 8,
       "id" : 305036
@@ -5110,6 +5574,7 @@
       "club" : "FC Schalke 04",
       "teamId" : 43948,
       "dob" : "1993-09-20 00:00:00",
+      "featured" : "false",
       "teamCode" : "GER",
       "jerseyNumber" : 14,
       "id" : 358692
@@ -5121,6 +5586,7 @@
       "club" : "FC Bayern Muenchen",
       "teamId" : 43948,
       "dob" : "1983-11-11 00:00:00",
+      "featured" : "false",
       "teamCode" : "GER",
       "jerseyNumber" : 16,
       "id" : 196748
@@ -5132,6 +5598,7 @@
       "club" : "FC Bayern Muenchen",
       "teamId" : 43948,
       "dob" : "1990-01-04 00:00:00",
+      "featured" : "false",
       "teamCode" : "GER",
       "jerseyNumber" : 18,
       "id" : 275162
@@ -5143,6 +5610,7 @@
       "club" : "Borussia Moenchengladbach",
       "teamId" : 43948,
       "dob" : "1991-02-19 00:00:00",
+      "featured" : "false",
       "teamCode" : "GER",
       "jerseyNumber" : 23,
       "id" : 380069
@@ -5154,6 +5622,7 @@
       "club" : "AC Milan",
       "teamId" : 43860,
       "dob" : "1982-12-03 00:00:00",
+      "featured" : "false",
       "teamCode" : "GHA",
       "jerseyNumber" : 5,
       "id" : 175524
@@ -5165,6 +5634,7 @@
       "club" : "Parma FC",
       "teamId" : 43860,
       "dob" : "1992-01-05 00:00:00",
+      "featured" : "false",
       "teamCode" : "GHA",
       "jerseyNumber" : 6,
       "id" : 379972
@@ -5176,6 +5646,7 @@
       "club" : "Vitesse Arnheim",
       "teamId" : 43860,
       "dob" : "1992-01-10 00:00:00",
+      "featured" : "false",
       "teamCode" : "GHA",
       "jerseyNumber" : 7,
       "id" : 355997
@@ -5187,6 +5658,7 @@
       "club" : "Udinese Calcio",
       "teamId" : 43860,
       "dob" : "1990-12-02 00:00:00",
+      "featured" : "false",
       "teamCode" : "GHA",
       "jerseyNumber" : 8,
       "id" : 274946
@@ -5198,6 +5670,7 @@
       "club" : "Olympique Marseille",
       "teamId" : 43860,
       "dob" : "1989-12-17 00:00:00",
+      "featured" : "false",
       "teamCode" : "GHA",
       "jerseyNumber" : 10,
       "id" : 294620
@@ -5209,6 +5682,7 @@
       "club" : "AC Milan",
       "teamId" : 43860,
       "dob" : "1984-08-27 00:00:00",
+      "featured" : "false",
       "teamCode" : "GHA",
       "jerseyNumber" : 11,
       "id" : 183000
@@ -5220,6 +5694,7 @@
       "club" : "Middlesbrough FC",
       "teamId" : 43860,
       "dob" : "1987-12-13 00:00:00",
+      "featured" : "false",
       "teamCode" : "GHA",
       "jerseyNumber" : 14,
       "id" : 364707
@@ -5231,6 +5706,7 @@
       "club" : "Kuban Krasnodar",
       "teamId" : 43860,
       "dob" : "1989-12-31 00:00:00",
+      "featured" : "false",
       "teamCode" : "GHA",
       "jerseyNumber" : 17,
       "id" : 311850
@@ -5242,6 +5718,7 @@
       "club" : "Juventus FC",
       "teamId" : 43860,
       "dob" : "1988-12-09 00:00:00",
+      "featured" : "false",
       "teamCode" : "GHA",
       "jerseyNumber" : 20,
       "id" : 294619
@@ -5253,6 +5730,7 @@
       "club" : "FC Rubin Kazan",
       "teamId" : 43860,
       "dob" : "1990-07-25 00:00:00",
+      "featured" : "false",
       "teamCode" : "GHA",
       "jerseyNumber" : 22,
       "id" : 235097
@@ -5264,6 +5742,7 @@
       "club" : "Olympiacos Piraeus FC",
       "teamId" : 43949,
       "dob" : "1986-10-12 00:00:00",
+      "featured" : "false",
       "teamCode" : "GRE",
       "jerseyNumber" : 2,
       "id" : 321731
@@ -5275,6 +5754,7 @@
       "club" : "Kayserispor",
       "teamId" : 43949,
       "dob" : "1985-02-13 00:00:00",
+      "featured" : "false",
       "teamCode" : "GRE",
       "jerseyNumber" : 6,
       "id" : 228351
@@ -5286,6 +5766,7 @@
       "club" : "Bologna FC",
       "teamId" : 43949,
       "dob" : "1987-07-26 00:00:00",
+      "featured" : "false",
       "teamCode" : "GRE",
       "jerseyNumber" : 8,
       "id" : 360109
@@ -5297,6 +5778,7 @@
       "club" : "Fulham FC",
       "teamId" : 43949,
       "dob" : "1977-03-06 00:00:00",
+      "featured" : "false",
       "teamCode" : "GRE",
       "jerseyNumber" : 10,
       "id" : 168832
@@ -5308,6 +5790,7 @@
       "club" : "Bologna FC",
       "teamId" : 43949,
       "dob" : "1986-12-19 00:00:00",
+      "featured" : "false",
       "teamCode" : "GRE",
       "jerseyNumber" : 16,
       "id" : 299086
@@ -5319,6 +5802,7 @@
       "club" : "PAOK FC",
       "teamId" : 43949,
       "dob" : "1979-06-21 00:00:00",
+      "featured" : "false",
       "teamCode" : "GRE",
       "jerseyNumber" : 21,
       "id" : 214887
@@ -5330,6 +5814,7 @@
       "club" : "Olympiacos Piraeus FC",
       "teamId" : 43949,
       "dob" : "1989-06-13 00:00:00",
+      "featured" : "false",
       "teamCode" : "GRE",
       "jerseyNumber" : 22,
       "id" : 362649
@@ -5341,6 +5826,7 @@
       "club" : "Torino FC",
       "teamId" : 43949,
       "dob" : "1991-02-15 00:00:00",
+      "featured" : "false",
       "teamCode" : "GRE",
       "jerseyNumber" : 23,
       "id" : 319413
@@ -5352,6 +5838,7 @@
       "club" : "Celtic FC",
       "teamId" : 43909,
       "dob" : "1986-05-10 00:00:00",
+      "featured" : "false",
       "teamCode" : "HON",
       "jerseyNumber" : 7,
       "id" : 230117
@@ -5363,6 +5850,7 @@
       "club" : "Stoke City FC",
       "teamId" : 43909,
       "dob" : "1984-07-29 00:00:00",
+      "featured" : "false",
       "teamCode" : "HON",
       "jerseyNumber" : 8,
       "id" : 209827
@@ -5374,6 +5862,7 @@
       "club" : "LD Alajuelense",
       "teamId" : 43909,
       "dob" : "1982-05-13 00:00:00",
+      "featured" : "false",
       "teamCode" : "HON",
       "jerseyNumber" : 9,
       "id" : 213953
@@ -5385,6 +5874,7 @@
       "club" : "Real Espana",
       "teamId" : 43909,
       "dob" : "1989-07-30 00:00:00",
+      "featured" : "false",
       "teamCode" : "HON",
       "jerseyNumber" : 10,
       "id" : 296297
@@ -5396,6 +5886,7 @@
       "club" : "Real Espana",
       "teamId" : 43909,
       "dob" : "1986-11-20 00:00:00",
+      "featured" : "false",
       "teamCode" : "HON",
       "jerseyNumber" : 12,
       "id" : 296312
@@ -5407,6 +5898,7 @@
       "club" : "Houston Dynamo",
       "teamId" : 43909,
       "dob" : "1984-09-04 00:00:00",
+      "featured" : "false",
       "teamCode" : "HON",
       "jerseyNumber" : 14,
       "id" : 237071
@@ -5418,6 +5910,7 @@
       "club" : "Wigan Athletic FC",
       "teamId" : 43909,
       "dob" : "1986-10-25 00:00:00",
+      "featured" : "false",
       "teamCode" : "HON",
       "jerseyNumber" : 15,
       "id" : 304934
@@ -5429,6 +5922,7 @@
       "club" : "RSC Anderlecht",
       "teamId" : 43909,
       "dob" : "1993-03-16 00:00:00",
+      "featured" : "false",
       "teamCode" : "HON",
       "jerseyNumber" : 17,
       "id" : 330693
@@ -5440,6 +5934,7 @@
       "club" : "CD Olimpia",
       "teamId" : 43909,
       "dob" : "1990-11-05 00:00:00",
+      "featured" : "false",
       "teamCode" : "HON",
       "jerseyNumber" : 19,
       "id" : 270400
@@ -5451,6 +5946,7 @@
       "club" : "CD Motagua",
       "teamId" : 43909,
       "dob" : "1986-01-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "HON",
       "jerseyNumber" : 20,
       "id" : 230114
@@ -5462,6 +5958,7 @@
       "club" : "CD Chivas USA",
       "teamId" : 43909,
       "dob" : "1983-11-03 00:00:00",
+      "featured" : "false",
       "teamCode" : "HON",
       "jerseyNumber" : 23,
       "id" : 227839
@@ -5473,6 +5970,7 @@
       "club" : "Sepahan FC",
       "teamId" : 43817,
       "dob" : "1990-02-25 00:00:00",
+      "featured" : "false",
       "teamCode" : "IRN",
       "jerseyNumber" : 3,
       "id" : 288961
@@ -5484,6 +5982,7 @@
       "club" : "Kuwait SC",
       "teamId" : 43817,
       "dob" : "1980-09-07 00:00:00",
+      "featured" : "false",
       "teamCode" : "IRN",
       "jerseyNumber" : 6,
       "id" : 185641
@@ -5495,6 +5994,7 @@
       "club" : "Perspolis FC",
       "teamId" : 43817,
       "dob" : "1989-02-01 00:00:00",
+      "featured" : "false",
       "teamCode" : "IRN",
       "jerseyNumber" : 8,
       "id" : 353379
@@ -5506,6 +6006,7 @@
       "club" : "Zob Ahan Isfahan FC",
       "teamId" : 43817,
       "dob" : "1983-07-12 00:00:00",
+      "featured" : "false",
       "teamCode" : "IRN",
       "jerseyNumber" : 11,
       "id" : 329737
@@ -5517,6 +6018,7 @@
       "club" : "Esteghlal Tehran FC",
       "teamId" : 43817,
       "dob" : "1983-03-06 00:00:00",
+      "featured" : "false",
       "teamCode" : "IRN",
       "jerseyNumber" : 14,
       "id" : 237949
@@ -5528,6 +6030,7 @@
       "club" : "Foolad Khuzestan FC",
       "teamId" : 43817,
       "dob" : "1991-09-23 00:00:00",
+      "featured" : "false",
       "teamCode" : "IRN",
       "jerseyNumber" : 18,
       "id" : 346731
@@ -5539,6 +6042,7 @@
       "club" : "Esteghlal Tehran FC",
       "teamId" : 43817,
       "dob" : "1984-01-22 00:00:00",
+      "featured" : "false",
       "teamCode" : "IRN",
       "jerseyNumber" : 19,
       "id" : 295157
@@ -5550,6 +6054,7 @@
       "club" : "Paris Saint-Germain FC",
       "teamId" : 43954,
       "dob" : "1982-08-28 00:00:00",
+      "featured" : "false",
       "teamCode" : "ITA",
       "jerseyNumber" : 5,
       "id" : 175689
@@ -5561,6 +6066,7 @@
       "club" : "SS Lazio",
       "teamId" : 43954,
       "dob" : "1987-02-28 00:00:00",
+      "featured" : "false",
       "teamCode" : "ITA",
       "jerseyNumber" : 6,
       "id" : 298662
@@ -5572,6 +6078,7 @@
       "club" : "Juventus FC",
       "teamId" : 43954,
       "dob" : "1986-01-19 00:00:00",
+      "featured" : "false",
       "teamCode" : "ITA",
       "jerseyNumber" : 8,
       "id" : 298664
@@ -5583,6 +6090,7 @@
       "club" : "ACF Fiorentina",
       "teamId" : 43954,
       "dob" : "1984-07-07 00:00:00",
+      "featured" : "false",
       "teamCode" : "ITA",
       "jerseyNumber" : 14,
       "id" : 215623
@@ -5594,6 +6102,7 @@
       "club" : "AS Roma",
       "teamId" : 43954,
       "dob" : "1983-07-24 00:00:00",
+      "featured" : "false",
       "teamCode" : "ITA",
       "jerseyNumber" : 16,
       "id" : 209119
@@ -5605,6 +6114,7 @@
       "club" : "Parma FC",
       "teamId" : 43954,
       "dob" : "1985-01-25 00:00:00",
+      "featured" : "false",
       "teamCode" : "ITA",
       "jerseyNumber" : 18,
       "id" : 378836
@@ -5616,6 +6126,7 @@
       "club" : "Juventus FC",
       "teamId" : 43954,
       "dob" : "1979-05-19 00:00:00",
+      "featured" : "false",
       "teamCode" : "ITA",
       "jerseyNumber" : 21,
       "id" : 177876
@@ -5627,6 +6138,7 @@
       "club" : "Paris Saint-Germain FC",
       "teamId" : 43954,
       "dob" : "1992-11-05 00:00:00",
+      "featured" : "false",
       "teamCode" : "ITA",
       "jerseyNumber" : 23,
       "id" : 359217
@@ -5638,6 +6150,7 @@
       "club" : "Gamba Osaka",
       "teamId" : 43819,
       "dob" : "1980-01-28 00:00:00",
+      "featured" : "false",
       "teamCode" : "JPN",
       "jerseyNumber" : 7,
       "id" : 177768
@@ -5649,6 +6162,7 @@
       "club" : "Sanfrecce Hiroshima",
       "teamId" : 43819,
       "dob" : "1986-02-22 00:00:00",
+      "featured" : "false",
       "teamCode" : "JPN",
       "jerseyNumber" : 14,
       "id" : 268911
@@ -5660,6 +6174,7 @@
       "club" : "Cerezo Osaka",
       "teamId" : 43819,
       "dob" : "1990-10-06 00:00:00",
+      "featured" : "false",
       "teamCode" : "JPN",
       "jerseyNumber" : 16,
       "id" : 356466
@@ -5671,6 +6186,7 @@
       "club" : "1. FC Nuernberg",
       "teamId" : 43819,
       "dob" : "1984-01-18 00:00:00",
+      "featured" : "false",
       "teamCode" : "JPN",
       "jerseyNumber" : 17,
       "id" : 289027
@@ -5682,6 +6198,7 @@
       "club" : "Cardiff City FC",
       "teamId" : 43822,
       "dob" : "1989-10-06 00:00:00",
+      "featured" : "false",
       "teamCode" : "KOR",
       "jerseyNumber" : 7,
       "id" : 291389
@@ -5693,6 +6210,7 @@
       "club" : "Beijing Guoan",
       "teamId" : 43822,
       "dob" : "1985-03-02 00:00:00",
+      "featured" : "false",
       "teamCode" : "KOR",
       "jerseyNumber" : 8,
       "id" : 298676
@@ -5704,6 +6222,7 @@
       "club" : "Bayer 04 Leverkusen",
       "teamId" : 43822,
       "dob" : "1992-07-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "KOR",
       "jerseyNumber" : 9,
       "id" : 307849
@@ -5715,6 +6234,7 @@
       "club" : "Kashiwa Reysol",
       "teamId" : 43822,
       "dob" : "1990-04-19 00:00:00",
+      "featured" : "false",
       "teamCode" : "KOR",
       "jerseyNumber" : 14,
       "id" : 274329
@@ -5726,6 +6246,7 @@
       "club" : "Guangzhou R&amp;F FC",
       "teamId" : 43822,
       "dob" : "1989-03-10 00:00:00",
+      "featured" : "false",
       "teamCode" : "KOR",
       "jerseyNumber" : 15,
       "id" : 291398
@@ -5737,6 +6258,7 @@
       "club" : "Sunderland AFC",
       "teamId" : 43822,
       "dob" : "1989-01-24 00:00:00",
+      "featured" : "false",
       "teamCode" : "KOR",
       "jerseyNumber" : 16,
       "id" : 268406
@@ -5748,6 +6270,7 @@
       "club" : "Bolton Wanderers FC",
       "teamId" : 43822,
       "dob" : "1988-07-02 00:00:00",
+      "featured" : "false",
       "teamCode" : "KOR",
       "jerseyNumber" : 17,
       "id" : 268414
@@ -5759,6 +6282,7 @@
       "club" : "FC Augsburg",
       "teamId" : 43822,
       "dob" : "1991-05-28 00:00:00",
+      "featured" : "false",
       "teamCode" : "KOR",
       "jerseyNumber" : 19,
       "id" : 330689
@@ -5770,6 +6294,7 @@
       "club" : "FC Porto",
       "teamId" : 43911,
       "dob" : "1990-04-19 00:00:00",
+      "featured" : "false",
       "teamCode" : "MEX",
       "jerseyNumber" : 6,
       "id" : 329092
@@ -5781,6 +6306,7 @@
       "club" : "Cruz Azul FC",
       "teamId" : 43911,
       "dob" : "1989-07-21 00:00:00",
+      "featured" : "false",
       "teamCode" : "MEX",
       "jerseyNumber" : 8,
       "id" : 319311
@@ -5792,6 +6318,7 @@
       "club" : "Deportivo Toluca FC",
       "teamId" : 43911,
       "dob" : "1990-08-28 00:00:00",
+      "featured" : "false",
       "teamCode" : "MEX",
       "jerseyNumber" : 17,
       "id" : 371042
@@ -5803,6 +6330,7 @@
       "club" : "Villarreal CF",
       "teamId" : 43911,
       "dob" : "1990-02-11 00:00:00",
+      "featured" : "false",
       "teamCode" : "MEX",
       "jerseyNumber" : 20,
       "id" : 350124
@@ -5814,6 +6342,7 @@
       "club" : "Club Leon",
       "teamId" : 43911,
       "dob" : "1990-03-29 00:00:00",
+      "featured" : "false",
       "teamCode" : "MEX",
       "jerseyNumber" : 21,
       "id" : 303394
@@ -5825,6 +6354,7 @@
       "club" : "Club Leon",
       "teamId" : 43911,
       "dob" : "1988-03-14 00:00:00",
+      "featured" : "false",
       "teamCode" : "MEX",
       "jerseyNumber" : 23,
       "id" : 379264
@@ -5836,6 +6366,7 @@
       "club" : "AC Milan",
       "teamId" : 43960,
       "dob" : "1984-11-30 00:00:00",
+      "featured" : "false",
       "teamCode" : "NED",
       "jerseyNumber" : 6,
       "id" : 216964
@@ -5847,6 +6378,7 @@
       "club" : "Swansea City AFC",
       "teamId" : 43960,
       "dob" : "1987-09-13 00:00:00",
+      "featured" : "false",
       "teamCode" : "NED",
       "jerseyNumber" : 8,
       "id" : 298677
@@ -5858,6 +6390,7 @@
       "club" : "Galatasaray SK",
       "teamId" : 43960,
       "dob" : "1984-06-09 00:00:00",
+      "featured" : "false",
       "teamCode" : "NED",
       "jerseyNumber" : 10,
       "id" : 215002
@@ -5869,6 +6402,7 @@
       "club" : "Feyenoord Rotterdam",
       "teamId" : 43960,
       "dob" : "1991-06-27 00:00:00",
+      "featured" : "false",
       "teamCode" : "NED",
       "jerseyNumber" : 16,
       "id" : 358732
@@ -5880,6 +6414,7 @@
       "club" : "Norwich City FC",
       "teamId" : 43960,
       "dob" : "1990-01-05 00:00:00",
+      "featured" : "false",
       "teamCode" : "NED",
       "jerseyNumber" : 18,
       "id" : 319436
@@ -5891,6 +6426,7 @@
       "club" : "PSV Eindhoven",
       "teamId" : 43960,
       "dob" : "1990-11-11 00:00:00",
+      "featured" : "false",
       "teamCode" : "NED",
       "jerseyNumber" : 20,
       "id" : 319438
@@ -5902,6 +6438,7 @@
       "club" : "Enugu Rangers FC",
       "teamId" : 43876,
       "dob" : "1992-03-23 00:00:00",
+      "featured" : "false",
       "teamCode" : "NGA",
       "jerseyNumber" : 3,
       "id" : 356713
@@ -5913,6 +6450,7 @@
       "club" : "KV Waasland-Beveren",
       "teamId" : 43876,
       "dob" : "1990-09-25 00:00:00",
+      "featured" : "false",
       "teamCode" : "NGA",
       "jerseyNumber" : 4,
       "id" : 356710
@@ -5924,6 +6462,7 @@
       "club" : "Chelsea FC",
       "teamId" : 43876,
       "dob" : "1987-04-22 00:00:00",
+      "featured" : "false",
       "teamCode" : "NGA",
       "jerseyNumber" : 10,
       "id" : 234463
@@ -5935,6 +6474,7 @@
       "club" : "UD Almeria",
       "teamId" : 43876,
       "dob" : "1992-12-12 00:00:00",
+      "featured" : "false",
       "teamCode" : "NGA",
       "jerseyNumber" : 15,
       "id" : 315436
@@ -5946,6 +6486,7 @@
       "club" : "SS Lazio",
       "teamId" : 43876,
       "dob" : "1992-12-25 00:00:00",
+      "featured" : "false",
       "teamCode" : "NGA",
       "jerseyNumber" : 17,
       "id" : 315429
@@ -5957,6 +6498,7 @@
       "club" : "FC Dynamo Kyiv",
       "teamId" : 43963,
       "dob" : "1986-05-11 00:00:00",
+      "featured" : "false",
       "teamCode" : "POR",
       "jerseyNumber" : 4,
       "id" : 200201
@@ -5968,6 +6510,7 @@
       "club" : "Sporting CP",
       "teamId" : 43963,
       "dob" : "1992-04-07 00:00:00",
+      "featured" : "false",
       "teamCode" : "POR",
       "jerseyNumber" : 6,
       "id" : 376349
@@ -5979,6 +6522,7 @@
       "club" : "AS Monaco",
       "teamId" : 43963,
       "dob" : "1986-09-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "POR",
       "jerseyNumber" : 8,
       "id" : 200199
@@ -5990,6 +6534,7 @@
       "club" : "Fenerbahce SK",
       "teamId" : 43963,
       "dob" : "1983-03-17 00:00:00",
+      "featured" : "false",
       "teamCode" : "POR",
       "jerseyNumber" : 16,
       "id" : 210214
@@ -6001,6 +6546,7 @@
       "club" : "SL Benfica",
       "teamId" : 43963,
       "dob" : "1985-01-27 00:00:00",
+      "featured" : "false",
       "teamCode" : "POR",
       "jerseyNumber" : 20,
       "id" : 299064
@@ -6012,6 +6558,7 @@
       "club" : "FC Dynamo Moscow",
       "teamId" : 43965,
       "dob" : "1984-05-17 00:00:00",
+      "featured" : "false",
       "teamCode" : "RUS",
       "jerseyNumber" : 7,
       "id" : 216438
@@ -6023,6 +6570,7 @@
       "club" : "FC Spartak Moscow",
       "teamId" : 43965,
       "dob" : "1987-01-27 00:00:00",
+      "featured" : "false",
       "teamCode" : "RUS",
       "jerseyNumber" : 8,
       "id" : 358049
@@ -6034,6 +6582,7 @@
       "club" : "CSKA Moscow",
       "teamId" : 43965,
       "dob" : "1990-06-17 00:00:00",
+      "featured" : "false",
       "teamCode" : "RUS",
       "jerseyNumber" : 10,
       "id" : 302539
@@ -6045,6 +6594,7 @@
       "club" : "FC Rubin Kazan",
       "teamId" : 43965,
       "dob" : "1993-01-25 00:00:00",
+      "featured" : "false",
       "teamCode" : "RUS",
       "jerseyNumber" : 15,
       "id" : 379987
@@ -6056,6 +6606,7 @@
       "club" : "FC Zenit St. Petersburg",
       "teamId" : 43965,
       "dob" : "1990-07-29 00:00:00",
+      "featured" : "false",
       "teamCode" : "RUS",
       "jerseyNumber" : 17,
       "id" : 358891
@@ -6067,6 +6618,7 @@
       "club" : "FC Zenit St. Petersburg",
       "teamId" : 43965,
       "dob" : "1986-04-22 00:00:00",
+      "featured" : "false",
       "teamCode" : "RUS",
       "jerseyNumber" : 20,
       "id" : 300235
@@ -6078,6 +6630,7 @@
       "club" : "Eintracht Frankfurt",
       "teamId" : 43971,
       "dob" : "1985-05-22 00:00:00",
+      "featured" : "false",
       "teamCode" : "SUI",
       "jerseyNumber" : 7,
       "id" : 209979
@@ -6089,6 +6642,7 @@
       "club" : "SSC Napoli",
       "teamId" : 43971,
       "dob" : "1984-06-27 00:00:00",
+      "featured" : "false",
       "teamCode" : "SUI",
       "jerseyNumber" : 8,
       "id" : 261029
@@ -6100,6 +6654,7 @@
       "club" : "Borussia Moenchengladbach",
       "teamId" : 43971,
       "dob" : "1992-09-27 00:00:00",
+      "featured" : "false",
       "teamCode" : "SUI",
       "jerseyNumber" : 10,
       "id" : 311558
@@ -6111,6 +6666,7 @@
       "club" : "SSC Napoli",
       "teamId" : 43971,
       "dob" : "1985-04-19 00:00:00",
+      "featured" : "false",
       "teamCode" : "SUI",
       "jerseyNumber" : 11,
       "id" : 216627
@@ -6122,6 +6678,7 @@
       "club" : "FC Basel",
       "teamId" : 43971,
       "dob" : "1989-04-12 00:00:00",
+      "featured" : "false",
       "teamCode" : "SUI",
       "jerseyNumber" : 14,
       "id" : 297331
@@ -6133,6 +6690,7 @@
       "club" : "SSC Napoli",
       "teamId" : 43971,
       "dob" : "1986-04-12 00:00:00",
+      "featured" : "false",
       "teamCode" : "SUI",
       "jerseyNumber" : 15,
       "id" : 216646
@@ -6144,6 +6702,7 @@
       "club" : "SC Freiburg",
       "teamId" : 43971,
       "dob" : "1986-09-02 00:00:00",
+      "featured" : "false",
       "teamCode" : "SUI",
       "jerseyNumber" : 16,
       "id" : 216650
@@ -6155,6 +6714,7 @@
       "club" : "FC Bayern Muenchen",
       "teamId" : 43971,
       "dob" : "1991-10-10 00:00:00",
+      "featured" : "false",
       "teamCode" : "SUI",
       "jerseyNumber" : 23,
       "id" : 321653
@@ -6166,6 +6726,7 @@
       "club" : "Parma FC",
       "teamId" : 43930,
       "dob" : "1984-07-23 00:00:00",
+      "featured" : "false",
       "teamCode" : "URU",
       "jerseyNumber" : 5,
       "id" : 276131
@@ -6177,6 +6738,7 @@
       "club" : "Sao Paulo FC",
       "teamId" : 43930,
       "dob" : "1985-11-28 00:00:00",
+      "featured" : "false",
       "teamCode" : "URU",
       "jerseyNumber" : 6,
       "id" : 229502
@@ -6188,6 +6750,7 @@
       "club" : "Atletico Madrid",
       "teamId" : 43930,
       "dob" : "1985-09-30 00:00:00",
+      "featured" : "false",
       "teamCode" : "URU",
       "jerseyNumber" : 7,
       "id" : 216567
@@ -6199,6 +6762,7 @@
       "club" : "Botafogo FR",
       "teamId" : 43930,
       "dob" : "1989-03-21 00:00:00",
+      "featured" : "false",
       "teamCode" : "URU",
       "jerseyNumber" : 14,
       "id" : 305378
@@ -6210,6 +6774,7 @@
       "club" : "Bologna FC",
       "teamId" : 43930,
       "dob" : "1980-05-18 00:00:00",
+      "featured" : "false",
       "teamCode" : "URU",
       "jerseyNumber" : 15,
       "id" : 185359
@@ -6221,6 +6786,7 @@
       "club" : "CA Monarcas Morelia",
       "teamId" : 43930,
       "dob" : "1982-01-01 00:00:00",
+      "featured" : "false",
       "teamCode" : "URU",
       "jerseyNumber" : 17,
       "id" : 286238
@@ -6232,6 +6798,7 @@
       "club" : "Southampton FC",
       "teamId" : 43930,
       "dob" : "1990-12-02 00:00:00",
+      "featured" : "false",
       "teamCode" : "URU",
       "jerseyNumber" : 18,
       "id" : 312116
@@ -6243,6 +6810,7 @@
       "club" : "SS Lazio",
       "teamId" : 43930,
       "dob" : "1984-10-29 00:00:00",
+      "featured" : "false",
       "teamCode" : "URU",
       "jerseyNumber" : 20,
       "id" : 286259
@@ -6254,6 +6822,7 @@
       "club" : "Toronto FC",
       "teamId" : 43921,
       "dob" : "1987-07-31 00:00:00",
+      "featured" : "false",
       "teamCode" : "USA",
       "jerseyNumber" : 4,
       "id" : 233531
@@ -6265,6 +6834,7 @@
       "club" : "Rosenborg BK",
       "teamId" : 43921,
       "dob" : "1990-10-02 00:00:00",
+      "featured" : "false",
       "teamCode" : "USA",
       "jerseyNumber" : 10,
       "id" : 312672
@@ -6276,6 +6846,7 @@
       "club" : "FC Nantes",
       "teamId" : 43921,
       "dob" : "1987-04-29 00:00:00",
+      "featured" : "false",
       "teamCode" : "USA",
       "jerseyNumber" : 11,
       "id" : 296273
@@ -6287,6 +6858,7 @@
       "club" : "Besiktas JK",
       "teamId" : 43921,
       "dob" : "1981-11-03 00:00:00",
+      "featured" : "false",
       "teamCode" : "USA",
       "jerseyNumber" : 13,
       "id" : 183893
@@ -6298,6 +6870,7 @@
       "club" : "Houston Dynamo",
       "teamId" : 43921,
       "dob" : "1981-11-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "USA",
       "jerseyNumber" : 14,
       "id" : 181951
@@ -6309,6 +6882,7 @@
       "club" : "Real Salt Lake",
       "teamId" : 43921,
       "dob" : "1982-04-23 00:00:00",
+      "featured" : "false",
       "teamCode" : "USA",
       "jerseyNumber" : 15,
       "id" : 175512
@@ -6320,6 +6894,7 @@
       "club" : "FC Bayern Muenchen",
       "teamId" : 43921,
       "dob" : "1995-06-06 00:00:00",
+      "featured" : "false",
       "teamCode" : "USA",
       "jerseyNumber" : 16,
       "id" : 369094
@@ -6331,6 +6906,7 @@
       "club" : "Sporting Kansas City",
       "teamId" : 43921,
       "dob" : "1986-08-18 00:00:00",
+      "featured" : "false",
       "teamCode" : "USA",
       "jerseyNumber" : 19,
       "id" : 360728
@@ -6342,6 +6918,7 @@
       "club" : "FC Porto",
       "teamId" : 43843,
       "dob" : "1990-04-20 00:00:00",
+      "featured" : "false",
       "teamCode" : "ALG",
       "jerseyNumber" : 9,
       "id" : 367261
@@ -6353,6 +6930,7 @@
       "club" : "Valencia CF",
       "teamId" : 43843,
       "dob" : "1989-12-26 00:00:00",
+      "featured" : "false",
       "teamCode" : "ALG",
       "jerseyNumber" : 10,
       "id" : 319358
@@ -6364,6 +6942,7 @@
       "club" : "Sporting CP",
       "teamId" : 43843,
       "dob" : "1988-06-18 00:00:00",
+      "featured" : "false",
       "teamCode" : "ALG",
       "jerseyNumber" : 13,
       "id" : 354859
@@ -6375,6 +6954,7 @@
       "club" : "GNK Dinamo Zagreb",
       "teamId" : 43843,
       "dob" : "1987-11-25 00:00:00",
+      "featured" : "false",
       "teamCode" : "ALG",
       "jerseyNumber" : 15,
       "id" : 296994
@@ -6386,6 +6966,7 @@
       "club" : "Club Africain",
       "teamId" : 43843,
       "dob" : "1987-01-31 00:00:00",
+      "featured" : "false",
       "teamCode" : "ALG",
       "jerseyNumber" : 18,
       "id" : 354875
@@ -6397,6 +6978,7 @@
       "club" : "Leicester City FC",
       "teamId" : 43843,
       "dob" : "1991-02-21 00:00:00",
+      "featured" : "false",
       "teamCode" : "ALG",
       "jerseyNumber" : 21,
       "id" : 379942
@@ -6408,6 +6990,7 @@
       "club" : "SSC Napoli",
       "teamId" : 43922,
       "dob" : "1987-12-10 00:00:00",
+      "featured" : "false",
       "teamCode" : "ARG",
       "jerseyNumber" : 9,
       "id" : 271550
@@ -6419,6 +7002,7 @@
       "club" : "FC Barcelona",
       "teamId" : 43922,
       "dob" : "1987-06-24 00:00:00",
+      "featured" : "true",
       "teamCode" : "ARG",
       "jerseyNumber" : 10,
       "id" : 229397
@@ -6430,6 +7014,7 @@
       "club" : "FC Internazionale",
       "teamId" : 43922,
       "dob" : "1982-02-05 00:00:00",
+      "featured" : "false",
       "teamCode" : "ARG",
       "jerseyNumber" : 18,
       "id" : 230739
@@ -6441,6 +7026,7 @@
       "club" : "Manchester City FC",
       "teamId" : 43922,
       "dob" : "1988-06-02 00:00:00",
+      "featured" : "false",
       "teamCode" : "ARG",
       "jerseyNumber" : 20,
       "id" : 228528
@@ -6452,6 +7038,7 @@
       "club" : "Paris Saint-Germain FC",
       "teamId" : 43922,
       "dob" : "1985-05-03 00:00:00",
+      "featured" : "false",
       "teamCode" : "ARG",
       "jerseyNumber" : 22,
       "id" : 229392
@@ -6463,6 +7050,7 @@
       "club" : "New York Red Bulls",
       "teamId" : 43976,
       "dob" : "1979-12-06 00:00:00",
+      "featured" : "false",
       "teamCode" : "AUS",
       "jerseyNumber" : 4,
       "id" : 213001
@@ -6474,6 +7062,7 @@
       "club" : "FSV Frankfurt",
       "teamId" : 43976,
       "dob" : "1991-02-04 00:00:00",
+      "featured" : "false",
       "teamCode" : "AUS",
       "jerseyNumber" : 7,
       "id" : 321697
@@ -6485,6 +7074,7 @@
       "club" : "Newcastle United Jets FC",
       "teamId" : 43976,
       "dob" : "1993-06-02 00:00:00",
+      "featured" : "false",
       "teamCode" : "AUS",
       "jerseyNumber" : 9,
       "id" : 368902
@@ -6496,6 +7086,7 @@
       "club" : "Fortuna Duesseldorf",
       "teamId" : 43976,
       "dob" : "1992-06-14 00:00:00",
+      "featured" : "false",
       "teamCode" : "AUS",
       "jerseyNumber" : 10,
       "id" : 379164
@@ -6507,6 +7098,7 @@
       "club" : "Everton FC",
       "teamId" : 43935,
       "dob" : "1993-05-13 00:00:00",
+      "featured" : "false",
       "teamCode" : "BEL",
       "jerseyNumber" : 9,
       "id" : 358112
@@ -6518,6 +7110,7 @@
       "club" : "Everton FC",
       "teamId" : 43935,
       "dob" : "1987-10-05 00:00:00",
+      "featured" : "false",
       "teamCode" : "BEL",
       "jerseyNumber" : 11,
       "id" : 290903
@@ -6529,6 +7122,7 @@
       "club" : "Lille OSC",
       "teamId" : 43935,
       "dob" : "1995-04-18 00:00:00",
+      "featured" : "false",
       "teamCode" : "BEL",
       "jerseyNumber" : 17,
       "id" : 379911
@@ -6540,6 +7134,7 @@
       "club" : "VfB Stuttgart",
       "teamId" : 44037,
       "dob" : "1984-08-06 00:00:00",
+      "featured" : "false",
       "teamCode" : "BIH",
       "jerseyNumber" : 9,
       "id" : 300411
@@ -6551,6 +7146,7 @@
       "club" : "Manchester City FC",
       "teamId" : 44037,
       "dob" : "1986-03-17 00:00:00",
+      "featured" : "false",
       "teamCode" : "BIH",
       "jerseyNumber" : 11,
       "id" : 300409
@@ -6562,6 +7158,7 @@
       "club" : "Istanbul BBSK",
       "teamId" : 44037,
       "dob" : "1990-02-17 00:00:00",
+      "featured" : "false",
       "teamCode" : "BIH",
       "jerseyNumber" : 19,
       "id" : 365747
@@ -6573,6 +7170,7 @@
       "club" : "FC Zenit St. Petersburg",
       "teamId" : 43924,
       "dob" : "1986-07-25 00:00:00",
+      "featured" : "false",
       "teamCode" : "BRA",
       "jerseyNumber" : 7,
       "id" : 318172
@@ -6584,6 +7182,7 @@
       "club" : "Fluminense FC",
       "teamId" : 43924,
       "dob" : "1983-10-03 00:00:00",
+      "featured" : "false",
       "teamCode" : "BRA",
       "jerseyNumber" : 9,
       "id" : 233952
@@ -6595,6 +7194,7 @@
       "club" : "FC Barcelona",
       "teamId" : 43924,
       "dob" : "1992-02-05 00:00:00",
+      "featured" : "false",
       "teamCode" : "BRA",
       "jerseyNumber" : 10,
       "id" : 314197
@@ -6606,6 +7206,7 @@
       "club" : "Shakhtar Donetsk",
       "teamId" : 43924,
       "dob" : "1992-09-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "BRA",
       "jerseyNumber" : 20,
       "id" : 356669
@@ -6617,6 +7218,7 @@
       "club" : "Atletico Mineiro",
       "teamId" : 43924,
       "dob" : "1987-03-20 00:00:00",
+      "featured" : "false",
       "teamCode" : "BRA",
       "jerseyNumber" : 21,
       "id" : 217172
@@ -6628,6 +7230,7 @@
       "club" : "FC Barcelona",
       "teamId" : 43925,
       "dob" : "1988-12-19 00:00:00",
+      "featured" : "false",
       "teamCode" : "CHI",
       "jerseyNumber" : 7,
       "id" : 228627
@@ -6639,6 +7242,7 @@
       "club" : "Cagliari Calcio",
       "teamId" : 43925,
       "dob" : "1984-02-04 00:00:00",
+      "featured" : "false",
       "teamCode" : "CHI",
       "jerseyNumber" : 9,
       "id" : 201787
@@ -6650,6 +7254,7 @@
       "club" : "Valencia CF",
       "teamId" : 43925,
       "dob" : "1989-11-20 00:00:00",
+      "featured" : "false",
       "teamCode" : "CHI",
       "jerseyNumber" : 11,
       "id" : 270301
@@ -6661,6 +7266,7 @@
       "club" : "Celta Vigo",
       "teamId" : 43925,
       "dob" : "1986-01-27 00:00:00",
+      "featured" : "false",
       "teamCode" : "CHI",
       "jerseyNumber" : 14,
       "id" : 281252
@@ -6672,6 +7278,7 @@
       "club" : "CSD Colo-Colo",
       "teamId" : 43925,
       "dob" : "1980-08-01 00:00:00",
+      "featured" : "false",
       "teamCode" : "CHI",
       "jerseyNumber" : 22,
       "id" : 313874
@@ -6683,6 +7290,7 @@
       "club" : "Lille OSC",
       "teamId" : 43854,
       "dob" : "1985-08-05 00:00:00",
+      "featured" : "false",
       "teamCode" : "CIV",
       "jerseyNumber" : 8,
       "id" : 216970
@@ -6694,6 +7302,7 @@
       "club" : "AS Roma",
       "teamId" : 43854,
       "dob" : "1987-05-27 00:00:00",
+      "featured" : "false",
       "teamCode" : "CIV",
       "jerseyNumber" : 10,
       "id" : 290186
@@ -6705,6 +7314,7 @@
       "club" : "Galatasaray SK",
       "teamId" : 43854,
       "dob" : "1978-03-11 00:00:00",
+      "featured" : "false",
       "teamCode" : "CIV",
       "jerseyNumber" : 11,
       "id" : 212306
@@ -6716,6 +7326,7 @@
       "club" : "Swansea City AFC",
       "teamId" : 43854,
       "dob" : "1988-12-10 00:00:00",
+      "featured" : "false",
       "teamCode" : "CIV",
       "jerseyNumber" : 12,
       "id" : 353118
@@ -6727,6 +7338,7 @@
       "club" : "FC Basel",
       "teamId" : 43854,
       "dob" : "1989-03-31 00:00:00",
+      "featured" : "false",
       "teamCode" : "CIV",
       "jerseyNumber" : 21,
       "id" : 332293
@@ -6738,6 +7350,7 @@
       "club" : "AS Nancy",
       "teamId" : 43849,
       "dob" : "1988-11-12 00:00:00",
+      "featured" : "false",
       "teamCode" : "CMR",
       "jerseyNumber" : 8,
       "id" : 296118
@@ -6749,6 +7362,7 @@
       "club" : "Chelsea FC",
       "teamId" : 43849,
       "dob" : "1981-03-10 00:00:00",
+      "featured" : "false",
       "teamCode" : "CMR",
       "jerseyNumber" : 9,
       "id" : 170667
@@ -6760,6 +7374,7 @@
       "club" : "FC Lorient",
       "teamId" : 43849,
       "dob" : "1992-01-22 00:00:00",
+      "featured" : "false",
       "teamCode" : "CMR",
       "jerseyNumber" : 10,
       "id" : 323698
@@ -6771,6 +7386,7 @@
       "club" : "FSV Mainz 05",
       "teamId" : 43849,
       "dob" : "1989-03-23 00:00:00",
+      "featured" : "false",
       "teamCode" : "CMR",
       "jerseyNumber" : 13,
       "id" : 312316
@@ -6782,6 +7398,7 @@
       "club" : "Fenerbahce SK",
       "teamId" : 43849,
       "dob" : "1982-01-20 00:00:00",
+      "featured" : "false",
       "teamCode" : "CMR",
       "jerseyNumber" : 15,
       "id" : 214135
@@ -6793,6 +7410,7 @@
       "club" : "SV Zulte Waregem",
       "teamId" : 43849,
       "dob" : "1996-05-12 00:00:00",
+      "featured" : "false",
       "teamCode" : "CMR",
       "jerseyNumber" : 19,
       "id" : 367396
@@ -6804,6 +7422,7 @@
       "club" : "CA River Plate",
       "teamId" : 43926,
       "dob" : "1985-05-17 00:00:00",
+      "featured" : "false",
       "teamCode" : "COL",
       "jerseyNumber" : 9,
       "id" : 309716
@@ -6815,6 +7434,7 @@
       "club" : "Cagliari Calcio",
       "teamId" : 43926,
       "dob" : "1990-05-19 00:00:00",
+      "featured" : "false",
       "teamCode" : "COL",
       "jerseyNumber" : 14,
       "id" : 349517
@@ -6826,6 +7446,7 @@
       "club" : "Sevilla FC",
       "teamId" : 43926,
       "dob" : "1986-09-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "COL",
       "jerseyNumber" : 17,
       "id" : 349512
@@ -6837,6 +7458,7 @@
       "club" : "Hertha BSC",
       "teamId" : 43926,
       "dob" : "1986-01-22 00:00:00",
+      "featured" : "false",
       "teamCode" : "COL",
       "jerseyNumber" : 19,
       "id" : 200847
@@ -6848,6 +7470,7 @@
       "club" : "FC Porto",
       "teamId" : 43926,
       "dob" : "1986-10-03 00:00:00",
+      "featured" : "false",
       "teamCode" : "COL",
       "jerseyNumber" : 21,
       "id" : 313832
@@ -6859,6 +7482,7 @@
       "club" : "Olympiacos Piraeus FC",
       "teamId" : 43901,
       "dob" : "1992-06-26 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRC",
       "jerseyNumber" : 9,
       "id" : 307529
@@ -6870,6 +7494,7 @@
       "club" : "PSV Eindhoven",
       "teamId" : 43901,
       "dob" : "1985-08-18 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRC",
       "jerseyNumber" : 10,
       "id" : 214876
@@ -6881,6 +7506,7 @@
       "club" : "CSD Cartagines",
       "teamId" : 43901,
       "dob" : "1983-08-13 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRC",
       "jerseyNumber" : 14,
       "id" : 237058
@@ -6892,6 +7518,7 @@
       "club" : "Kuban Krasnodar",
       "teamId" : 43901,
       "dob" : "1990-03-05 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRC",
       "jerseyNumber" : 21,
       "id" : 270144
@@ -6903,6 +7530,7 @@
       "club" : "Hull City FC",
       "teamId" : 43938,
       "dob" : "1985-08-27 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRO",
       "jerseyNumber" : 9,
       "id" : 316117
@@ -6914,6 +7542,7 @@
       "club" : "ACF Fiorentina",
       "teamId" : 43938,
       "dob" : "1993-09-21 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRO",
       "jerseyNumber" : 16,
       "id" : 369058
@@ -6925,6 +7554,7 @@
       "club" : "FC Bayern Muenchen",
       "teamId" : 43938,
       "dob" : "1986-05-21 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRO",
       "jerseyNumber" : 17,
       "id" : 375518
@@ -6936,6 +7566,7 @@
       "club" : "VfL Wolfsburg",
       "teamId" : 43938,
       "dob" : "1979-09-14 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRO",
       "jerseyNumber" : 18,
       "id" : 187258
@@ -6947,6 +7578,7 @@
       "club" : "Shakhtar Donetsk",
       "teamId" : 43938,
       "dob" : "1983-02-25 00:00:00",
+      "featured" : "false",
       "teamCode" : "CRO",
       "jerseyNumber" : 22,
       "id" : 214384
@@ -6958,6 +7590,7 @@
       "club" : "Cruz Azul FC",
       "teamId" : 43927,
       "dob" : "1989-06-14 00:00:00",
+      "featured" : "false",
       "teamCode" : "ECU",
       "jerseyNumber" : 9,
       "id" : 305972
@@ -6969,6 +7602,7 @@
       "club" : "Al Jazira SCC",
       "teamId" : 43927,
       "dob" : "1988-09-05 00:00:00",
+      "featured" : "false",
       "teamCode" : "ECU",
       "jerseyNumber" : 11,
       "id" : 228715
@@ -6980,6 +7614,7 @@
       "club" : "CF Pachuca",
       "teamId" : 43927,
       "dob" : "1989-11-04 00:00:00",
+      "featured" : "false",
       "teamCode" : "ECU",
       "jerseyNumber" : 13,
       "id" : 373400
@@ -6991,6 +7626,7 @@
       "club" : "Club Tijuana",
       "teamId" : 43927,
       "dob" : "1988-02-21 00:00:00",
+      "featured" : "false",
       "teamCode" : "ECU",
       "jerseyNumber" : 17,
       "id" : 349572
@@ -7002,6 +7638,7 @@
       "club" : "Liverpool FC",
       "teamId" : 43942,
       "dob" : "1989-09-01 00:00:00",
+      "featured" : "false",
       "teamCode" : "ENG",
       "jerseyNumber" : 9,
       "id" : 306532
@@ -7013,6 +7650,7 @@
       "club" : "Manchester United FC",
       "teamId" : 43942,
       "dob" : "1985-10-24 00:00:00",
+      "featured" : "false",
       "teamCode" : "ENG",
       "jerseyNumber" : 10,
       "id" : 196842
@@ -7024,6 +7662,7 @@
       "club" : "Manchester United FC",
       "teamId" : 43942,
       "dob" : "1990-11-26 00:00:00",
+      "featured" : "false",
       "teamCode" : "ENG",
       "jerseyNumber" : 11,
       "id" : 274034
@@ -7035,6 +7674,7 @@
       "club" : "Southampton FC",
       "teamId" : 43942,
       "dob" : "1982-02-16 00:00:00",
+      "featured" : "false",
       "teamCode" : "ENG",
       "jerseyNumber" : 18,
       "id" : 373224
@@ -7046,6 +7686,7 @@
       "club" : "Atletico Madrid",
       "teamId" : 43969,
       "dob" : "1981-12-03 00:00:00",
+      "featured" : "false",
       "teamCode" : "ESP",
       "jerseyNumber" : 7,
       "id" : 229884
@@ -7057,6 +7698,7 @@
       "club" : "Chelsea FC",
       "teamId" : 43969,
       "dob" : "1984-03-20 00:00:00",
+      "featured" : "false",
       "teamCode" : "ESP",
       "jerseyNumber" : 9,
       "id" : 183864
@@ -7068,6 +7710,7 @@
       "club" : "FC Barcelona",
       "teamId" : 43969,
       "dob" : "1987-07-28 00:00:00",
+      "featured" : "false",
       "teamCode" : "ESP",
       "jerseyNumber" : 11,
       "id" : 318601
@@ -7079,6 +7722,7 @@
       "club" : "Manchester United FC",
       "teamId" : 43969,
       "dob" : "1988-04-28 00:00:00",
+      "featured" : "false",
       "teamCode" : "ESP",
       "jerseyNumber" : 13,
       "id" : 267811
@@ -7090,6 +7734,7 @@
       "club" : "Atletico Madrid",
       "teamId" : 43969,
       "dob" : "1988-10-07 00:00:00",
+      "featured" : "false",
       "teamCode" : "ESP",
       "jerseyNumber" : 19,
       "id" : 367920
@@ -7101,6 +7746,7 @@
       "club" : "Montpellier HSC",
       "teamId" : 43946,
       "dob" : "1990-03-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "FRA",
       "jerseyNumber" : 7,
       "id" : 359454
@@ -7112,6 +7758,7 @@
       "club" : "Arsenal FC",
       "teamId" : 43946,
       "dob" : "1986-09-30 00:00:00",
+      "featured" : "false",
       "teamCode" : "FRA",
       "jerseyNumber" : 9,
       "id" : 358015
@@ -7123,6 +7770,7 @@
       "club" : "Real Madrid CF",
       "teamId" : 43946,
       "dob" : "1987-12-19 00:00:00",
+      "featured" : "false",
       "teamCode" : "FRA",
       "jerseyNumber" : 10,
       "id" : 297103
@@ -7134,6 +7782,7 @@
       "club" : "Real Sociedad",
       "teamId" : 43946,
       "dob" : "1991-03-21 00:00:00",
+      "featured" : "false",
       "teamCode" : "FRA",
       "jerseyNumber" : 11,
       "id" : 336435
@@ -7145,6 +7794,7 @@
       "club" : "Newcastle United FC",
       "teamId" : 43946,
       "dob" : "1987-01-02 00:00:00",
+      "featured" : "false",
       "teamCode" : "FRA",
       "jerseyNumber" : 20,
       "id" : 299878
@@ -7156,6 +7806,7 @@
       "club" : "Chelsea FC",
       "teamId" : 43948,
       "dob" : "1990-11-06 00:00:00",
+      "featured" : "false",
       "teamCode" : "GER",
       "jerseyNumber" : 9,
       "id" : 306548
@@ -7167,6 +7818,7 @@
       "club" : "Arsenal FC",
       "teamId" : 43948,
       "dob" : "1985-06-04 00:00:00",
+      "featured" : "false",
       "teamCode" : "GER",
       "jerseyNumber" : 10,
       "id" : 196789
@@ -7178,6 +7830,7 @@
       "club" : "SS Lazio",
       "teamId" : 43948,
       "dob" : "1978-06-09 00:00:00",
+      "featured" : "false",
       "teamCode" : "GER",
       "jerseyNumber" : 11,
       "id" : 182206
@@ -7189,6 +7842,7 @@
       "club" : "FC Bayern Muenchen",
       "teamId" : 43948,
       "dob" : "1989-09-13 00:00:00",
+      "featured" : "false",
       "teamCode" : "GER",
       "jerseyNumber" : 13,
       "id" : 321722
@@ -7200,6 +7854,7 @@
       "club" : "FC Bayern Muenchen",
       "teamId" : 43948,
       "dob" : "1992-06-03 00:00:00",
+      "featured" : "false",
       "teamCode" : "GER",
       "jerseyNumber" : 19,
       "id" : 309316
@@ -7211,6 +7866,7 @@
       "club" : "Al Ain FC",
       "teamId" : 43860,
       "dob" : "1985-11-22 00:00:00",
+      "featured" : "false",
       "teamCode" : "GHA",
       "jerseyNumber" : 3,
       "id" : 208353
@@ -7222,6 +7878,7 @@
       "club" : "FC Schalke 04",
       "teamId" : 43860,
       "dob" : "1987-03-06 00:00:00",
+      "featured" : "false",
       "teamCode" : "GHA",
       "jerseyNumber" : 9,
       "id" : 196897
@@ -7233,6 +7890,7 @@
       "club" : "FC Sochaux-Montbéliard",
       "teamId" : 43860,
       "dob" : "1991-09-11 00:00:00",
+      "featured" : "false",
       "teamCode" : "GHA",
       "jerseyNumber" : 13,
       "id" : 353235
@@ -7244,6 +7902,7 @@
       "club" : "Valenciennes FC",
       "teamId" : 43860,
       "dob" : "1991-09-19 00:00:00",
+      "featured" : "false",
       "teamCode" : "GHA",
       "jerseyNumber" : 18,
       "id" : 367393
@@ -7255,6 +7914,7 @@
       "club" : "Celtic FC",
       "teamId" : 43949,
       "dob" : "1985-02-21 00:00:00",
+      "featured" : "false",
       "teamCode" : "GRE",
       "jerseyNumber" : 7,
       "id" : 297112
@@ -7266,6 +7926,7 @@
       "club" : "Fulham FC",
       "teamId" : 43949,
       "dob" : "1988-03-12 00:00:00",
+      "featured" : "false",
       "teamCode" : "GRE",
       "jerseyNumber" : 9,
       "id" : 318768
@@ -7277,6 +7938,7 @@
       "club" : "PAOK FC",
       "teamId" : 43949,
       "dob" : "1981-08-18 00:00:00",
+      "featured" : "false",
       "teamCode" : "GRE",
       "jerseyNumber" : 14,
       "id" : 215513
@@ -7288,6 +7950,7 @@
       "club" : "Konyaspor",
       "teamId" : 43949,
       "dob" : "1980-05-23 00:00:00",
+      "featured" : "false",
       "teamCode" : "GRE",
       "jerseyNumber" : 17,
       "id" : 230517
@@ -7299,6 +7962,7 @@
       "club" : "Genoa CFC",
       "teamId" : 43949,
       "dob" : "1990-12-21 00:00:00",
+      "featured" : "false",
       "teamCode" : "GRE",
       "jerseyNumber" : 18,
       "id" : 358024
@@ -7310,6 +7974,7 @@
       "club" : "New England Revolution",
       "teamId" : 43909,
       "dob" : "1987-04-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "HON",
       "jerseyNumber" : 11,
       "id" : 323623
@@ -7321,6 +7986,7 @@
       "club" : "Real Espana",
       "teamId" : 43909,
       "dob" : "1982-07-18 00:00:00",
+      "featured" : "false",
       "teamCode" : "HON",
       "jerseyNumber" : 13,
       "id" : 271414
@@ -7332,6 +7998,7 @@
       "club" : "CD Real Sociedad",
       "teamId" : 43909,
       "dob" : "1987-10-16 00:00:00",
+      "featured" : "false",
       "teamCode" : "HON",
       "jerseyNumber" : 16,
       "id" : 369990
@@ -7343,6 +8010,7 @@
       "club" : "Esteghlal Tehran FC",
       "teamId" : 43817,
       "dob" : "1983-09-14 00:00:00",
+      "featured" : "false",
       "teamCode" : "IRN",
       "jerseyNumber" : 2,
       "id" : 306206
@@ -7354,6 +8022,7 @@
       "club" : "UD Las Palmas",
       "teamId" : 43817,
       "dob" : "1984-06-09 00:00:00",
+      "featured" : "false",
       "teamCode" : "IRN",
       "jerseyNumber" : 7,
       "id" : 213170
@@ -7365,6 +8034,7 @@
       "club" : "NEC Nijmegen",
       "teamId" : 43817,
       "dob" : "1993-08-11 00:00:00",
+      "featured" : "false",
       "teamCode" : "IRN",
       "jerseyNumber" : 9,
       "id" : 379886
@@ -7376,6 +8046,7 @@
       "club" : "Tractor Sazi Tabriz FC",
       "teamId" : 43817,
       "dob" : "1990-04-03 00:00:00",
+      "featured" : "false",
       "teamCode" : "IRN",
       "jerseyNumber" : 10,
       "id" : 330659
@@ -7387,6 +8058,7 @@
       "club" : "Charlton Athletic FC",
       "teamId" : 43817,
       "dob" : "1987-09-20 00:00:00",
+      "featured" : "false",
       "teamCode" : "IRN",
       "jerseyNumber" : 16,
       "id" : 362641
@@ -7398,6 +8070,7 @@
       "club" : "Fulham FC",
       "teamId" : 43817,
       "dob" : "1986-07-05 00:00:00",
+      "featured" : "false",
       "teamCode" : "IRN",
       "jerseyNumber" : 21,
       "id" : 196812
@@ -7409,6 +8082,7 @@
       "club" : "AC Milan",
       "teamId" : 43954,
       "dob" : "1990-08-12 00:00:00",
+      "featured" : "false",
       "teamCode" : "ITA",
       "jerseyNumber" : 9,
       "id" : 301059
@@ -7420,6 +8094,7 @@
       "club" : "Parma FC",
       "teamId" : 43954,
       "dob" : "1982-07-12 00:00:00",
+      "featured" : "false",
       "teamCode" : "ITA",
       "jerseyNumber" : 10,
       "id" : 177927
@@ -7431,6 +8106,7 @@
       "club" : "Torino FC",
       "teamId" : 43954,
       "dob" : "1987-07-23 00:00:00",
+      "featured" : "false",
       "teamCode" : "ITA",
       "jerseyNumber" : 11,
       "id" : 228942
@@ -7442,6 +8118,7 @@
       "club" : "Torino FC",
       "teamId" : 43954,
       "dob" : "1990-02-20 00:00:00",
+      "featured" : "false",
       "teamCode" : "ITA",
       "jerseyNumber" : 17,
       "id" : 306780
@@ -7453,6 +8130,7 @@
       "club" : "SSC Napoli",
       "teamId" : 43954,
       "dob" : "1991-06-04 00:00:00",
+      "featured" : "false",
       "teamCode" : "ITA",
       "jerseyNumber" : 22,
       "id" : 359235
@@ -7464,6 +8142,7 @@
       "club" : "AC Milan",
       "teamId" : 43819,
       "dob" : "1986-06-13 00:00:00",
+      "featured" : "false",
       "teamCode" : "JPN",
       "jerseyNumber" : 4,
       "id" : 233500
@@ -7475,6 +8154,7 @@
       "club" : "1. FC Nuernberg",
       "teamId" : 43819,
       "dob" : "1989-11-12 00:00:00",
+      "featured" : "false",
       "teamCode" : "JPN",
       "jerseyNumber" : 8,
       "id" : 347716
@@ -7486,6 +8166,7 @@
       "club" : "FSV Mainz 05",
       "teamId" : 43819,
       "dob" : "1986-04-16 00:00:00",
+      "featured" : "false",
       "teamCode" : "JPN",
       "jerseyNumber" : 9,
       "id" : 286278
@@ -7497,6 +8178,7 @@
       "club" : "Manchester United FC",
       "teamId" : 43819,
       "dob" : "1989-03-17 00:00:00",
+      "featured" : "false",
       "teamCode" : "JPN",
       "jerseyNumber" : 10,
       "id" : 268596
@@ -7508,6 +8190,7 @@
       "club" : "Cerezo Osaka",
       "teamId" : 43819,
       "dob" : "1990-01-03 00:00:00",
+      "featured" : "false",
       "teamCode" : "JPN",
       "jerseyNumber" : 11,
       "id" : 275096
@@ -7519,6 +8202,7 @@
       "club" : "Kawasaki Frontale",
       "teamId" : 43819,
       "dob" : "1982-06-09 00:00:00",
+      "featured" : "false",
       "teamCode" : "JPN",
       "jerseyNumber" : 13,
       "id" : 180936
@@ -7530,6 +8214,7 @@
       "club" : "TSV 1860 Muenchen",
       "teamId" : 43819,
       "dob" : "1990-05-18 00:00:00",
+      "featured" : "false",
       "teamCode" : "JPN",
       "jerseyNumber" : 18,
       "id" : 275136
@@ -7541,6 +8226,7 @@
       "club" : "Yokohama F-Marinos",
       "teamId" : 43819,
       "dob" : "1990-04-04 00:00:00",
+      "featured" : "false",
       "teamCode" : "JPN",
       "jerseyNumber" : 20,
       "id" : 275112
@@ -7552,6 +8238,7 @@
       "club" : "Watford FC",
       "teamId" : 43822,
       "dob" : "1985-07-10 00:00:00",
+      "featured" : "false",
       "teamCode" : "KOR",
       "jerseyNumber" : 10,
       "id" : 207761
@@ -7563,6 +8250,7 @@
       "club" : "Sangju Sangmu FC",
       "teamId" : 43822,
       "dob" : "1985-04-11 00:00:00",
+      "featured" : "false",
       "teamCode" : "KOR",
       "jerseyNumber" : 11,
       "id" : 268149
@@ -7574,6 +8262,7 @@
       "club" : "FSV Mainz 05",
       "teamId" : 43822,
       "dob" : "1989-02-27 00:00:00",
+      "featured" : "false",
       "teamCode" : "KOR",
       "jerseyNumber" : 13,
       "id" : 291393
@@ -7585,6 +8274,7 @@
       "club" : "Ulsan Hyundai FC",
       "teamId" : 43822,
       "dob" : "1988-04-14 00:00:00",
+      "featured" : "false",
       "teamCode" : "KOR",
       "jerseyNumber" : 18,
       "id" : 321745
@@ -7596,6 +8286,7 @@
       "club" : "Club America",
       "teamId" : 43911,
       "dob" : "1991-05-05 00:00:00",
+      "featured" : "false",
       "teamCode" : "MEX",
       "jerseyNumber" : 9,
       "id" : 356731
@@ -7607,6 +8298,7 @@
       "club" : "Villarreal CF",
       "teamId" : 43911,
       "dob" : "1989-05-11 00:00:00",
+      "featured" : "false",
       "teamCode" : "MEX",
       "jerseyNumber" : 10,
       "id" : 234551
@@ -7618,6 +8310,7 @@
       "club" : "Tigres UANL",
       "teamId" : 43911,
       "dob" : "1991-03-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "MEX",
       "jerseyNumber" : 11,
       "id" : 336722
@@ -7629,6 +8322,7 @@
       "club" : "Manchester United FC",
       "teamId" : 43911,
       "dob" : "1988-06-01 00:00:00",
+      "featured" : "false",
       "teamCode" : "MEX",
       "jerseyNumber" : 14,
       "id" : 228599
@@ -7640,6 +8334,7 @@
       "club" : "Club Santos Laguna",
       "teamId" : 43911,
       "dob" : "1984-01-12 00:00:00",
+      "featured" : "false",
       "teamCode" : "MEX",
       "jerseyNumber" : 19,
       "id" : 227851
@@ -7651,6 +8346,7 @@
       "club" : "Manchester United FC",
       "teamId" : 43960,
       "dob" : "1983-08-06 00:00:00",
+      "featured" : "false",
       "teamCode" : "NED",
       "jerseyNumber" : 9,
       "id" : 217315
@@ -7662,6 +8358,7 @@
       "club" : "FC Bayern Muenchen",
       "teamId" : 43960,
       "dob" : "1984-01-23 00:00:00",
+      "featured" : "false",
       "teamCode" : "NED",
       "jerseyNumber" : 11,
       "id" : 184616
@@ -7673,6 +8370,7 @@
       "club" : "Fenerbahce SK",
       "teamId" : 43960,
       "dob" : "1980-07-22 00:00:00",
+      "featured" : "false",
       "teamCode" : "NED",
       "jerseyNumber" : 15,
       "id" : 217313
@@ -7684,6 +8382,7 @@
       "club" : "FC Dynamo Kyiv",
       "teamId" : 43960,
       "dob" : "1987-11-24 00:00:00",
+      "featured" : "false",
       "teamCode" : "NED",
       "jerseyNumber" : 17,
       "id" : 298681
@@ -7695,6 +8394,7 @@
       "club" : "FC Schalke 04",
       "teamId" : 43960,
       "dob" : "1983-08-12 00:00:00",
+      "featured" : "false",
       "teamCode" : "NED",
       "jerseyNumber" : 19,
       "id" : 184615
@@ -7706,6 +8406,7 @@
       "club" : "PSV Eindhoven",
       "teamId" : 43960,
       "dob" : "1994-02-13 00:00:00",
+      "featured" : "false",
       "teamCode" : "NED",
       "jerseyNumber" : 21,
       "id" : 336098
@@ -7717,6 +8418,7 @@
       "club" : "CSKA Moscow",
       "teamId" : 43876,
       "dob" : "1992-10-14 00:00:00",
+      "featured" : "false",
       "teamCode" : "NGA",
       "jerseyNumber" : 7,
       "id" : 344714
@@ -7728,6 +8430,7 @@
       "club" : "Stoke City FC",
       "teamId" : 43876,
       "dob" : "1981-07-15 00:00:00",
+      "featured" : "false",
       "teamCode" : "NGA",
       "jerseyNumber" : 8,
       "id" : 214228
@@ -7739,6 +8442,7 @@
       "club" : "Fenerbahce SK",
       "teamId" : 43876,
       "dob" : "1987-05-10 00:00:00",
+      "featured" : "false",
       "teamCode" : "NGA",
       "jerseyNumber" : 9,
       "id" : 364763
@@ -7750,6 +8454,7 @@
       "club" : "Liverpool FC",
       "teamId" : 43876,
       "dob" : "1990-12-12 00:00:00",
+      "featured" : "false",
       "teamCode" : "NGA",
       "jerseyNumber" : 11,
       "id" : 274090
@@ -7761,6 +8466,7 @@
       "club" : "FC Volyn Lutsk",
       "teamId" : 43876,
       "dob" : "1992-12-24 00:00:00",
+      "featured" : "false",
       "teamCode" : "NGA",
       "jerseyNumber" : 18,
       "id" : 312014
@@ -7772,6 +8478,7 @@
       "club" : "SC Heerenveen",
       "teamId" : 43876,
       "dob" : "1991-09-17 00:00:00",
+      "featured" : "false",
       "teamCode" : "NGA",
       "jerseyNumber" : 19,
       "id" : 338673
@@ -7783,6 +8490,7 @@
       "club" : "Cercle Brugge",
       "teamId" : 43876,
       "dob" : "1990-02-03 00:00:00",
+      "featured" : "false",
       "teamCode" : "NGA",
       "jerseyNumber" : 20,
       "id" : 306900
@@ -7794,6 +8502,7 @@
       "club" : "Newcastle United FC",
       "teamId" : 43876,
       "dob" : "1981-10-12 00:00:00",
+      "featured" : "false",
       "teamCode" : "NGA",
       "jerseyNumber" : 23,
       "id" : 186455
@@ -7805,6 +8514,7 @@
       "club" : "Real Madrid CF",
       "teamId" : 43963,
       "dob" : "1985-02-05 00:00:00",
+      "featured" : "false",
       "teamCode" : "POR",
       "jerseyNumber" : 7,
       "id" : 201200
@@ -7816,6 +8526,7 @@
       "club" : "Besiktas JK",
       "teamId" : 43963,
       "dob" : "1984-05-23 00:00:00",
+      "featured" : "false",
       "teamCode" : "POR",
       "jerseyNumber" : 9,
       "id" : 214410
@@ -7827,6 +8538,7 @@
       "club" : "VfL Wolfsburg",
       "teamId" : 43963,
       "dob" : "1986-01-24 00:00:00",
+      "featured" : "false",
       "teamCode" : "POR",
       "jerseyNumber" : 10,
       "id" : 200205
@@ -7838,6 +8550,7 @@
       "club" : "Sporting Braga",
       "teamId" : 43963,
       "dob" : "1987-12-22 00:00:00",
+      "featured" : "false",
       "teamCode" : "POR",
       "jerseyNumber" : 11,
       "id" : 359436
@@ -7849,6 +8562,7 @@
       "club" : "Sporting Braga",
       "teamId" : 43963,
       "dob" : "1993-05-17 00:00:00",
+      "featured" : "false",
       "teamCode" : "POR",
       "jerseyNumber" : 15,
       "id" : 368708
@@ -7860,6 +8574,7 @@
       "club" : "Manchester United FC",
       "teamId" : 43963,
       "dob" : "1986-11-17 00:00:00",
+      "featured" : "false",
       "teamCode" : "POR",
       "jerseyNumber" : 17,
       "id" : 254167
@@ -7871,6 +8586,7 @@
       "club" : "FC Porto",
       "teamId" : 43963,
       "dob" : "1985-02-02 00:00:00",
+      "featured" : "false",
       "teamCode" : "POR",
       "jerseyNumber" : 18,
       "id" : 254166
@@ -7882,6 +8598,7 @@
       "club" : "SS Lazio",
       "teamId" : 43963,
       "dob" : "1982-08-02 00:00:00",
+      "featured" : "false",
       "teamCode" : "POR",
       "jerseyNumber" : 23,
       "id" : 187203
@@ -7893,6 +8610,7 @@
       "club" : "FK Amkar Perm",
       "teamId" : 43965,
       "dob" : "1991-07-14 00:00:00",
+      "featured" : "false",
       "teamCode" : "RUS",
       "jerseyNumber" : 6,
       "id" : 358885
@@ -7904,6 +8622,7 @@
       "club" : "FC Dynamo Moscow",
       "teamId" : 43965,
       "dob" : "1991-03-19 00:00:00",
+      "featured" : "false",
       "teamCode" : "RUS",
       "jerseyNumber" : 9,
       "id" : 358048
@@ -7915,6 +8634,7 @@
       "club" : "FC Zenit St. Petersburg",
       "teamId" : 43965,
       "dob" : "1982-11-27 00:00:00",
+      "featured" : "false",
       "teamCode" : "RUS",
       "jerseyNumber" : 11,
       "id" : 186808
@@ -7926,6 +8646,7 @@
       "club" : "FC Dynamo Moscow",
       "teamId" : 43965,
       "dob" : "1983-08-20 00:00:00",
+      "featured" : "false",
       "teamCode" : "RUS",
       "jerseyNumber" : 18,
       "id" : 216432
@@ -7937,6 +8658,7 @@
       "club" : "FC Lokomotiv Moscow",
       "teamId" : 43965,
       "dob" : "1984-07-19 00:00:00",
+      "featured" : "false",
       "teamCode" : "RUS",
       "jerseyNumber" : 19,
       "id" : 216435
@@ -7948,6 +8670,7 @@
       "club" : "FC Dynamo Moscow",
       "teamId" : 43965,
       "dob" : "1989-02-18 00:00:00",
+      "featured" : "false",
       "teamCode" : "RUS",
       "jerseyNumber" : 21,
       "id" : 358881
@@ -7959,6 +8682,7 @@
       "club" : "Real Sociedad",
       "teamId" : 43971,
       "dob" : "1992-02-22 00:00:00",
+      "featured" : "false",
       "teamCode" : "SUI",
       "jerseyNumber" : 9,
       "id" : 311554
@@ -7970,6 +8694,7 @@
       "club" : "FC Zuerich",
       "teamId" : 43971,
       "dob" : "1989-11-24 00:00:00",
+      "featured" : "false",
       "teamCode" : "SUI",
       "jerseyNumber" : 17,
       "id" : 319470
@@ -7981,6 +8706,7 @@
       "club" : "SC Freiburg",
       "teamId" : 43971,
       "dob" : "1991-03-16 00:00:00",
+      "featured" : "false",
       "teamCode" : "SUI",
       "jerseyNumber" : 18,
       "id" : 356409
@@ -7992,6 +8718,7 @@
       "club" : "1. FC Nuernberg",
       "teamId" : 43971,
       "dob" : "1992-08-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "SUI",
       "jerseyNumber" : 19,
       "id" : 356399
@@ -8003,6 +8730,7 @@
       "club" : "US Citta di Palermo",
       "teamId" : 43930,
       "dob" : "1990-08-08 00:00:00",
+      "featured" : "false",
       "teamCode" : "URU",
       "jerseyNumber" : 8,
       "id" : 305372
@@ -8014,6 +8742,7 @@
       "club" : "Liverpool FC",
       "teamId" : 43930,
       "dob" : "1987-01-24 00:00:00",
+      "featured" : "false",
       "teamCode" : "URU",
       "jerseyNumber" : 9,
       "id" : 270775
@@ -8025,6 +8754,7 @@
       "club" : "Cerezo Osaka",
       "teamId" : 43930,
       "dob" : "1979-05-19 00:00:00",
+      "featured" : "false",
       "teamCode" : "URU",
       "jerseyNumber" : 10,
       "id" : 189259
@@ -8036,6 +8766,7 @@
       "club" : "RCD Espanyol",
       "teamId" : 43930,
       "dob" : "1986-10-12 00:00:00",
+      "featured" : "false",
       "teamCode" : "URU",
       "jerseyNumber" : 11,
       "id" : 229506
@@ -8047,6 +8778,7 @@
       "club" : "Paris Saint-Germain FC",
       "teamId" : 43930,
       "dob" : "1987-02-14 00:00:00",
+      "featured" : "false",
       "teamCode" : "URU",
       "jerseyNumber" : 21,
       "id" : 267834
@@ -8058,6 +8790,7 @@
       "club" : "Seattle Sounders FC",
       "teamId" : 43921,
       "dob" : "1983-03-09 00:00:00",
+      "featured" : "false",
       "teamCode" : "USA",
       "jerseyNumber" : 8,
       "id" : 207851
@@ -8069,6 +8802,7 @@
       "club" : "AZ Alkmaar",
       "teamId" : 43921,
       "dob" : "1990-11-10 00:00:00",
+      "featured" : "false",
       "teamCode" : "USA",
       "jerseyNumber" : 9,
       "id" : 367347
@@ -8080,6 +8814,7 @@
       "club" : "Sunderland AFC",
       "teamId" : 43921,
       "dob" : "1989-11-06 00:00:00",
+      "featured" : "false",
       "teamCode" : "USA",
       "jerseyNumber" : 17,
       "id" : 238072
@@ -8091,6 +8826,7 @@
       "club" : "San Jose Earthquakes",
       "teamId" : 43921,
       "dob" : "1983-01-28 00:00:00",
+      "featured" : "false",
       "teamCode" : "USA",
       "jerseyNumber" : 18,
       "id" : 339508

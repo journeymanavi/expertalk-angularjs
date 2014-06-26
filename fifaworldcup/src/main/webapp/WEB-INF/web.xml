@@ -23,4 +23,16 @@
         <servlet-name>springDispatcher</servlet-name>
         <url-pattern>/api/*</url-pattern>
     </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>springDispatcher</servlet-name>
+        <url-pattern>/</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>springDispatcher</servlet-name>
+        <url-pattern>/readytoplay</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>springDispatcher</servlet-name>
+        <url-pattern>/play</url-pattern>
+    </servlet-mapping>
 </web-app>

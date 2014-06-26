@@ -1,0 +1,56 @@
+<div class="card">
+	<div class="card-heading">
+		Matches
+	</div>
+	<div class="card-body" ng-controller="matchesController">
+		<div class="card-section-heading">
+			Latest Results - {{getLatestResults().matchDate}}
+		</div>
+		<div class="card-section-body">
+			<ul class="matches-list">
+				<li class="match-item" ng-repeat="match in getLatestResults().matches">
+					<img class="small-flag home-flag" ng-src="img/flag/{{match.homeTeamCode | lowercase}}.png">
+					<span class="home-team-code">{{match.homeTeamCode}}</span>
+					<span class="score">{{match.score.home}}-{{match.score.away}}</span>
+					<img class="small-flag away-flag" ng-src="img/flag/{{match.awayTeamCode | lowercase}}.png">
+					<span class="away-team-code">{{match.awayTeamCode}}</span>
+				</li>
+			</ul>
+		</div>
+
+		<div class="card-section-heading">
+			Coming Up - {{getLatestResults().matchDate}}
+		</div>
+		<div class="card-section-body">
+			<ul class="matches-list">
+				<li class="match-item" ng-repeat="match in getNextScheduledMatchs().matches">
+					<img class="small-flag home-flag" ng-src="img/flag/{{match.homeTeamCode | lowercase}}.png" alt="{{match.homeTeamCode}}">
+					<span class="home-team-code">{{match.homeTeamCode}}</span>
+					<span class="score">{{match.time}}</span>
+					<img class="small-flag away-flag" ng-src="img/flag/{{match.awayTeamCode | lowercase}}.png" alt="{{match.awayTeamCode}}">
+					<span class="away-team-code">{{match.awayTeamCode}}</span>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+<div class="card">
+	<div class="card-heading">
+		Featured Team
+	</div>
+	<div class="card-body" ng-controller="teamsController">
+		<div ng-repeat="team in teams | filter:'team.featured'">
+			
+		</div>
+	</div>
+</div>
+
+<div class="card">
+	<div class="card-heading">
+		Featured Player
+	</div>
+	<div class="card-body" ng-controller="playersController">
+		
+	</div>
+</div>

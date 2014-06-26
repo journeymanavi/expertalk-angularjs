@@ -672,10 +672,13 @@
          {
             "awayTeamId" : "43924",
             "homeTeamName" : "Cameroon",
-            "status" : "Scheduled",
+            "status" : "Full-time",
             "time" : "17:00",
             "date" : "23 Jun 2014",
-            "score" : null,
+            "score" : {
+               "away" : "4",
+               "home" : "1"
+            },
             "awayTeamName" : "Brazil",
             "homeTeamId" : "43849",
             "group" : "Group A",
@@ -687,10 +690,13 @@
          {
             "awayTeamId" : "43911",
             "homeTeamName" : "Croatia",
-            "status" : "Scheduled",
+            "status" : "Full-time",
             "time" : "17:00",
             "date" : "23 Jun 2014",
-            "score" : null,
+            "score" : {
+               "away" : "3",
+               "home" : "1"
+            },
             "awayTeamName" : "Mexico",
             "homeTeamId" : "43938",
             "group" : "Group A",
@@ -707,10 +713,13 @@
          {
             "awayTeamId" : "43930",
             "homeTeamName" : "Italy",
-            "status" : "Scheduled",
+            "status" : "Full-time",
             "time" : "13:00",
             "date" : "24 Jun 2014",
-            "score" : null,
+            "score" : {
+               "away" : "1",
+               "home" : "0"
+            },
             "awayTeamName" : "Uruguay",
             "homeTeamId" : "43954",
             "group" : "Group D",
@@ -722,10 +731,13 @@
          {
             "awayTeamId" : "43942",
             "homeTeamName" : "Costa Rica",
-            "status" : "Scheduled",
+            "status" : "Full-time",
             "time" : "13:00",
             "date" : "24 Jun 2014",
-            "score" : null,
+            "score" : {
+               "away" : "0",
+               "home" : "0"
+            },
             "awayTeamName" : "England",
             "homeTeamId" : "43901",
             "group" : "Group D",
@@ -737,10 +749,13 @@
          {
             "awayTeamId" : "43926",
             "homeTeamName" : "Japan",
-            "status" : "Scheduled",
+            "status" : "Full-time",
             "time" : "16:00",
             "date" : "24 Jun 2014",
-            "score" : null,
+            "score" : {
+               "away" : "4",
+               "home" : "1"
+            },
             "awayTeamName" : "Colombia",
             "homeTeamId" : "43819",
             "group" : "Group C",
@@ -752,10 +767,13 @@
          {
             "awayTeamId" : "43854",
             "homeTeamName" : "Greece",
-            "status" : "Scheduled",
+            "status" : "Full-time",
             "time" : "17:00",
             "date" : "24 Jun 2014",
-            "score" : null,
+            "score" : {
+               "away" : "1",
+               "home" : "2"
+            },
             "awayTeamName" : "Cote d'Ivoire",
             "homeTeamId" : "43949",
             "group" : "Group C",
@@ -772,10 +790,13 @@
          {
             "awayTeamId" : "43922",
             "homeTeamName" : "Nigeria",
-            "status" : "Scheduled",
+            "status" : "Full-time",
             "time" : "13:00",
             "date" : "25 Jun 2014",
-            "score" : null,
+            "score" : {
+               "away" : "3",
+               "home" : "2"
+            },
             "awayTeamName" : "Argentina",
             "homeTeamId" : "43876",
             "group" : "Group F",
@@ -787,10 +808,13 @@
          {
             "awayTeamId" : "43817",
             "homeTeamName" : "Bosnia and Herzegovina",
-            "status" : "Scheduled",
+            "status" : "Full-time",
             "time" : "13:00",
             "date" : "25 Jun 2014",
-            "score" : null,
+            "score" : {
+               "away" : "1",
+               "home" : "3"
+            },
             "awayTeamName" : "Iran",
             "homeTeamId" : "44037",
             "group" : "Group F",
@@ -802,10 +826,13 @@
          {
             "awayTeamId" : "43971",
             "homeTeamName" : "Honduras",
-            "status" : "Scheduled",
+            "status" : "Full-time",
             "time" : "16:00",
             "date" : "25 Jun 2014",
-            "score" : null,
+            "score" : {
+               "away" : "3",
+               "home" : "0"
+            },
             "awayTeamName" : "Switzerland",
             "homeTeamId" : "43909",
             "group" : "Group E",
@@ -817,10 +844,13 @@
          {
             "awayTeamId" : "43946",
             "homeTeamName" : "Ecuador",
-            "status" : "Scheduled",
+            "status" : "Full-time",
             "time" : "17:00",
             "date" : "25 Jun 2014",
-            "score" : null,
+            "score" : {
+               "away" : "0",
+               "home" : "0"
+            },
             "awayTeamName" : "France",
             "homeTeamId" : "43927",
             "group" : "Group E",
@@ -837,10 +867,13 @@
          {
             "awayTeamId" : "43860",
             "homeTeamName" : "Portugal",
-            "status" : "Scheduled",
+            "status" : "Full-time",
             "time" : "13:00",
             "date" : "26 Jun 2014",
-            "score" : null,
+            "score" : {
+               "away" : "1",
+               "home" : "2"
+            },
             "awayTeamName" : "Ghana",
             "homeTeamId" : "43963",
             "group" : "Group G",
@@ -852,10 +885,13 @@
          {
             "awayTeamId" : "43948",
             "homeTeamName" : "USA",
-            "status" : "Scheduled",
+            "status" : "Full-time",
             "time" : "13:00",
             "date" : "26 Jun 2014",
-            "score" : null,
+            "score" : {
+               "away" : "1",
+               "home" : "0"
+            },
             "awayTeamName" : "Germany",
             "homeTeamId" : "43921",
             "group" : "Group G",

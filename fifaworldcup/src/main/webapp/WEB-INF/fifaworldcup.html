@@ -1,0 +1,35 @@
+<html>
+
+	<head>
+		<title>2014 FIFA Worldcup Brazil</title>
+
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width; user-scalable=no; initial-scale=1; maximum-scale=1" />
+
+		<!-- Styles -->
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,300' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="css/style.css">
+
+		<!-- Scripts -->
+		<script src="js/lib/angular.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/lib/angular-route.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/app.js" type="text/javascript" charset="utf-8"></script>
+	</head>
+
+	<body ng-app="fifaworldcup">
+		<!-- App Header -->
+		<div class="screen-width app-header">
+			<img class="app-logo" src="img/logo.png">
+			<img class="app-title" src="img/app-title.png">
+		</div>
+
+		<!-- content -->
+		<div class="app-body" ng-view></div>
+
+		<!-- background image -->
+		<div class="screen-width motif">
+			<img class="screen-width" src="img/motif.png">
+		</div>
+	</body>
+
+</html>
