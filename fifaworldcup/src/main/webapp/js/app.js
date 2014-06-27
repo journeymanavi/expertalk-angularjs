@@ -30,4 +30,13 @@ angular.module("fifaworldcup", [
 		}
 	}]);
 }])
-.controller("doNothing", function() {});
+.directive("matchList", function() {
+	return {
+		restrict: 'E',
+		scope: {
+			matches : '=',
+			type: '@'
+		},
+		templateUrl: 'template/match-list.html'
+	};
+});

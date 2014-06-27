@@ -1,0 +1,17 @@
+<div class="card-section-heading">
+	{{type == 'results' ? 'Latest Results' : 'Coming Up'}} - {{matches.matchDate}}
+</div>
+<div class="card-section-body">
+	<ul class="matches-list">
+		<li class="match-item" ng-repeat="match in matches.matches">
+			<img class="small-flag home-flag" ng-src="img/flag/{{match.homeTeamCode | lowercase}}.png">
+			<span class="home-team-code">{{match.homeTeamCode}}</span>
+			<span ng-switch on="type">
+				<span ng-switch-when="results" class="score">{{match.score.home}}-{{match.score.away}}</span>
+				<span ng-switch-when="upcoming" class="score">{{match.time}}</span>
+			</span>
+			<img class="small-flag away-flag" ng-src="img/flag/{{match.awayTeamCode | lowercase}}.png">
+			<span class="away-team-code">{{match.awayTeamCode}}</span>
+		</li>
+	</ul>
+</div>

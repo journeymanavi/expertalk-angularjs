@@ -8,13 +8,8 @@
 				<div ng-include="'template/error.html'"></div>
 			</div>
 			<div ng-switch-when="success">
-				<div ng-init="matchSectionType='results'" ng-controller="doNothing">
-					<div ng-include="'template/match-section.html'"></div>
-				</div>
-
-				<div ng-init="matchSectionType='upcoming'" ng-controller="doNothing">
-					<div ng-include="'template/match-section.html'"></div>
-				</div>
+				<match-list type="results" matches="matchesSummary.getLatestResults()"></match-list>
+				<match-list type="upcoming" matches="matchesSummary.getNextScheduledMatchs()"></match-list>
 			</div>
 		</div>
 	</div>
