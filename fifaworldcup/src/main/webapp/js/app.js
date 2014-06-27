@@ -50,4 +50,14 @@ angular.module("fifaworldcup", [
 		},
 		replace: false
 	};
+})
+.filter('eedate', function($filter) {
+	return function(date, format) {
+		var parts = date.match(/(\d{4})-?(\d{2})-?(\d{2})/);
+		if (parts) {
+			return $filter('date')(new Date(parts[1], parts[2]-1, parts[3]), format);
+		} else {
+			return date;
+		}
+	};
 });

@@ -1,5 +1,5 @@
 <div class="card-section-heading">
-	{{type == 'results' ? 'Latest Results' : 'Coming Up'}} - {{matches.matchDate}}
+	{{type == 'results' ? 'Latest Results' : 'Coming Up'}} - {{matches.matchDate | eedate:'EEE, d MMM'}}
 </div>
 <div class="card-section-body">
 	<ul class="matches-list">

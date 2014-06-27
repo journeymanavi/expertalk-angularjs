@@ -35,7 +35,7 @@
 									</span>
 									<span ng-switch-when="player">
 										<li># <span> {{item.jerseyNumber}}</span></li>
-										<li>DOB <span> {{item.dob}}</span></li>
+										<li>DOB <span> {{item.dob | eedate:'dd MMM yyyy'}}</span></li>
 										<li>Team <span> {{item.teamName}}</span></li>
 										<li>Positon <span>{{item.fieldPosition}}</span></li>
 										<li>Club <span>{{item.club}}</span></li>
