@@ -1,18 +1,28 @@
-<div class="teams-page-item" ng-repeat="team in teams">	
-	<div class="div-table">
-		<div class="div-table-row">
-			<div class="teams-page-div-table-details-cell">
-				<div class="div-table-details-heading">
-					<img class="small-flag div-table-details-heading-flag" ng-src="img/flag/{{team.code | lowercase}}.png">
-					<span class="div-table-details-heading-team-name">{{team.name}}</span>
+<div ng-switch on="teams.status">
+	<div ng-switch-when="error">
+		<span class="error-message">
+			Sorry! This information is not available at the moment. Please try again later.
+		</span>
+	</div>
+	<div ng-switch-when="success">
+		<div class="teams-page-item" ng-repeat="team in teams">	
+			<div class="div-table">
+				<div class="div-table-row">
+					<div class="teams-page-div-table-details-cell">
+						<div class="div-table-details-heading">
+							<img class="small-flag div-table-details-heading-flag" ng-src="img/flag/{{team.code | lowercase}}.png">
+							<span class="div-table-details-heading-team-name">{{team.name}}</span>
+						</div>
+						<!-- <ul class="div-table-details-body-list">
+							<li ng-repeat="profileItem in team.profile">
+								<span>{{profileItem.value}}</span> 
+								<span>{{profileItem.item}}</span>
+							</li>
+						</ul> -->
+					</div>
 				</div>
-				<!-- <ul class="div-table-details-body-list">
-					<li ng-repeat="profileItem in team.profile">
-						<span>{{profileItem.value}}</span> 
-						<span>{{profileItem.item}}</span>
-					</li>
-				</ul> -->
 			</div>
 		</div>
 	</div>
 </div>
+	
