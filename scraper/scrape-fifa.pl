@@ -45,7 +45,7 @@ out("Done");
 exit 0;
 
 sub getMatches {
-	my $datesSelector = join(",", (map {"div[id^=\"201406$_\"]"} (1,20..26)));
+	my $datesSelector = join(",", (map {"div[id^=\"201406$_\"]"} (1,20..30)));
 	my $matchesScraper = scraper {
 		process $datesSelector, 'dates[]' => scraper {
 			process 'div', matchDate => '@id';

@@ -903,10 +903,13 @@
          {
             "awayTeamId" : "43935",
             "homeTeamName" : "Korea Republic",
-            "status" : "Scheduled",
+            "status" : "Full-time",
             "time" : "17:00",
             "date" : "26 Jun 2014",
-            "score" : null,
+            "score" : {
+               "away" : "1",
+               "home" : "0"
+            },
             "awayTeamName" : "Belgium",
             "homeTeamId" : "43822",
             "group" : "Group H",
@@ -918,10 +921,13 @@
          {
             "awayTeamId" : "43965",
             "homeTeamName" : "Algeria",
-            "status" : "Scheduled",
+            "status" : "Full-time",
             "time" : "17:00",
             "date" : "26 Jun 2014",
-            "score" : null,
+            "score" : {
+               "away" : "1",
+               "home" : "1"
+            },
             "awayTeamName" : "Russia",
             "homeTeamId" : "43843",
             "group" : "Group H",
@@ -929,6 +935,111 @@
             "venue" : "Curitiba ",
             "awayTeamCode" : "RUS",
             "stadium" : "Arena da Baixada"
+         }
+      ]
+   },
+   {
+      "matchDate" : "20140628",
+      "matches" : [
+         {
+            "awayTeamId" : "43925",
+            "homeTeamName" : "Brazil",
+            "status" : "Scheduled",
+            "time" : "13:00",
+            "date" : "28 Jun 2014",
+            "score" : null,
+            "awayTeamName" : "Chile",
+            "homeTeamId" : "43924",
+            "group" : "Round of 16",
+            "homeTeamCode" : "BRA",
+            "venue" : "Belo Horizonte ",
+            "awayTeamCode" : "CHI",
+            "stadium" : "Estadio Mineirao"
+         },
+         {
+            "awayTeamId" : "43930",
+            "homeTeamName" : "Colombia",
+            "status" : "Scheduled",
+            "time" : "17:00",
+            "date" : "28 Jun 2014",
+            "score" : null,
+            "awayTeamName" : "Uruguay",
+            "homeTeamId" : "43926",
+            "group" : "Round of 16",
+            "homeTeamCode" : "COL",
+            "venue" : "Rio De Janeiro ",
+            "awayTeamCode" : "URU",
+            "stadium" : "Estadio do Maracana"
+         }
+      ]
+   },
+   {
+      "matchDate" : "20140629",
+      "matches" : [
+         {
+            "awayTeamId" : "43911",
+            "homeTeamName" : "Netherlands",
+            "status" : "Scheduled",
+            "time" : "13:00",
+            "date" : "29 Jun 2014",
+            "score" : null,
+            "awayTeamName" : "Mexico",
+            "homeTeamId" : "43960",
+            "group" : "Round of 16",
+            "homeTeamCode" : "NED",
+            "venue" : "Fortaleza ",
+            "awayTeamCode" : "MEX",
+            "stadium" : "Estadio Castelao"
+         },
+         {
+            "awayTeamId" : "43949",
+            "homeTeamName" : "Costa Rica",
+            "status" : "Scheduled",
+            "time" : "17:00",
+            "date" : "29 Jun 2014",
+            "score" : null,
+            "awayTeamName" : "Greece",
+            "homeTeamId" : "43901",
+            "group" : "Round of 16",
+            "homeTeamCode" : "CRC",
+            "venue" : "Recife ",
+            "awayTeamCode" : "GRE",
+            "stadium" : "Arena Pernambuco"
+         }
+      ]
+   },
+   {
+      "matchDate" : "20140630",
+      "matches" : [
+         {
+            "awayTeamId" : "43876",
+            "homeTeamName" : "France",
+            "status" : "Scheduled",
+            "time" : "13:00",
+            "date" : "30 Jun 2014",
+            "score" : null,
+            "awayTeamName" : "Nigeria",
+            "homeTeamId" : "43946",
+            "group" : "Round of 16",
+            "homeTeamCode" : "FRA",
+            "venue" : "Brasilia ",
+            "awayTeamCode" : "NGA",
+            "stadium" : "Estadio Nacional"
+         },
+         {
+            "awayTeamId" : "43843",
+            "homeTeamName" : "Germany",
+            "status" : "Scheduled",
+            "time" : "17:00",
+            "date" : "30 Jun 2014",
+            "score" : null,
+            "awayTeamName" : "Algeria",
+            "homeTeamId" : "43948",
+            "group" : "Round of 16",
+            "homeTeamCode" : "GER",
+            "venue" : "Porto Alegre ",
+            "awayTeamCode" : "ALG",
+            "stadium" : "Estadio Beira-Rio"
          }
       ]
    }
