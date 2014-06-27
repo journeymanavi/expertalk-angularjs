@@ -39,4 +39,15 @@ angular.module("fifaworldcup", [
 		},
 		templateUrl: 'template/match-list.html'
 	};
+})
+.directive("svgSrc", function() {
+	return {
+		restrict: 'A',
+		link: function(scope, element, attr) { //positional args. Not injected!
+			var fallBack = attr.fallBack || 'png';
+			var isSvgSupported = Modernizr.svg;
+			element.attr('src', attr.svgSrc + "." + (isSvgSupported ? 'svg' : fallBack));
+		},
+		replace: false
+	};
 });
