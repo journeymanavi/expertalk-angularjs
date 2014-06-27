@@ -17,4 +17,16 @@ angular.module("fifaworldcup", [
 		controller: "playersController",
 		templateUrl: "template/players.html"
 	});
+}])
+.config(["$httpProvider", function($httpProvider) {
+	$httpProvider.interceptors.push(['$q', '$location','$rootScope', function($q, $location, $rootScope) {
+		return {
+			'responseError' : function(rejection) {
+				if(rejection.status == 401) {
+					window.location.href = "/fifaworldcup/readytoplay";
+				}
+				return $q.reject(rejection);
+			}
+		}
+	}]);
 }]);
