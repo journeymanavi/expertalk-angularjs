@@ -1,0 +1,56 @@
+<div class="card">
+	<div class="card-heading">
+		Featured {{featuredCard == 'team' ? 'Team' : 'Player'}}
+	</div>
+	<div class="card-body">
+		<div ng-switch on="(featuredCard == 'team' ? teams.status : players.status)">
+			<div ng-switch-when="error">
+				<span ng-include="'template/error.html'"></span>
+			</div>
+			<div ng-switch-when="success">
+				<div ng-repeat="item in (featuredCard == 'team' ? teams : players) | filter:{featured:'true'}">
+					<div class="div-table">
+						<div class="div-table-row">
+							<div class="div-table-logo-cell" ng-switch on="featuredCard">
+								<img ng-switch-when="team" class="div-table-logo" ng-src="img/team-logo/{{item.code | lowercase}}.gif">
+								<img ng-switch-when="player" class="div-table-logo" ng-src="img/player/{{item.id}}.png">
+							</div>
+							<div class="div-table-details-cell">
+								<div class="div-table-details-heading" ng-switch on="featuredCard">
+									<span ng-switch-when="team">
+										<img class="small-flag div-table-details-heading-flag" ng-src="img/flag/{{item.code | lowercase}}.png">
+										<span class="div-table-details-heading-team-name">{{item.name}}</span>
+									</span>
+									<span ng-switch-when="player">
+										<img class="small-flag div-table-details-heading-flag" ng-src="img/flag/{{item.teamCode | lowercase}}.png">
+										<span class="div-table-details-heading-team-name">{{item.name}}</span>
+									</span>
+								</div>
+								<ul class="div-table-details-body-list" ng-switch on="featuredCard">
+									<span ng-switch-when="team">
+										<li ng-repeat="profileItem in item.profile">
+											<span>{{profileItem.value}}</span> 
+											<span>{{profileItem.item}}</span>
+										</li>
+									</span>
+									<span ng-switch-when="player">
+										<li># <span> {{item.jerseyNumber}}</span></li>
+										<li>DOB <span> {{item.dob}}</span></li>
+										<li>Team <span> {{item.teamName}}</span></li>
+										<li>Positon <span>{{item.fieldPosition}}</span></li>
+										<li>Club <span>{{item.club}}</span></li>
+									</span>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+				<hr class="card-section-separator">
+				<span ng-switch on="featuredCard">
+					<div ng-switch-when="team" class="card-footer card-footer-text"><a href="#/teams">> More Teams</a></div>
+					<div ng-switch-when="player" class="card-footer card-footer-text"><a href="#/players">> More Players</a></div>
+				</span>
+			</div>
+		</div>
+	</div>
+</div>

@@ -1,8 +1,6 @@
 <div ng-switch on="teams.status">
 	<div ng-switch-when="error">
-		<span class="error-message">
-			Sorry! This information is not available at the moment. Please try again later.
-		</span>
+		<span ng-include="'template/error.html'"></span>
 	</div>
 	<div ng-switch-when="success">
 		<div class="teams-page-item" ng-repeat="team in teams">	

@@ -29,4 +29,5 @@ angular.module("fifaworldcup", [
 			}
 		}
 	}]);
-}]);
+}])
+.controller("doNothing", function() {});

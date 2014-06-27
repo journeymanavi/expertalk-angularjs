@@ -1,8 +1,6 @@
 <div ng-switch on="players.status">
 	<div ng-switch-when="error">
-		<span class="error-message">
-			Sorry! This information is not available at the moment. Please try again later.
-		</span>
+		<span ng-include="'template/error.html'"></span>
 	</div>
 	<div ng-switch-when="success">
 		<input class="player-filter" type="text" name="" ng-model="playerFilter" placeholder="search by anything">
