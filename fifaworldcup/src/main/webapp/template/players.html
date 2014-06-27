@@ -1,4 +1,7 @@
 <div ng-switch on="players.status">
+	<div ng-switch-when="loading" style="text-align: center">
+		<img style="opacity:0.7" src="img/loading.gif"> Loading...
+	</div>
 	<div ng-switch-when="error">
 		<span ng-include="'template/error.html'"></span>
 	</div>
