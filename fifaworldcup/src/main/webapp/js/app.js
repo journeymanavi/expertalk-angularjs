@@ -1,4 +1,9 @@
-angular.module("fifaworldcup", ["ngRoute"])
+angular.module("fifaworldcup", [
+	"ngRoute",
+	"matchesControllers",
+	"teamsModule",
+	"playersModule"
+])
 .config(["$routeProvider", function($routeProvider) {
 	$routeProvider
 	.when("/", {
@@ -12,46 +17,4 @@ angular.module("fifaworldcup", ["ngRoute"])
 		controller: "playersController",
 		templateUrl: "template/players.html"
 	});
-}])
-.controller("matchesController", function($scope, $http) {
-	$http.get('api/matches')
-	.success(function(response) {
-		$scope.matchesByDate = response;
-
-		$scope.getLatestResults = function() {
-			var currentDate = new Date().toISOString().substr(0,10).replace(/-/g, ""); //YYYMMDD
-			var matches = $scope.matchesByDate;
-			matches = matches.filter(function(e) {
-				return parseInt(e.matchDate) < parseInt(currentDate);
-			});
-			matches.sort(function(a, b) {
-				return parseInt(a.matchDate) - parseInt(b.matchDate);
-			});
-			return matches[matches.length-1];
-		};
-
-		$scope.getNextScheduledMatchs = function() {
-			var currentDate = new Date().toISOString().substr(0,10).replace(/-/g, ""); //YYYMMDD
-			var matches = $scope.matchesByDate;
-			matches = matches.filter(function(e) {
-				return parseInt(e.matchDate) >= parseInt(currentDate);
-			});
-			matches.sort(function(a, b) {
-				return parseInt(a.matchDate) - parseInt(b.matchDate);
-			});
-			return matches[0];
-		};
-	});
-})
-.controller("teamsController", function($scope, $http) {
-	$http.get('api/teams')
-	.success(function(response) {
-		$scope.teams = response;
-	});
-})
-.controller("playersController", function($scope, $http) {
-	$http.get('api/players')
-	.success(function(response) {
-		$scope.players = response;
-	});
-});
+}]);

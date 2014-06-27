@@ -2,13 +2,13 @@
 	<div class="card-heading">
 		Matches
 	</div>
-	<div class="card-body" ng-controller="matchesController">
+	<div class="card-body" ng-controller="matchesSummaryController">
 		<div class="card-section-heading">
 			Latest Results - {{getLatestResults().matchDate}}
 		</div>
 		<div class="card-section-body">
 			<ul class="matches-list">
-				<li class="match-item" ng-repeat="match in getLatestResults().matches">
+				<li class="match-item" ng-repeat="match in matchesSummary.getLatestResults().matches">
 					<img class="small-flag home-flag" ng-src="img/flag/{{match.homeTeamCode | lowercase}}.png">
 					<span class="home-team-code">{{match.homeTeamCode}}</span>
 					<span class="score">{{match.score.home}}-{{match.score.away}}</span>
@@ -23,7 +23,7 @@
 		</div>
 		<div class="card-section-body">
 			<ul class="matches-list">
-				<li class="match-item" ng-repeat="match in getNextScheduledMatchs().matches">
+				<li class="match-item" ng-repeat="match in matchesSummary.getNextScheduledMatchs().matches">
 					<img class="small-flag home-flag" ng-src="img/flag/{{match.homeTeamCode | lowercase}}.png" alt="{{match.homeTeamCode}}">
 					<span class="home-team-code">{{match.homeTeamCode}}</span>
 					<span class="score">{{match.time}}</span>
