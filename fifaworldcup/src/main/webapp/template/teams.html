@@ -2,10 +2,10 @@
 	<div ng-switch-when="loading" style="text-align: center">
 		<img style="opacity:0.7" src="img/loading.gif"> Loading...
 	</div>
-	<div ng-switch-when="error">
+	<div ng-switch-when="error" class="my-animate">
 		<span ng-include="'template/error.html'"></span>
 	</div>
-	<div ng-switch-when="success">
+	<div ng-switch-when="success" class="my-animate">
 		<div class="teams-page-item" ng-repeat="team in teams">	
 			<div class="div-table">
 				<div class="div-table-row">

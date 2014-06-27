@@ -251,3 +251,17 @@ a {
 	font-size: 15px;
 
 }
+
+.my-animate.ng-enter{
+	transition: 0.5s linear all;
+	opacity: 0;
+}
+
+.my-animate.ng-enter-active{
+	opacity: 1;
+}
+
+.my-animate.ng-leave, .my-animate.ng-leave-active{
+	transition: none;
+	opacity: 0;
+}

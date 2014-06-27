@@ -1,5 +1,6 @@
 angular.module("fifaworldcup", [
 	"ngRoute",
+	"ngAnimate",
 	"matchesControllers",
 	"teamsModule",
 	"playersModule"
