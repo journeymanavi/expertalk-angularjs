@@ -3,34 +3,43 @@
 		Matches
 	</div>
 	<div class="card-body" ng-controller="matchesSummaryController">
-		<div class="card-section-heading">
-			Latest Results - {{getLatestResults().matchDate}}
-		</div>
-		<div class="card-section-body">
-			<ul class="matches-list">
-				<li class="match-item" ng-repeat="match in matchesSummary.getLatestResults().matches">
-					<img class="small-flag home-flag" ng-src="img/flag/{{match.homeTeamCode | lowercase}}.png">
-					<span class="home-team-code">{{match.homeTeamCode}}</span>
-					<span class="score">{{match.score.home}}-{{match.score.away}}</span>
-					<img class="small-flag away-flag" ng-src="img/flag/{{match.awayTeamCode | lowercase}}.png">
-					<span class="away-team-code">{{match.awayTeamCode}}</span>
-				</li>
-			</ul>
-		</div>
+		<div ng-switch on="matchesSummary.status">
+			<div ng-switch-when="error">
+				<span class="error-message">
+					Sorry! This information is not available at the moment. Please try again later.
+				</span>
+			</div>
+			<div ng-switch-when="success">
+				<div class="card-section-heading">
+					Latest Results - {{matchesSummary.getLatestResults().matchDate}}
+				</div>
+				<div class="card-section-body">
+					<ul class="matches-list">
+						<li class="match-item" ng-repeat="match in matchesSummary.getLatestResults().matches">
+							<img class="small-flag home-flag" ng-src="img/flag/{{match.homeTeamCode | lowercase}}.png">
+							<span class="home-team-code">{{match.homeTeamCode}}</span>
+							<span class="score">{{match.score.home}}-{{match.score.away}}</span>
+							<img class="small-flag away-flag" ng-src="img/flag/{{match.awayTeamCode | lowercase}}.png">
+							<span class="away-team-code">{{match.awayTeamCode}}</span>
+						</li>
+					</ul>
+				</div>
 
-		<div class="card-section-heading">
-			Coming Up - {{getNextScheduledMatchs().matchDate}}
-		</div>
-		<div class="card-section-body">
-			<ul class="matches-list">
-				<li class="match-item" ng-repeat="match in matchesSummary.getNextScheduledMatchs().matches">
-					<img class="small-flag home-flag" ng-src="img/flag/{{match.homeTeamCode | lowercase}}.png" alt="{{match.homeTeamCode}}">
-					<span class="home-team-code">{{match.homeTeamCode}}</span>
-					<span class="score">{{match.time}}</span>
-					<img class="small-flag away-flag" ng-src="img/flag/{{match.awayTeamCode | lowercase}}.png" alt="{{match.awayTeamCode}}">
-					<span class="away-team-code">{{match.awayTeamCode}}</span>
-				</li>
-			</ul>
+				<div class="card-section-heading">
+					Coming Up - {{matchesSummary.getNextScheduledMatchs().matchDate}}
+				</div>
+				<div class="card-section-body">
+					<ul class="matches-list">
+						<li class="match-item" ng-repeat="match in matchesSummary.getNextScheduledMatchs().matches">
+							<img class="small-flag home-flag" ng-src="img/flag/{{match.homeTeamCode | lowercase}}.png" alt="{{match.homeTeamCode}}">
+							<span class="home-team-code">{{match.homeTeamCode}}</span>
+							<span class="score">{{match.time}}</span>
+							<img class="small-flag away-flag" ng-src="img/flag/{{match.awayTeamCode | lowercase}}.png" alt="{{match.awayTeamCode}}">
+							<span class="away-team-code">{{match.awayTeamCode}}</span>
+						</li>
+					</ul>
+				</div>
+			</div>
 		</div>
 	</div>
 </div>
@@ -40,30 +49,39 @@
 		Featured Team
 	</div>
 	<div class="card-body" ng-controller="teamsController">
-		<div ng-repeat="team in teams | filter:{featured:'true'}">
-			<div class="div-table">
-				<div class="div-table-row">
-					<div class="div-table-logo-cell">
-						<img class="div-table-logo" ng-src="img/team-logo/{{team.code | lowercase}}.gif">
-					</div>
-					<div class="div-table-details-cell">
-						<div class="div-table-details-heading">
-							<img class="small-flag div-table-details-heading-flag" ng-src="img/flag/{{team.code | lowercase}}.png">
-							<span class="div-table-details-heading-team-name">{{team.name}}</span>
+		<div ng-switch on="teams.status">
+			<div ng-switch-when="error">
+				<span class="error-message">
+					Sorry! This information is not available at the moment. Please try again later.
+				</span>
+			</div>
+			<div ng-switch-when="success">
+				<div ng-repeat="team in teams | filter:{featured:'true'}">
+					<div class="div-table">
+						<div class="div-table-row">
+							<div class="div-table-logo-cell">
+								<img class="div-table-logo" ng-src="img/team-logo/{{team.code | lowercase}}.gif">
+							</div>
+							<div class="div-table-details-cell">
+								<div class="div-table-details-heading">
+									<img class="small-flag div-table-details-heading-flag" ng-src="img/flag/{{team.code | lowercase}}.png">
+									<span class="div-table-details-heading-team-name">{{team.name}}</span>
+								</div>
+								<ul class="div-table-details-body-list">
+									<li ng-repeat="profileItem in team.profile">
+										<span>{{profileItem.value}}</span> 
+										<span>{{profileItem.item}}</span>
+									</li>
+								</ul>
+							</div>
 						</div>
-						<ul class="div-table-details-body-list">
-							<li ng-repeat="profileItem in team.profile">
-								<span>{{profileItem.value}}</span> 
-								<span>{{profileItem.item}}</span>
-							</li>
-						</ul>
 					</div>
 				</div>
+				<hr class="card-section-separator">
+				<div class="card-footer card-footer-text"><a href="#/teams">> More Teams</a></div>
 			</div>
 		</div>
 	</div>
-	<hr class="card-section-separator">
-	<div class="card-footer card-footer-text"><a href="#/teams">> More Teams</a></div>
 </div>
 
 <div class="card">
@@ -71,29 +89,38 @@
 		Featured Player
 	</div>
 	<div class="card-body" ng-controller="playersController">
-		<div ng-repeat="player in players | filter:{featured:'true'}">
-			<div class="div-table">
-				<div class="div-table-row">
-					<div class="div-table-logo-cell">
-						<img class="div-table-logo" ng-src="img/player/{{player.id}}.png">
-					</div>
-					<div class="div-table-details-cell">
-						<div class="div-table-details-heading">
-							<img class="small-flag div-table-details-heading-flag" ng-src="img/flag/{{player.teamCode | lowercase}}.png">
-							<span class="div-table-details-heading-team-name">{{player.name}}</span>
+		<div ng-switch on="players.status">
+			<div ng-switch-when="error">
+				<span class="error-message">
+					Sorry! This information is not available at the moment. Please try again later.
+				</span>
+			</div>
+			<div ng-switch-when="success">
+				<div ng-repeat="player in players | filter:{featured:'true'}">
+					<div class="div-table">
+						<div class="div-table-row">
+							<div class="div-table-logo-cell">
+								<img class="div-table-logo" ng-src="img/player/{{player.id}}.png">
+							</div>
+							<div class="div-table-details-cell">
+								<div class="div-table-details-heading">
+									<img class="small-flag div-table-details-heading-flag" ng-src="img/flag/{{player.teamCode | lowercase}}.png">
+									<span class="div-table-details-heading-team-name">{{player.name}}</span>
+								</div>
+								<ul class="div-table-details-body-list">
+									<li># <span> {{player.jerseyNumber}}</span></li>
+									<li>DOB <span> {{player.dob}}</span></li>
+									<li>Team <span> {{player.teamName}}</span></li>
+									<li>Positon <span>{{player.fieldPosition}}</span></li>
+									<li>Club <span>{{player.club}}</span></li>
+								</ul>
+							</div>
 						</div>
-						<ul class="div-table-details-body-list">
-							<li># <span> {{player.jerseyNumber}}</span></li>
-							<li>DOB <span> {{player.dob}}</span></li>
-							<li>Team <span> {{player.teamName}}</span></li>
-							<li>Positon <span>{{player.fieldPosition}}</span></li>
-							<li>Club <span>{{player.club}}</span></li>
-						</ul>
 					</div>
 				</div>
+				<hr class="card-section-separator">
+				<div class="card-footer card-footer-text"><a href="#/players">> More Players</a></div>
 			</div>
 		</div>
 	</div>
-	<hr class="card-section-separator">
-	<div class="card-footer card-footer-text"><a href="#/players">> More Players</a></div>
 </div>

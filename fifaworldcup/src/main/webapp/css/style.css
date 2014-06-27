@@ -245,3 +245,9 @@ a {
 .player-filter {
 	width: 100%;
 }
+
+.error-message {
+	color: #aa3333;
+	font-size: 15px;
+
+}

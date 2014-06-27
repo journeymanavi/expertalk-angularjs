@@ -5,7 +5,10 @@ angular.module("matchesServices", [])
 	allMatchesService.getMatchesSummary = function(callBack) {
 		$http.get('api/matches')
 		.success(function(response) {
-			callBack(new MatchesSummary(response))
+			callBack(new MatchesSummary(response));
+		})
+		.error(function(response) {
+			callBack(new MatchesSummary({error: true}));
 		});
 	};
 

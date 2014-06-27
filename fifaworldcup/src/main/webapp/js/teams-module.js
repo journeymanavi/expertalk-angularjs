@@ -3,5 +3,9 @@ angular.module("teamsModule", [])
 	$http.get('api/teams')
 	.success(function(response) {
 		$scope.teams = response;
+		$scope.teams.status = "success";
+	})
+	.error(function(response) {
+		$scope.teams = {status : "error"};
 	});
 });
