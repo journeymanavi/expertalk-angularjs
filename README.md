@@ -10,3 +10,4 @@ Steps to get the backend running
 - clone this repo
 - go to the fifaworlcup sub-directory
 - run gradle command 'gradle clean build jettyRun'. This will get the backend running on 8080.
+- You should now be able to access the app on http://localhost:8080/fifaworldcup
