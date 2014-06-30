@@ -3,8 +3,8 @@ angularjs-expertalk
 
 Repository for all collateral for the Jun 2014 Expertalk on AngularJS
 
-Steps to start get the backend running
---------------------------------------
+Steps to get the backend running
+--------------------------------
 - Make sure Gradle is installed and on the PATH
 - Make sure JAVA_HOME is set correctly
 - clone this repo
