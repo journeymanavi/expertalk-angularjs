@@ -15,7 +15,7 @@ Steps to get the backend running
 How to follow the sequence of steps
 -----------------------------------
 
-The talk was organised in the form of iteratively improving the app implementation. We start at step-00 where we have the basic app working using most common AngularJS constructs and features. We then go on step by step up to the final step-08, an in doing so we cover some of the more advance AngularJS features, that we used in our client app build. Here are quick instructions to replay these steps yourselves using this repo:
+The talk was organised in the form of iteratively improving the app implementation. We start at step-00 where we have the basic app working using most common AngularJS constructs and features. We then go on step by step up to the final step-08, and in doing so we cover some of the more advance AngularJS features, that we used in our client app build. Here are quick instructions to replay these steps yourself using this repo:
 
 1.  Clone this repo, so you get a local copy
 2.  Each step in the demo is saved in the repo in the form of a Git Tag, on the 'master' branch
