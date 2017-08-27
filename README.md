@@ -1,9 +1,7 @@
 angularjs-expertalk
 ===================
 
-<div style="float:right; margin-left: 40px; margin-bottom: 40px">
 ![Angular FIFA](./angular-expertalks.png)
-</div>
 
 Repository for all collateral for the Jun 2014 Expertalk on AngularJS
 
